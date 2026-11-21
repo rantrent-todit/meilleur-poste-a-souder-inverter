@@ -1,0 +1,533 @@
+{
+  "folderName": "meilleur-poste-a-souder-inverter",
+  "siteName": "InverterExpert",
+  "domain": "https://meilleur-poste-a-souder-inverter.fr",
+  "lastUpdated": "2026-11-21T10:37:07.469Z",
+  "summary": {
+    "total": 25,
+    "relevantCount": 25,
+    "irrelevantCount": 0,
+    "longTitlesCount": 0
+  },
+  "products": [
+    {
+      "file": "andeli-poste-a-souder-6-en-1-230v-mig-pulse-160a-tig-hf-plasma-40a-alu.md",
+      "slug": "andeli-poste-a-souder-6-en-1-230v-mig-pulse-160a-tig-hf-plasma-40a-alu",
+      "title": "ANDELI MCT-416P - Poste Multi-Procédés 6-en-1 160A & Plasma",
+      "titleLength": 59,
+      "imageUrl": "https://m.media-amazon.com/images/I/71DR+sEzvEL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0FNR8DV1S/?tag=amazonwp0b-21",
+      "shortDesc": "Banc d'essai complet du poste à souder ANDELI MCT-416P 6 en 1 : MIG Pulse 160A, TIG HF et découpeur Plasma 40A. Analyse technique et avis d'expert indépendant.",
+      "categories": [
+        "postes-inverter-decoupeur-plasma",
+        "postes-tig-inverter-hf",
+        "postes-multi-procedes-synergiques"
+      ],
+      "words": 2600,
+      "isRelevant": true,
+      "verdict": "CONFORME",
+      "reason": "Appareil complet multi-procédés combinant soudage MIG pulsé, TIG HF et découpeur plasma.",
+      "isTitleTooLong": false,
+      "suggestedTitle": "ANDELI MCT-416P - Poste Multi-Procédés 6-en-1 160A & Plasma",
+      "titleReason": "Ajout de la référence exacte du modèle et synthèse élégante des fonctions phares."
+    },
+    {
+      "file": "arccaptain-poste-a-souder-arc-200-a-2-en-1-avec-lift-tig-230-v.md",
+      "slug": "arccaptain-poste-a-souder-arc-200-a-2-en-1-avec-lift-tig-230-v",
+      "title": "ARCCAPTAIN Poste à Souder ARC 200 A 2 en 1 avec Lift TIG, 230 V",
+      "titleLength": 63,
+      "imageUrl": "https://m.media-amazon.com/images/I/71L0FPbvLfL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0B6G6M9Y8/?tag=amazonwp0b-21",
+      "shortDesc": "Banc d'essai complet du poste à souder ARCCAPTAIN ARC 200 A : contrôle synergique, grand écran LED, compatibilité Lift TIG et électrodes 6010 à 7018.",
+      "categories": [
+        "postes-inverter-200a-plus",
+        "postes-mma-inverter",
+        "postes-tig-inverter-lift"
+      ],
+      "words": 2055,
+      "isRelevant": true,
+      "verdict": "CONFORME",
+      "reason": "Poste à souder inverter complet gérant les procédés MMA et Lift TIG jusqu'à 200A.",
+      "isTitleTooLong": false,
+      "suggestedTitle": "ARCCAPTAIN ARC 200 - Poste à Souder MMA & Lift TIG 200A",
+      "titleReason": "Formatage harmonisé Marque + Modèle + Procédés sans séparateurs superflus."
+    },
+    {
+      "file": "arccaptain-poste-a-souder-mig-200a-6-en-1-soldador-inverter-igbt-de-230v.md",
+      "slug": "arccaptain-poste-a-souder-mig-200a-6-en-1-soldador-inverter-igbt-de-230v",
+      "title": "ARCCAPTAIN MIG 200 - Poste Multi-Procédés Synergique 200A",
+      "titleLength": 57,
+      "imageUrl": "https://m.media-amazon.com/images/I/71ZAjVJHHjL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0B942YPM5/?tag=amazonwp0b-21",
+      "shortDesc": "Test complet du poste à souder ARCCAPTAIN MIG 200A : technologie Inverter IGBT 6-en-1, polyvalence des procédés et précision pour ateliers exigeants.",
+      "categories": [
+        "postes-inverter-200a-plus",
+        "postes-multi-procedes-synergiques",
+        "postes-fil-fourre-sans-gaz"
+      ],
+      "words": 1884,
+      "isRelevant": true,
+      "verdict": "CONFORME",
+      "reason": "Poste à souder MIG/MAG multi-procédés synergique complet de 200A.",
+      "isTitleTooLong": false,
+      "suggestedTitle": "ARCCAPTAIN MIG 200 - Poste Multi-Procédés Synergique 200A",
+      "titleReason": "Suppression du terme espagnol 'Soldador' et des détails techniques redondants."
+    },
+    {
+      "file": "decapower-poste-a-souder-litearc-120-portable-mma-lift-tig-120a.md",
+      "slug": "decapower-poste-a-souder-litearc-120-portable-mma-lift-tig-120a",
+      "title": "Decapower Poste à Souder LITEARC-120 Portable MMA LIFT-TIG 120A",
+      "titleLength": 63,
+      "imageUrl": "https://m.media-amazon.com/images/I/71lTIc0W8XL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0GY89PHN6/?tag=amazonwp0b-21",
+      "shortDesc": "Test approfondi du poste à souder Decapower LITEARC-120. Découvrez l'efficacité de la technologie Syncweld, sa polyvalence MMA et Lift-TIG, et son ventilateur intelligent.",
+      "categories": [
+        "postes-inverter-ultra-portables",
+        "postes-mma-inverter",
+        "postes-tig-inverter-lift"
+      ],
+      "words": 1821,
+      "isRelevant": true,
+      "verdict": "CONFORME",
+      "reason": "Générateur de soudage inverter ultra-portable MMA et Lift TIG complet.",
+      "isTitleTooLong": false,
+      "suggestedTitle": "Decapower LITEARC-120 - Poste MMA & Lift TIG 120A",
+      "titleReason": "Nettoyage de la casse et présentation synthétique Marque + Modèle + Caractéristiques."
+    },
+    {
+      "file": "feifanke-140a-ultra-mini-poste-a-souder-arc-inverter-poste-a-souder.md",
+      "slug": "feifanke-140a-ultra-mini-poste-a-souder-arc-inverter-poste-a-souder",
+      "title": "FEIFANKE Mini 140A - Poste à Souder MMA Inverter",
+      "titleLength": 48,
+      "imageUrl": "https://m.media-amazon.com/images/I/71FkFjF8VdL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0D2R86W4B/?tag=amazonwp0b-21",
+      "shortDesc": "Banc d'essai complet du poste à souder ultra-compact FEIFANKE 140A : technologie IGBT, amorçage Lift TIG, écran LED et test d'endurance sur électrodes.",
+      "categories": [
+        "postes-inverter-ultra-portables",
+        "postes-inverter-130a-160a",
+        "postes-mma-inverter"
+      ],
+      "words": 1904,
+      "isRelevant": true,
+      "verdict": "CONFORME",
+      "reason": "Machine de soudage inverter ultra-compacte pour électrodes enrobées (MMA).",
+      "isTitleTooLong": false,
+      "suggestedTitle": "FEIFANKE Mini 140A - Poste à Souder MMA Inverter",
+      "titleReason": "Suppression du doublon 'Poste A Souder' et clarification de la formule commerciale."
+    },
+    {
+      "file": "feifanke-poste-a-souder-fil-fourre-sans-gaz-135a-220v-poste-a-souder-mig.md",
+      "slug": "feifanke-poste-a-souder-fil-fourre-sans-gaz-135a-220v-poste-a-souder-mig",
+      "title": "FEIFANKE 135A - Poste à Souder Fil Fourré No Gas",
+      "titleLength": 48,
+      "imageUrl": "https://m.media-amazon.com/images/I/71THD1mV13L._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0D3ZYYBMV/?tag=amazonwp0b-21",
+      "shortDesc": "Test technique du poste FEIFANKE 135A : découvrez notre banc d'essai complet sur ce modèle synergique 3-en-1 sans gaz avec technologie inverter IGBT.",
+      "categories": [
+        "postes-fil-fourre-sans-gaz",
+        "postes-inverter-130a-160a"
+      ],
+      "words": 2324,
+      "isRelevant": true,
+      "verdict": "CONFORME",
+      "reason": "Poste à souder compact sans gaz (No Gas / Flux Core) complet.",
+      "isTitleTooLong": false,
+      "suggestedTitle": "FEIFANKE 135A - Poste à Souder Fil Fourré No Gas",
+      "titleReason": "Élimination des répétitions de mots-clés et simplification du titre."
+    },
+    {
+      "file": "gys-gysmi-160a-poste-a-souder-mma-160a-avec-valise-et-accessoires.md",
+      "slug": "gys-gysmi-160a-poste-a-souder-mma-160a-avec-valise-et-accessoires",
+      "title": "GYS GYSMI 160A - Poste à Souder MMA Inverter",
+      "titleLength": 44,
+      "imageUrl": "https://m.media-amazon.com/images/I/71s0RFtyypL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0F3D1TGS5/?tag=amazonwp0b-21",
+      "shortDesc": "Test approfondi du poste à souder GYS GYSMI 160A Inverter MMA. Analyse technique, stabilité d'arc, cycle de marche et avis complet d'experts.",
+      "categories": [
+        "postes-mma-inverter",
+        "postes-inverter-130a-160a"
+      ],
+      "words": 2000,
+      "isRelevant": true,
+      "verdict": "CONFORME",
+      "reason": "Poste à souder MMA inverter de fabrication reconnue, vendu en ensemble complet prêt à souder.",
+      "isTitleTooLong": false,
+      "suggestedTitle": "GYS GYSMI 160A - Poste à Souder MMA Inverter",
+      "titleReason": "Retrait des virgules parasites et de la mention des accessoires secondaires."
+    },
+    {
+      "file": "gys-gysmi-160p-poste-a-souder-a-l-electrode-enrobee-160a-monophase-230v-mma-arc-.md",
+      "slug": "gys-gysmi-160p-poste-a-souder-a-l-electrode-enrobee-160a-monophase-230v-mma-arc-",
+      "title": "GYS GYSMI 160P - Poste à Souder MMA Inverter 160A",
+      "titleLength": 49,
+      "imageUrl": "https://m.media-amazon.com/images/I/514Lv5Q0B3L._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B008MXXHJ8/?tag=amazonwp0b-21",
+      "shortDesc": "Banc d'essai complet du poste à souder inverter GYS GYSMI 160P : analyse technique, test des électrodes jusqu'à 4 mm et avis d'expert sur ses performances réelles.",
+      "categories": [
+        "postes-mma-inverter",
+        "postes-inverter-130a-160a"
+      ],
+      "words": 2628,
+      "isRelevant": true,
+      "verdict": "CONFORME",
+      "reason": "Poste inverter complet pour soudage MMA à l'électrode enrobée.",
+      "isTitleTooLong": false,
+      "suggestedTitle": "GYS GYSMI 160P - Poste à Souder MMA Inverter 160A",
+      "titleReason": "Suppression de la longue liste de fonctionnalités électroniques et d'accessoires."
+    },
+    {
+      "file": "harukiku135a-poste-a-souder-fil-fourre-sans-gaz-poste-a-souder-3-en-1-flux-mig-a.md",
+      "slug": "harukiku135a-poste-a-souder-fil-fourre-sans-gaz-poste-a-souder-3-en-1-flux-mig-a",
+      "title": "Harukiku 135A - Poste Fil Fourré & Multi-Procédés 3-en-1",
+      "titleLength": 56,
+      "imageUrl": "https://m.media-amazon.com/images/I/810vbVAaWUL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0FWBMPYSY/?tag=amazonwp0b-21",
+      "shortDesc": "Banc d'essai complet du Harukiku 135A : un poste multi-procédés 3 en 1 compact, doté de la régulation synergique du fil fourré et de la technologie IGBT.",
+      "categories": [
+        "postes-fil-fourre-sans-gaz",
+        "postes-inverter-130a-160a",
+        "postes-multi-procedes-synergiques"
+      ],
+      "words": 2231,
+      "isRelevant": true,
+      "verdict": "CONFORME",
+      "reason": "Poste à souder inverter complet 3-en-1 dédié au fil fourré sans gaz et à l'arc.",
+      "isTitleTooLong": false,
+      "suggestedTitle": "Harukiku 135A - Poste Fil Fourré & Multi-Procédés 3-en-1",
+      "titleReason": "Suppression du bourrage de mots-clés massif et du texte promotionnel."
+    },
+    {
+      "file": "haxiaoer-145a-poste-a-souder-fil-fourre-3-en-1-mig-arc-mma-lift-tig.md",
+      "slug": "haxiaoer-145a-poste-a-souder-fil-fourre-3-en-1-mig-arc-mma-lift-tig",
+      "title": "HAXIAOER 145A - Poste Fil Fourré Sans Gaz 3-en-1",
+      "titleLength": 48,
+      "imageUrl": "https://m.media-amazon.com/images/I/61evxhoJQ8L._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0DFYHFQKP/?tag=amazonwp0b-21",
+      "shortDesc": "Banc d'essai complet du poste à souder HAXIAOER 145A. Analyse technique de la technologie IGBT 3 en 1, test au fil fourré sans gaz et avis d'expert.",
+      "categories": [
+        "postes-fil-fourre-sans-gaz",
+        "postes-inverter-130a-160a",
+        "postes-multi-procedes-synergiques"
+      ],
+      "words": 1828,
+      "isRelevant": true,
+      "verdict": "CONFORME",
+      "reason": "Machine de soudage complète multi-procédés avec fil fourré sans gaz.",
+      "isTitleTooLong": false,
+      "suggestedTitle": "HAXIAOER 145A - Poste Fil Fourré Sans Gaz 3-en-1",
+      "titleReason": "Condensation de l'énumération de procédés en un titre fluide et percutant."
+    },
+    {
+      "file": "hitbox-poste-a-souder-mig-sans-gaz-200a-soudeuse-3-en-1-flux-core-mig-arc-lift-t.md",
+      "slug": "hitbox-poste-a-souder-mig-sans-gaz-200a-soudeuse-3-en-1-flux-core-mig-arc-lift-t",
+      "title": "HITBOX HBM1200 - Poste MIG Sans Gaz 200A 3-en-1",
+      "titleLength": 47,
+      "imageUrl": "https://m.media-amazon.com/images/I/71TASPEamPL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B09MZ2PR3L/?tag=amazonwp0b-21",
+      "shortDesc": "Banc d'essai complet du poste à souder HITBOX HBM1200 : une solution 3-en-1 Inverter IGBT compacte, économique et accessible pour le soudage sans gaz.",
+      "categories": [
+        "postes-inverter-200a-plus",
+        "postes-fil-fourre-sans-gaz",
+        "postes-multi-procedes-synergiques"
+      ],
+      "words": 2124,
+      "isRelevant": true,
+      "verdict": "CONFORME",
+      "reason": "Poste inverter multi-fonctions 200A complet avec dévidoir intégré.",
+      "isTitleTooLong": false,
+      "suggestedTitle": "HITBOX HBM1200 - Poste MIG Sans Gaz 200A 3-en-1",
+      "titleReason": "Mise en avant de la référence HBM1200 et élagage drastique de la description d'accessoires."
+    },
+    {
+      "file": "hzxvogen-mig145ii-145a-poste-a-souder-fil-fourre-sans-gaz-3-en-1-mig-arc-lift-ti.md",
+      "slug": "hzxvogen-mig145ii-145a-poste-a-souder-fil-fourre-sans-gaz-3-en-1-mig-arc-lift-ti",
+      "title": "HZXVOGEN MIG145II - Poste Fil Fourré Sans Gaz 145A",
+      "titleLength": 50,
+      "imageUrl": "https://m.media-amazon.com/images/I/71448TfwRsL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0GD7242B2/?tag=amazonwp0b-21",
+      "shortDesc": "Banc d'essai complet du HZXVOGEN MIG145II : un poste à souder 145A multi-procédés à réglage synergique, idéal pour l'apprentissage et le bricolage.",
+      "categories": [
+        "postes-fil-fourre-sans-gaz",
+        "postes-inverter-130a-160a",
+        "postes-multi-procedes-synergiques"
+      ],
+      "words": 2122,
+      "isRelevant": true,
+      "verdict": "CONFORME",
+      "reason": "Poste inverter 145A complet spécialisé en fil fourré sans gaz et synergique.",
+      "isTitleTooLong": false,
+      "suggestedTitle": "HZXVOGEN MIG145II - Poste Fil Fourré Sans Gaz 145A",
+      "titleReason": "Suppression du bourrage de spécifications techniques et de la cible débutants."
+    },
+    {
+      "file": "ipotools-flux-135-poste-a-souder-fil-fourre-sans-gaz-135-a-flux-poste-a-souder-i.md",
+      "slug": "ipotools-flux-135-poste-a-souder-fil-fourre-sans-gaz-135-a-flux-poste-a-souder-i",
+      "title": "IPOTOOLS FLUX-135 – Poste à souder sans gaz 135A IGBT",
+      "titleLength": 53,
+      "imageUrl": "https://m.media-amazon.com/images/I/81nP-ydeZnL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0CND86LL5/?tag=amazonwp0b-21",
+      "shortDesc": "Banc d'essai complet du poste à souder inverter IPOTOOLS FLUX-135. Performances en fil fourré sans gaz, MMA, technologie IGBT et garantie 7 ans analysées.",
+      "categories": [
+        "postes-fil-fourre-sans-gaz",
+        "postes-inverter-130a-160a",
+        "postes-mma-inverter"
+      ],
+      "words": 2646,
+      "isRelevant": true,
+      "verdict": "CONFORME",
+      "reason": "Appareil complet de soudage inverter sans gaz (FLUX) et MMA.",
+      "isTitleTooLong": false,
+      "suggestedTitle": "IPOTOOLS FLUX-135 – Poste à souder sans gaz 135A IGBT",
+      "titleReason": "Suppression des répétitions inutiles et mise en valeur de la technologie clé."
+    },
+    {
+      "file": "ipotools-mig-160er-poste-a-souder-mig-mag-poste-a-souder-mig-avec-160a-230v-igbt.md",
+      "slug": "ipotools-mig-160er-poste-a-souder-mig-mag-poste-a-souder-mig-avec-160a-230v-igbt",
+      "title": "IPOTOOLS MIG-160ER – Poste à souder multi-procédés 160A",
+      "titleLength": 55,
+      "imageUrl": "https://m.media-amazon.com/images/I/81-7OB0R6CL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B08K96PXG2/?tag=amazonwp0b-21",
+      "shortDesc": "Banc d'essai complet du poste IPOTOOLS MIG-160ER : technologie IGBT 160A, polyvalence 5 en 1 MIG MAG MMA Flux et garantie constructeur de 7 ans au crible.",
+      "categories": [
+        "postes-multi-procedes-synergiques",
+        "postes-inverter-130a-160a",
+        "postes-fil-fourre-sans-gaz"
+      ],
+      "words": 2340,
+      "isRelevant": true,
+      "verdict": "CONFORME",
+      "reason": "Poste à souder multi-procédés complet (MIG, MAG, MMA, Flux).",
+      "isTitleTooLong": false,
+      "suggestedTitle": "IPOTOOLS MIG-160ER – Poste à souder multi-procédés 160A",
+      "titleReason": "Titre raccourci, plus percutant et sans bourrage de mots-clés."
+    },
+    {
+      "file": "ipotools-mig-160ers-poste-a-souder-mig-mag-poste-a-souder-mig-avec-160a-230v-igb.md",
+      "slug": "ipotools-mig-160ers-poste-a-souder-mig-mag-poste-a-souder-mig-avec-160a-230v-igb",
+      "title": "IPOTOOLS MIG-160ERS – Poste à souder MIG/MAG et MMA 160A",
+      "titleLength": 56,
+      "imageUrl": "https://m.media-amazon.com/images/I/81Dhf8zAifL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0CN1KL77T/?tag=amazonwp0b-21",
+      "shortDesc": "Banc d'essai complet du poste à souder IPOTOOLS MIG-160ERS : 160A, technologie IGBT, multi-procédés MIG/MAG/Flux/MMA et garantie constructeur de 7 ans.",
+      "categories": [
+        "postes-multi-procedes-synergiques",
+        "postes-inverter-130a-160a",
+        "postes-fil-fourre-sans-gaz"
+      ],
+      "words": 2232,
+      "isRelevant": true,
+      "verdict": "CONFORME",
+      "reason": "Machine de soudage complète multi-procédés avec technologie inverter IGBT.",
+      "isTitleTooLong": false,
+      "suggestedTitle": "IPOTOOLS MIG-160ERS – Poste à souder MIG/MAG et MMA 160A",
+      "titleReason": "Élimination des redondances et structure Marque + Modèle + Caractéristiques."
+    },
+    {
+      "file": "mini-poste-a-souder-inverter-145a-igbt-poste-a-souder-arc-lift-tig-pince-de-terr.md",
+      "slug": "mini-poste-a-souder-inverter-145a-igbt-poste-a-souder-arc-lift-tig-pince-de-terr",
+      "title": "ARC145 – Mini poste à souder inverter 145A ARC & Lift TIG",
+      "titleLength": 57,
+      "imageUrl": "https://m.media-amazon.com/images/I/61-zf214JnL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0DJP5M4Q6/?tag=amazonwp0b-21",
+      "shortDesc": "Banc d'essai complet du poste à souder ARC145 : technologie IGBT, double procédé MMA et Lift TIG, affichage numérique et tests réels sur électrodes.",
+      "categories": [
+        "postes-tig-inverter-lift",
+        "postes-inverter-130a-160a",
+        "postes-mma-inverter"
+      ],
+      "words": 1760,
+      "isRelevant": true,
+      "verdict": "CONFORME",
+      "reason": "Mini poste à souder inverter complet MMA et Lift TIG.",
+      "isTitleTooLong": false,
+      "suggestedTitle": "ARC145 – Mini poste à souder inverter 145A ARC & Lift TIG",
+      "titleReason": "Retrait de la liste d'accessoires et mise en avant du modèle et des procédés."
+    },
+    {
+      "file": "poste-a-souder-3-en-1-mig-250a-220v-inverter-machine-de-soudage-portable-mig-arc.md",
+      "slug": "poste-a-souder-3-en-1-mig-250a-220v-inverter-machine-de-soudage-portable-mig-arc",
+      "title": "Poste à souder 3-en-1 Inverter 250A – MIG, ARC & TIG",
+      "titleLength": 52,
+      "imageUrl": "https://m.media-amazon.com/images/I/71sn4Fj4m8L._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0GY8V4DR1/?tag=amazonwp0b-21",
+      "shortDesc": "Banc d'essai complet du poste à souder inverter 3 en 1 MIG 250A. Analyse technique du fil fourré, MMA et Lift TIG pour l'atelier et le garage.",
+      "categories": [
+        "postes-multi-procedes-synergiques",
+        "postes-inverter-200a-plus",
+        "postes-fil-fourre-sans-gaz"
+      ],
+      "words": 2386,
+      "isRelevant": true,
+      "verdict": "CONFORME",
+      "reason": "Machine de soudage multi-procédés complète 250A.",
+      "isTitleTooLong": false,
+      "suggestedTitle": "Poste à souder 3-en-1 Inverter 250A – MIG, ARC & TIG",
+      "titleReason": "Suppression des mentions génériques de contexte (DIY, garage, atelier)."
+    },
+    {
+      "file": "poste-a-souder-a-l-arc-mma130-numerique-mini-poste-a-souder-inverter-compact-et-.md",
+      "slug": "poste-a-souder-a-l-arc-mma130-numerique-mini-poste-a-souder-inverter-compact-et-",
+      "title": "MMA130 Numérique – Mini poste à souder à l'arc inverter 130A",
+      "titleLength": 60,
+      "imageUrl": "https://m.media-amazon.com/images/I/71wVMkix5kL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0G2RFRJBZ/?tag=amazonwp0b-21",
+      "shortDesc": "Banc d'essai complet du mini poste inverter MMA130 numérique : compacité record, câbles de 3+2 m, fonctions d'assistance et performances sur le terrain.",
+      "categories": [
+        "postes-mma-inverter",
+        "postes-inverter-ultra-portables",
+        "postes-inverter-130a-160a"
+      ],
+      "words": 2517,
+      "isRelevant": true,
+      "verdict": "CONFORME",
+      "reason": "Poste à souder à l'arc inverter ultra-compact complet.",
+      "isTitleTooLong": false,
+      "suggestedTitle": "MMA130 Numérique – Mini poste à souder à l'arc inverter 130A",
+      "titleReason": "Suppression des dimensions détaillées et des répétitions descriptives."
+    },
+    {
+      "file": "poste-a-souder-mma-250a-220v-avec-ecran-led-onduleur-igbt-portable-avec-hot-star.md",
+      "slug": "poste-a-souder-mma-250a-220v-avec-ecran-led-onduleur-igbt-portable-avec-hot-star",
+      "title": "Poste à souder MMA 250A Inverter IGBT – Écran LED",
+      "titleLength": 49,
+      "imageUrl": "https://m.media-amazon.com/images/I/71g4uI7cI1L._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0FDKT5Y97/?tag=amazonwp0b-21",
+      "shortDesc": "Banc d'essai complet du poste à souder MMA 250A IGBT : écran LED, assistances Hot Start, Arc Force, Anti-Stick et performances réelles en atelier.",
+      "categories": [
+        "postes-mma-inverter",
+        "postes-inverter-200a-plus"
+      ],
+      "words": 2264,
+      "isRelevant": true,
+      "verdict": "CONFORME",
+      "reason": "Poste de soudage inverter MMA 250A complet.",
+      "isTitleTooLong": false,
+      "suggestedTitle": "Poste à souder MMA 250A Inverter IGBT – Écran LED",
+      "titleReason": "Suppression de la liste des fonctionnalités secondaires et des cas d'usage."
+    },
+    {
+      "file": "soarfly-poste-a-souder-250a-poste-a-souder-mma-220v-avec-technologie-igbt-invert.md",
+      "slug": "soarfly-poste-a-souder-250a-poste-a-souder-mma-220v-avec-technologie-igbt-invert",
+      "title": "SOARFLY 250A – Poste à souder MMA inverter IGBT",
+      "titleLength": 47,
+      "imageUrl": "https://m.media-amazon.com/images/I/71FEQ8nkowL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0GYYKSP47/?tag=amazonwp0b-21",
+      "shortDesc": "Banc d'essai complet du poste à souder MMA SOARFLY 250A. Analyse technique du circuit IGBT, des fonctions Hot Start, Arc Force et du test sur acier.",
+      "categories": [
+        "postes-mma-inverter",
+        "postes-inverter-200a-plus"
+      ],
+      "words": 2136,
+      "isRelevant": true,
+      "verdict": "CONFORME",
+      "reason": "Poste de soudage MMA inverter complet.",
+      "isTitleTooLong": false,
+      "suggestedTitle": "SOARFLY 250A – Poste à souder MMA inverter IGBT",
+      "titleReason": "Retrait des mentions d'accessoires (électrodes) et formatage épuré."
+    },
+    {
+      "file": "stahlwerk-poste-a-souder-combine-2-en-1-ac-dc-tig-200-st-tig-mma-arc-jusqu-a-200.md",
+      "slug": "stahlwerk-poste-a-souder-combine-2-en-1-ac-dc-tig-200-st-tig-mma-arc-jusqu-a-200",
+      "title": "STAHLWERK AC/DC TIG 200 ST – Poste combiné TIG HF & MMA 200A",
+      "titleLength": 60,
+      "imageUrl": "https://m.media-amazon.com/images/I/61JsjpgAkQL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0G8HHSGZY/?tag=amazonwp0b-21",
+      "shortDesc": "Banc d'essai complet du STAHLWERK AC/DC TIG 200 ST : poste inverter 200 A polyvalent pour l'aluminium, l'inox et l'acier avec amorçage HF et mode MMA.",
+      "categories": [
+        "postes-tig-inverter-hf",
+        "postes-inverter-200a-plus",
+        "postes-mma-inverter"
+      ],
+      "words": 2030,
+      "isRelevant": true,
+      "verdict": "CONFORME",
+      "reason": "Poste à souder complet TIG AC/DC haute fréquence et MMA.",
+      "isTitleTooLong": false,
+      "suggestedTitle": "STAHLWERK AC/DC TIG 200 ST – Poste combiné TIG HF & MMA 200A",
+      "titleReason": "Condensation technique sans perte d'information essentielle."
+    },
+    {
+      "file": "stahlwerk-poste-a-souder-mig-mag-160-m-onduleur-combine-5-en-1-compact-de-160-a-.md",
+      "slug": "stahlwerk-poste-a-souder-mig-mag-160-m-onduleur-combine-5-en-1-compact-de-160-a-",
+      "title": "STAHLWERK MIG/MAG 160 M – Poste combiné multi-procédés 160A",
+      "titleLength": 59,
+      "imageUrl": "https://m.media-amazon.com/images/I/61i4Xo4RogL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0GF2M462Z/?tag=amazonwp0b-21",
+      "shortDesc": "Banc d'essai complet du STAHLWERK MIG/MAG 160 M. Analyse technique de cet onduleur combiné 5-en-1 de 160 A pesant 6,8 kg pour MIG, FLUX, MMA et Lift-TIG.",
+      "categories": [
+        "postes-multi-procedes-synergiques",
+        "postes-inverter-130a-160a",
+        "postes-fil-fourre-sans-gaz"
+      ],
+      "words": 2388,
+      "isRelevant": true,
+      "verdict": "CONFORME",
+      "reason": "Onduleur combiné complet 5-en-1 pour soudage multi-procédés.",
+      "isTitleTooLong": false,
+      "suggestedTitle": "STAHLWERK MIG/MAG 160 M – Poste combiné multi-procédés 160A",
+      "titleReason": "Suppression de l'énumération verbeuse du poids et des détails techniques."
+    },
+    {
+      "file": "stamos-germany-s-mma-250pi-2-poste-a-souder-a-l-arc-poste-a-souder-inverter-mma-.md",
+      "slug": "stamos-germany-s-mma-250pi-2-poste-a-souder-a-l-arc-poste-a-souder-inverter-mma-",
+      "title": "Stamos Germany S-MMA-250PI.2 – Poste à souder MMA 250A",
+      "titleLength": 54,
+      "imageUrl": "https://m.media-amazon.com/images/I/61f8LRoMMSL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B076H4QFGW/?tag=amazonwp0b-21",
+      "shortDesc": "Banc d'essai complet du Stamos Germany S-MMA-250PI.2 : un poste inverter MMA 250 A puissant, équipé de câbles de 8 mètres et de la technologie IGBT.",
+      "categories": [
+        "postes-mma-inverter",
+        "postes-inverter-200a-plus"
+      ],
+      "words": 1946,
+      "isRelevant": true,
+      "verdict": "CONFORME",
+      "reason": "Poste à souder à l'arc inverter professionnel complet de 250A.",
+      "isTitleTooLong": false,
+      "suggestedTitle": "Stamos Germany S-MMA-250PI.2 – Poste à souder MMA 250A",
+      "titleReason": "Élimination des mots-clés répétés (soudage, soudure) et des détails secondaires."
+    },
+    {
+      "file": "vector-welding-poste-a-souder-fil-fourre-sans-gaz-130a-mig-mma-inverter.md",
+      "slug": "vector-welding-poste-a-souder-fil-fourre-sans-gaz-130a-mig-mma-inverter",
+      "title": "VECTOR WELDING 130A – Poste à souder sans gaz & MMA",
+      "titleLength": 51,
+      "imageUrl": "https://m.media-amazon.com/images/I/71FguaDntkL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0CCXQ932C/?tag=amazonwp0b-21",
+      "shortDesc": "Banc d'essai complet du poste à souder VECTOR WELDING 130A. Analyse technique du procédé sans gaz no-gas flux et MMA, mesures réelles et avis d'expert.",
+      "categories": [
+        "postes-fil-fourre-sans-gaz",
+        "postes-inverter-130a-160a",
+        "postes-mma-inverter"
+      ],
+      "words": 2987,
+      "isRelevant": true,
+      "verdict": "CONFORME",
+      "reason": "Poste à souder complet sans gaz et MMA 130A.",
+      "isTitleTooLong": false,
+      "suggestedTitle": "VECTOR WELDING 130A – Poste à souder sans gaz & MMA",
+      "titleReason": "Titre d'origine acceptable mais optimisé pour une typographie plus nette."
+    },
+    {
+      "file": "vevor-poste-a-souder-mig-250-a-machine-de-soudage-portable-multi-processus-mig-m.md",
+      "slug": "vevor-poste-a-souder-mig-250-a-machine-de-soudage-portable-multi-processus-mig-m",
+      "title": "Poste à souder VEVOR MIG 250 A (MIG / MMA / TIG Lift)",
+      "titleLength": 53,
+      "imageUrl": "https://m.media-amazon.com/images/I/718xiPm9cvL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0C8HF8N9J/?tag=amazonwp0b-21",
+      "shortDesc": "Banc d'essai complet du poste à souder VEVOR MIG 250 A : test technique, polyvalence 3 en 1, performances réelles sur acier et avis d'expert indépendant.",
+      "categories": [
+        "postes-multi-procedes-synergiques",
+        "postes-inverter-200a-plus",
+        "postes-tig-inverter-lift"
+      ],
+      "words": 2165,
+      "isRelevant": true,
+      "verdict": "CONFORME",
+      "reason": "Machine de soudage multi-procédés complète (MIG, MMA, TIG Lift) de 250 A, parfaitement conforme aux catégories du site.",
+      "isTitleTooLong": false,
+      "suggestedTitle": "Poste à souder VEVOR MIG 250 A (MIG / MMA / TIG Lift)",
+      "titleReason": "Suppression du bourrage de mots-clés et mise en avant claire de la marque, de l'ampérage et des procédés supportés."
+    }
+  ]
+}

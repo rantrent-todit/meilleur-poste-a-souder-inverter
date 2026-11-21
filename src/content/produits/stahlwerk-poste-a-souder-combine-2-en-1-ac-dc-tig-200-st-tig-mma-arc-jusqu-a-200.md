@@ -1,11 +1,11 @@
 ---
-titre: "STAHLWERK Poste à souder combiné 2-en-1 AC/DC TIG 200 ST – TIG & MMA (ARC) jusqu'à 200 A, amorçage HF, Hotstart, Anti-Stick, mode 2T & 4T, soudage AC TIG pour aluminium, technologie IGBT"
+titre: "STAHLWERK AC/DC TIG 200 ST – Poste combiné TIG HF & MMA 200A"
 description_courte: "Banc d'essai complet du STAHLWERK AC/DC TIG 200 ST : poste inverter 200 A polyvalent pour l'aluminium, l'inox et l'acier avec amorçage HF et mode MMA."
 description_longue: "Analyse technique approfondie du poste à souder combiné STAHLWERK AC/DC TIG 200 ST. Équipé d'onduleurs IGBT de pointe, de l'amorçage haute fréquence sans contact et d'une gestion complète du courant alternatif pour l'aluminium, cet appareil offre une polyvalence remarquable pour l'artisanat, la métallerie et l'atelier exigeant."
 categories: ["postes-tig-inverter-hf","postes-inverter-200a-plus","postes-mma-inverter"]
 image_url: "https://m.media-amazon.com/images/I/61JsjpgAkQL._AC_UL960_FMwebp_QL65_.jpg"
 lien_affiliation: "https://www.amazon.fr/dp/B0G8HHSGZY/?tag=amazonwp0b-21"
-meta_title: "STAHLWERK Poste à souder combiné 2-en-1 AC/DC TIG 200 ST – TIG & MMA (ARC) jusqu'à 200 A, amorçage HF, Hotstart, Anti-Stick, mode 2T & 4T, soudage AC TIG pour aluminium, technologie IGBT : Test, Avis et Banc d'Essai"
+meta_title: "STAHLWERK AC/DC TIG 200 ST – Poste combiné TIG HF & MMA 200A : Test, Avis et Banc d'Essai"
 meta_description: "Avis complet et test indépendant sur STAHLWERK Poste à souder combiné 2-en-1 AC/DC TIG 200 ST – TIG & MMA (ARC) jusqu'à 200 A, amorçage HF, Hotstart, Anti-Stick, mode 2T & 4T, soudage AC TIG pour aluminium, technologie IGBT. Découvrez ses performances réelles et points forts."
 ---
 

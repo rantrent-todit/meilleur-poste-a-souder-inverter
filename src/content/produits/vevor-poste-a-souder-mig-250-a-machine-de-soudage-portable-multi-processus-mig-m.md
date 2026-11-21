@@ -1,11 +1,11 @@
 ---
-titre: "VEVOR Poste à Souder MIG, 250 A, Machine de Soudage Portable Multi-processus MIG MMA LIFT TIG 3 en 1 Soudeur pour Acier au Carbone Fer Acier Inox"
+titre: "Poste à souder VEVOR MIG 250 A (MIG / MMA / TIG Lift)"
 description_courte: "Banc d'essai complet du poste à souder VEVOR MIG 250 A : test technique, polyvalence 3 en 1, performances réelles sur acier et avis d'expert indépendant."
 description_longue: "Découvrez notre évaluation approfondie du poste à souder multi-procédés VEVOR MIG 250 A. Analyse des performances en MIG/MAG, fil fourré sans gaz, MMA et Lift TIG sur acier au carbone et inox pour orienter votre choix d'atelier."
 categories: ["postes-multi-procedes-synergiques","postes-inverter-200a-plus","postes-tig-inverter-lift"]
 image_url: "https://m.media-amazon.com/images/I/718xiPm9cvL._AC_UL960_FMwebp_QL65_.jpg"
 lien_affiliation: "https://www.amazon.fr/dp/B0C8HF8N9J/?tag=amazonwp0b-21"
-meta_title: "VEVOR Poste à Souder MIG, 250 A, Machine de Soudage Portable Multi-processus MIG MMA LIFT TIG 3 en 1 Soudeur pour Acier au Carbone Fer Acier Inox : Test, Avis et Banc d'Essai"
+meta_title: "Poste à souder VEVOR MIG 250 A (MIG / MMA / TIG Lift) : Test, Avis et Banc d'Essai"
 meta_description: "Avis complet et test indépendant sur VEVOR Poste à Souder MIG, 250 A, Machine de Soudage Portable Multi-processus MIG MMA LIFT TIG 3 en 1 Soudeur pour Acier au Carbone Fer Acier Inox. Découvrez ses performances réelles et points forts."
 ---
 

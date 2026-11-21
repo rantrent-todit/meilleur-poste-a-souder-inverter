@@ -1,11 +1,11 @@
 ---
-titre: "ANDELI Poste à souder 6 en 1 230V - MIG Pulse 160A/TIG HF/Plasma 40A Alu"
+titre: "ANDELI MCT-416P - Poste Multi-Procédés 6-en-1 160A & Plasma"
 description_courte: "Banc d'essai complet du poste à souder ANDELI MCT-416P 6 en 1 : MIG Pulse 160A, TIG HF et découpeur Plasma 40A. Analyse technique et avis d'expert indépendant."
 description_longue: "Examen technique approfondi du poste multifonction ANDELI MCT-416P 230V. Avec sa technologie onduleur IGBT, son amorçage TIG haute fréquence, sa fonction MIG Pulse adaptée à l'aluminium et son découpeur plasma intégré de 40A, cette unité tout-en-un vise à remplacer trois machines distinctes dans l'atelier."
 categories: ["postes-inverter-decoupeur-plasma","postes-tig-inverter-hf","postes-multi-procedes-synergiques"]
 image_url: "https://m.media-amazon.com/images/I/71DR+sEzvEL._AC_UL960_FMwebp_QL65_.jpg"
 lien_affiliation: "https://www.amazon.fr/dp/B0FNR8DV1S/?tag=amazonwp0b-21"
-meta_title: "ANDELI Poste à souder 6 en 1 230V - MIG Pulse 160A/TIG HF/Plasma 40A Alu : Test, Avis et Banc d'Essai"
+meta_title: "ANDELI MCT-416P - Poste Multi-Procédés 6-en-1 160A & Plasma : Test, Avis et Banc d'Essai"
 meta_description: "Avis complet et test indépendant sur ANDELI Poste à souder 6 en 1 230V - MIG Pulse 160A/TIG HF/Plasma 40A Alu. Découvrez ses performances réelles et points forts."
 ---
 

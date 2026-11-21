@@ -1,11 +1,11 @@
 ---
-titre: "GYS, GYSMI 160P, Poste à Souder à l'Électrode Enrobée 160A Monophasé 230V (MMA), Arc Force, Antisticking, Hot Start, Avec Valise, Porte-électrode, Câble de Masse"
+titre: "GYS GYSMI 160P - Poste à Souder MMA Inverter 160A"
 description_courte: "Banc d'essai complet du poste à souder inverter GYS GYSMI 160P : analyse technique, test des électrodes jusqu'à 4 mm et avis d'expert sur ses performances réelles."
 description_longue: "Découvrez notre banc d'essai exhaustif du GYSMI 160P de GYS. Ce poste à souder inverter MMA de 160 ampères monophasé intègre les assistances électroniques Hot Start, Arc Force et Antisticking. Analyse détaillée de sa conception, de son facteur de marche, de son comportement avec électrodes rutiles et basiques, et bilan complet de nos tests en atelier."
 categories: ["postes-mma-inverter","postes-inverter-130a-160a"]
 image_url: "https://m.media-amazon.com/images/I/514Lv5Q0B3L._AC_UL960_FMwebp_QL65_.jpg"
 lien_affiliation: "https://www.amazon.fr/dp/B008MXXHJ8/?tag=amazonwp0b-21"
-meta_title: "GYS, GYSMI 160P, Poste à Souder à l'Électrode Enrobée 160A Monophasé 230V (MMA), Arc Force, Antisticking, Hot Start, Avec Valise, Porte-électrode, Câble de Masse : Test, Avis et Banc d'Essai"
+meta_title: "GYS GYSMI 160P - Poste à Souder MMA Inverter 160A : Test, Avis et Banc d'Essai"
 meta_description: "Avis complet et test indépendant sur GYS, GYSMI 160P, Poste à Souder à l'Électrode Enrobée 160A Monophasé 230V (MMA), Arc Force, Antisticking, Hot Start, Avec Valise, Porte-électrode, Câble de Masse. Découvrez ses performances réelles et points forts."
 ---
 

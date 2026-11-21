@@ -1,11 +1,11 @@
 ---
-titre: "ARCCAPTAIN Poste à Souder MIG, 200A 6-en-1, Soldador Inverter IGBT de 230V"
+titre: "ARCCAPTAIN MIG 200 - Poste Multi-Procédés Synergique 200A"
 description_courte: "Test complet du poste à souder ARCCAPTAIN MIG 200A : technologie Inverter IGBT 6-en-1, polyvalence des procédés et précision pour ateliers exigeants."
 description_longue: "Banc d'essai indépendant du poste à souder ARCCAPTAIN MIG 200A. Découvrez ses performances en MIG, MAG, fil fourré FCAW, MMA et Lift TIG, ainsi que notre analyse sur son arc stable et son ergonomie."
 categories: ["postes-inverter-200a-plus","postes-multi-procedes-synergiques","postes-fil-fourre-sans-gaz"]
 image_url: "https://m.media-amazon.com/images/I/71ZAjVJHHjL._AC_UL960_FMwebp_QL65_.jpg"
 lien_affiliation: "https://www.amazon.fr/dp/B0B942YPM5/?tag=amazonwp0b-21"
-meta_title: "ARCCAPTAIN Poste à Souder MIG, 200A 6-en-1, Soldador Inverter IGBT de 230V : Test, Avis et Banc d'Essai"
+meta_title: "ARCCAPTAIN MIG 200 - Poste Multi-Procédés Synergique 200A : Test, Avis et Banc d'Essai"
 meta_description: "Avis complet et test indépendant sur ARCCAPTAIN Poste à Souder MIG, 200A 6-en-1, Soldador Inverter IGBT de 230V. Découvrez ses performances réelles et points forts."
 ---
 
