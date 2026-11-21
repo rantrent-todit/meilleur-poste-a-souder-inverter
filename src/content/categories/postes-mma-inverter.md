@@ -1,6 +1,6 @@
 ---
 titre_h1: "Postes à souder MMA inverter"
-titre_seo: "Meilleurs Postes MMA Inverter : Comparatif et Guide d'Achat Complet"Achat | InverterExpert"
+titre_seo: "Meilleurs Postes MMA Inverter : Comparatif et Guide d'Achat Complet"
 description_seo: "Sélection et banc d'essai des meilleurs postes à souder à l'arc MMA inverter. Guide complet pour choisir un poste fiable, stable et facile d'amorçage."
 faq:
   - q: "Quels sont les critères essentiels pour choisir un modèle dans la catégorie Postes MMA Inverter ?"

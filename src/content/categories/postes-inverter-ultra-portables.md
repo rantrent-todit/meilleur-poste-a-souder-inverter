@@ -1,6 +1,6 @@
 ---
 titre_h1: "Postes à souder inverter compacts de chantier"
-titre_seo: "Meilleurs Postes Inverter Ultra-Portables : Comparatif et Guide d'Achat | InverterExpert"
+titre_seo: "Meilleurs Postes Inverter Ultra-Portables : Comparatif et Guide d'Achat"
 description_seo: "Comparatif des postes inverter légers et transportables à bandoulière, conçus pour les interventions rapides, dépannages et accès difficiles."
 faq:
   - q: "Quels sont les critères essentiels pour choisir un modèle dans la catégorie Postes Inverter Ultra-Portables ?"

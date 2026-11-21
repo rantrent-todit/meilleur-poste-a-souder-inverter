@@ -1,6 +1,6 @@
 ---
 titre_h1: "Postes de soudure multi-procédés"
-titre_seo: "Meilleurs Postes Multi-Procédés Synergiques : Comparatif et Guide d'Achat | InverterExpert"
+titre_seo: "Meilleurs Postes Multi-Procédés Synergiques : Comparatif et Guide d'Achat"
 description_seo: "Sélection des postes inverter polyvalents 3-en-1 (MIG-MAG, TIG et MMA) à réglage synergique pour tous les types d'assemblages métalliques."
 faq:
   - q: "Quels sont les critères essentiels pour choisir un modèle dans la catégorie Postes Multi-Procédés Synergiques ?"

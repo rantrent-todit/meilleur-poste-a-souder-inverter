@@ -37,23 +37,30 @@ const allCategories = Array.from(categoryMap.entries())
 
 const siteUrl = siteConfig.siteDomain.replace(/\/$/, '');
 
-// FAQ par défaut enrichie pour le référencement et Schema.org FAQPage
+// Titres et descriptions SEO prioritaires (optimisés mot-clé "Meilleur", sans branding)
+const primaryKeyword = siteConfig.primaryKeyword || "Meilleur poste à souder inverter";
+const homeTitle = siteConfig.homeSeoTitle || `${primaryKeyword} : Comparatif, Tests & Guide`;
+const homeH1 = siteConfig.homeH1 || primaryKeyword;
+const homeTagline = siteConfig.homeTagline || "Comparatif indépendant et bancs d'essai des meilleurs modèles";
+const homeDescription = siteConfig.homeDescription || siteConfig.description;
+
+// FAQ enrichie pour le référencement et Schema.org FAQPage (intemporelle, sans dates)
 const faqItems = [
   {
-    q: `Comment notre équipe sélectionne-t-elle les modèles présentés sur ${siteConfig.siteName} ?`,
-    r: `Notre protocole d'analyse repose sur une étude comparative rigoureuse des caractéristiques techniques, des retours d'expérience vérifiés d'utilisateurs sur le long terme, et de bancs d'essai indépendants. Nous évaluons en priorité la fiabilité des composants, l'ergonomie d'utilisation et le rapport qualité-prix réel.`
+    q: "Comment notre équipe sélectionne-t-elle les modèles présentés dans ce comparatif ?",
+    r: "Notre protocole d'analyse repose sur une étude comparative rigoureuse des caractéristiques techniques, des retours d'expérience vérifiés d'utilisateurs sur le long terme, et de bancs d'essai indépendants. Nous évaluons en priorité la stabilité de l'arc, le facteur de marche réel, la qualité de l'électronique IGBT et l'ergonomie générale."
   },
   {
-    q: "Quels sont les critères décisifs à étudier avant de finaliser un achat ?",
-    r: "Les trois critères indispensables sont la qualité des matériaux de conception, l'adéquation exacte entre vos besoins réels et les performances annoncées, ainsi que la disponibilité des pièces de rechange et le sérieux du service après-vente du fabricant."
+    q: "Quels sont les critères décisifs pour choisir le meilleur poste à souder inverter ?",
+    r: "Les critères indispensables sont la plage d'intensité (en Ampères), le facteur de marche à température ambiante standard, la compatibilité des électrodes (rutile, basique, inox), ainsi que la présence d'aides électroniques à l'amorçage comme le Hot Start, l'Arc Force et l'Anti-Stick."
   },
   {
     q: "Les prix affichés sur le comparatif sont-ils actualisés ?",
-    r: "Les liens d'affiliation partenaires redirigent directement vers les boutiques officielles vérifiées où les tarifs, promotions et disponibilités des stocks sont actualisés en temps réel afin de vous garantir les conditions d'achat les plus avantageuses."
+    r: "Les liens d'accès partenaires redirigent directement vers les boutiques officielles vérifiées où les tarifs, promotions et disponibilités des stocks sont actualisés en temps réel afin de vous garantir les conditions d'achat les plus avantageuses."
   },
   {
-    q: "Comment entretenir durablement son équipement pour maximiser sa durée de vie ?",
-    r: "Un entretien régulier préventif, comprenant le nettoyage après chaque utilisation, le respect scrupuleux des préconisations du fabricant et le stockage dans un environnement sec et tempéré, permet d'éviter l'usure prématurée et de préserver un niveau de performance optimal au fil des années."
+    q: "Comment entretenir durablement son poste à souder inverter ?",
+    r: "Un entretien régulier préventif, comprenant le dépoussiérage des ouïes de ventilation par soufflage d'air sec, la vérification des connecteurs quart de tour Dinse et le stockage dans un environnement sec et tempéré, permet de préserver un niveau de performance optimal au fil des années."
   }
 ];
 
@@ -62,9 +69,9 @@ const websiteSchema = {
   "@graph": [
     {
       "@type": "WebSite",
-      "name": siteConfig.siteName,
+      "name": homeH1,
       "url": `${siteUrl}/`,
-      "description": siteConfig.description,
+      "description": homeDescription,
       "inLanguage": "fr-FR",
       "publisher": {
         "@type": "Organization",
@@ -82,8 +89,8 @@ const websiteSchema = {
     },
     ...(allProducts.length > 0 ? [{
       "@type": "ItemList",
-      "name": `Top Sélections | ${siteConfig.siteName}`,
-      "description": `Sélection des meilleurs modèles recommandés par les experts de ${siteConfig.siteName}.`,
+      "name": `Sélection des Meilleurs Modèles | ${primaryKeyword}`,
+      "description": `Sélection comparative des meilleurs modèles recommandés selon nos bancs d'essai.`,
       "itemListElement": allProducts.slice(0, 5).map((p, idx) => ({
         "@type": "ListItem",
         "position": idx + 1,
@@ -107,8 +114,8 @@ const websiteSchema = {
 ---
 
 <Layout
-  title={`${siteConfig.siteName} : Comparatifs et Tests d'Experts`}
-  description={siteConfig.description}
+  title={homeTitle}
+  description={homeDescription}
   breadcrumbs={[{ name: "Accueil", url: "/" }]}
 >
   <script type="application/ld+json" is:inline slot="extra-head" set:html={JSON.stringify(websiteSchema)} />
@@ -125,11 +132,11 @@ const websiteSchema = {
         </div>
 
         <h1 class="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-black text-slate-900 tracking-tight leading-[1.08] mb-6">
-          {siteConfig.siteName} : <span class="text-transparent bg-clip-text bg-gradient-to-r from-orange-600 via-amber-600 to-orange-500">{siteConfig.tagline}</span>
+          {homeH1} : <span class="text-transparent bg-clip-text bg-gradient-to-r from-orange-600 via-amber-600 to-orange-500">{homeTagline}</span>
         </h1>
 
         <p class="text-base sm:text-lg text-slate-600 mb-8 max-w-xl leading-relaxed">
-          {siteConfig.description}
+          {homeDescription}
         </p>
 
         <div class="flex flex-col sm:flex-row gap-4 items-stretch sm:items-center">

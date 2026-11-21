@@ -1,6 +1,6 @@
 ---
 titre_h1: "Postes inverter puissants de 200A et plus"
-titre_seo: "Meilleurs Postes Inverter 200A et Plus : Comparatif Puissance et Guide"Achat | InverterExpert"
+titre_seo: "Meilleurs Postes Inverter 200A et Plus : Comparatif et Guide"
 description_seo: "Notre sélection des postes inverter 200 ampères et plus pour gros travaux et fortes épaisseurs. Facteur de marche élevé et robustesse au banc d'essai."
 faq:
   - q: "Quels sont les critères essentiels pour choisir un modèle dans la catégorie Postes Inverter 200A et Plus ?"

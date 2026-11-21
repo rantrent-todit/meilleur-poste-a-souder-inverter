@@ -1,6 +1,6 @@
 ---
 titre_h1: "Postes TIG inverter avec amorçage Lift"
-titre_seo: "Meilleurs Postes TIG Inverter Lift : Comparatif et Guide de Choix"Achat | InverterExpert"
+titre_seo: "Meilleurs Postes TIG Inverter Lift : Comparatif et Guide de Choix"
 description_seo: "Guide d'achat et comparatif des postes inverter équipés de la fonction TIG Lift. Une solution abordable et précise pour la tuyauterie et les tôles fines."
 faq:
   - q: "Quels sont les critères essentiels pour choisir un modèle dans la catégorie Postes TIG Inverter Lift ?"

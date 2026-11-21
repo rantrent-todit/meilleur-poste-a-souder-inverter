@@ -1,6 +1,6 @@
 ---
 titre_h1: "Postes TIG inverter haute fréquence"
-titre_seo: "Meilleurs Postes TIG Inverter HF : Comparatif et Guide d'Achat | InverterExpert"
+titre_seo: "Meilleurs Postes TIG Inverter HF : Comparatif et Guide d'Achat"
 description_seo: "Comparatif des postes de soudage TIG inverter avec amorçage haute fréquence pour réaliser des soudures impeccables sur acier et inox."
 faq:
   - q: "Quels sont les critères essentiels pour choisir un modèle dans la catégorie Postes TIG Inverter HF ?"
