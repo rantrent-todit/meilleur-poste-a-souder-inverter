@@ -2,7 +2,7 @@
 titre: "HZXVOGEN MIG145II 145A Poste à Souder Fil Fourré Sans Gaz, 3 en 1 MIG/ARC/Lift TIG, Contrôle Synergique, IGBT Inverter, Écran LED, Compact pour Débutants & DIY Maison"
 description_courte: "Banc d'essai complet du HZXVOGEN MIG145II : un poste à souder 145A multi-procédés à réglage synergique, idéal pour l'apprentissage et le bricolage."
 description_longue: "Analyse technique détaillée du poste à souder HZXVOGEN MIG145II. Découvrez ses fonctionnalités 3-en-1, son comportement sur acier fin et ses réelles capacités d'assemblage sans gaz de protection."
-categories: ["meilleurs-modeles"]
+categories: ["postes-fil-fourre-sans-gaz","postes-inverter-130a-160a","postes-multi-procedes-synergiques"]
 image_url: "https://m.media-amazon.com/images/I/71448TfwRsL._AC_UL960_FMwebp_QL65_.jpg"
 lien_affiliation: "https://www.amazon.fr/dp/B0GD7242B2/?tag=amazonwp0b-21"
 meta_title: "HZXVOGEN MIG145II 145A Poste à Souder Fil Fourré Sans Gaz, 3 en 1 MIG/ARC/Lift TIG, Contrôle Synergique, IGBT Inverter, Écran LED, Compact pour Débutants & DIY Maison : Test, Avis et Banc d'Essai"

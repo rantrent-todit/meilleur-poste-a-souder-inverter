@@ -2,7 +2,7 @@
 titre: "HAXIAOER 145A Poste a Souder Fil Fourré 3 en 1 MIG/ARC MMA/LIFT TIG"
 description_courte: "Banc d'essai complet du poste à souder HAXIAOER 145A. Analyse technique de la technologie IGBT 3 en 1, test au fil fourré sans gaz et avis d'expert."
 description_longue: "Découvrez notre banc d'essai exhaustif du poste à souder HAXIAOER 145A 3 en 1. Équipé d'un afficheur numérique LED et de la technologie d'onduleur IGBT, ce générateur compact combine le soudage MIG sans gaz au fil fourré, l'électrode enrobée MMA et le procédé Lift TIG pour tous vos travaux métalliques."
-categories: ["meilleurs-modeles"]
+categories: ["postes-fil-fourre-sans-gaz","postes-inverter-130a-160a","postes-multi-procedes-synergiques"]
 image_url: "https://m.media-amazon.com/images/I/61evxhoJQ8L._AC_UL960_FMwebp_QL65_.jpg"
 lien_affiliation: "https://www.amazon.fr/dp/B0DFYHFQKP/?tag=amazonwp0b-21"
 meta_title: "HAXIAOER 145A Poste a Souder Fil Fourré 3 en 1 MIG/ARC MMA/LIFT TIG : Test, Avis et Banc d'Essai"

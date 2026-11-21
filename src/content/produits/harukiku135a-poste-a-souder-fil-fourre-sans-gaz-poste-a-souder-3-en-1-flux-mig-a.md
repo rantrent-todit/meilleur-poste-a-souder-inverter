@@ -2,7 +2,7 @@
 titre: "Harukiku135A Poste a Souder Fil Fourré Sans Gaz, Poste à Souder 3 en 1 (Flux MIG/ARC, MMA/Lift TIG), avec Avance Synchro du Fil & Poste à Souder Inverter IGBT Compact, pour DIY Maison & Professionnels"
 description_courte: "Banc d'essai complet du Harukiku 135A : un poste multi-procédés 3 en 1 compact, doté de la régulation synergique du fil fourré et de la technologie IGBT."
 description_longue: "Découvrez notre évaluation technique approfondie du poste à souder Harukiku 135A. Polyvalence 3 en 1, comportement de l'arc en fil fourré sans gaz, soudage MMA et Lift TIG, ergonomie d'atelier et mesures de pénétration sur aciers courants."
-categories: ["meilleurs-modeles"]
+categories: ["postes-fil-fourre-sans-gaz","postes-inverter-130a-160a","postes-multi-procedes-synergiques"]
 image_url: "https://m.media-amazon.com/images/I/810vbVAaWUL._AC_UL960_FMwebp_QL65_.jpg"
 lien_affiliation: "https://www.amazon.fr/dp/B0FWBMPYSY/?tag=amazonwp0b-21"
 meta_title: "Harukiku135A Poste a Souder Fil Fourré Sans Gaz, Poste à Souder 3 en 1 (Flux MIG/ARC, MMA/Lift TIG), avec Avance Synchro du Fil & Poste à Souder Inverter IGBT Compact, pour DIY Maison & Professionnels : Test, Avis et Banc d'Essai"

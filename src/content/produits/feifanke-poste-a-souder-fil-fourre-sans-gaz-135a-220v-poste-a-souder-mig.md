@@ -2,7 +2,7 @@
 titre: "FEIFANKE Poste A Souder Fil Fourré Sans Gaz 135A 220V Poste à Souder Mig"
 description_courte: "Test technique du poste FEIFANKE 135A : découvrez notre banc d'essai complet sur ce modèle synergique 3-en-1 sans gaz avec technologie inverter IGBT."
 description_longue: "Analyse approfondie du poste à souder FEIFANKE 135A 220V. Nous avons testé ses capacités en fil fourré sans gaz, MMA et Lift TIG pour évaluer sa polyvalence, son amorçage et son rendement réel sur établi."
-categories: ["meilleurs-modeles"]
+categories: ["postes-fil-fourre-sans-gaz","postes-inverter-130a-160a"]
 image_url: "https://m.media-amazon.com/images/I/71THD1mV13L._AC_UL960_FMwebp_QL65_.jpg"
 lien_affiliation: "https://www.amazon.fr/dp/B0D3ZYYBMV/?tag=amazonwp0b-21"
 meta_title: "FEIFANKE Poste A Souder Fil Fourré Sans Gaz 135A 220V Poste à Souder Mig : Test, Avis et Banc d'Essai"

@@ -3,7 +3,7 @@
   "domain": "meilleur-poste-a-souder-inverter.fr",
   "siteName": "InverterExpert",
   "amazonTag": "amazonwp0b-21",
-  "status": "in_progress",
+  "status": "completed",
   "startedAt": "2026-11-21T09:48:43.065Z",
   "lastUpdated": "2026-11-21T10:13:22.554Z",
   "totalProducts": 25,
@@ -184,5 +184,11 @@
       "status": "completed",
       "words": 1821
     }
-  ]
+  ],
+  "completedAt": "2026-11-21T10:13:32.023Z",
+  "git": {
+    "success": true,
+    "repoUrl": "https://github.com/rantrent-todit/meilleur-poste-a-souder-inverter",
+    "repoName": "rantrent-todit/meilleur-poste-a-souder-inverter"
+  }
 }

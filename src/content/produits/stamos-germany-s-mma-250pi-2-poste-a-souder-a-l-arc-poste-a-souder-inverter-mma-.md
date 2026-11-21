@@ -2,7 +2,7 @@
 titre: "Stamos Germany S-MMA-250PI.2 Poste à Souder à l'Arc Poste a Souder Inverter MMA Soudage Soudure (250 A, 230 V, Écran LED, Hot Start, IGBT, Câble de 8m)"
 description_courte: "Banc d'essai complet du Stamos Germany S-MMA-250PI.2 : un poste inverter MMA 250 A puissant, équipé de câbles de 8 mètres et de la technologie IGBT."
 description_longue: "Découvrez notre évaluation technique approfondie du poste à souder Stamos Germany S-MMA-250PI.2. Analyse détaillée de ses composants IGBT, de son facteur de marche, de son câble de 8 mètres et de son comportement à l'arc sur différents types d'électrodes."
-categories: ["meilleurs-modeles"]
+categories: ["postes-mma-inverter","postes-inverter-200a-plus"]
 image_url: "https://m.media-amazon.com/images/I/61f8LRoMMSL._AC_UL960_FMwebp_QL65_.jpg"
 lien_affiliation: "https://www.amazon.fr/dp/B076H4QFGW/?tag=amazonwp0b-21"
 meta_title: "Stamos Germany S-MMA-250PI.2 Poste à Souder à l'Arc Poste a Souder Inverter MMA Soudage Soudure (250 A, 230 V, Écran LED, Hot Start, IGBT, Câble de 8m) : Test, Avis et Banc d'Essai"

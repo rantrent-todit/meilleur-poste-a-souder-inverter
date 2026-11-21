@@ -2,7 +2,7 @@
 titre: "Poste à souder à l’arc MMA130 Numérique - Mini Poste a Souder Inverter,Compact et Léger avec Fonction Anti-Stick, Câbles de 3+2 m, 21,5 x 14 x 8,5 cm, pour Bricoleurs et DIY"
 description_courte: "Banc d'essai complet du mini poste inverter MMA130 numérique : compacité record, câbles de 3+2 m, fonctions d'assistance et performances sur le terrain."
 description_longue: "Analyse technique détaillée et test pratique du poste à souder MMA130 numérique. Découvrez ses capacités réelles de soudage, sa compacité extrême, la qualité de son arc stabilisé par technologie Inverter et notre avis d'expert pour vos projets métalliques."
-categories: ["meilleurs-modeles"]
+categories: ["postes-mma-inverter","postes-inverter-ultra-portables","postes-inverter-130a-160a"]
 image_url: "https://m.media-amazon.com/images/I/71wVMkix5kL._AC_UL960_FMwebp_QL65_.jpg"
 lien_affiliation: "https://www.amazon.fr/dp/B0G2RFRJBZ/?tag=amazonwp0b-21"
 meta_title: "Poste à souder à l’arc MMA130 Numérique - Mini Poste a Souder Inverter,Compact et Léger avec Fonction Anti-Stick, Câbles de 3+2 m, 21,5 x 14 x 8,5 cm, pour Bricoleurs et DIY : Test, Avis et Banc d'Essai"

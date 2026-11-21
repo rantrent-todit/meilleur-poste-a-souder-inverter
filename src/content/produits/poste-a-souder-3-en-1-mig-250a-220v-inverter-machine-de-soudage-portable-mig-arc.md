@@ -2,7 +2,7 @@
 titre: "Poste à Souder 3 en 1 MIG 250A 220V Inverter, Machine de Soudage Portable MIG ARC TIG à Fil Fourré, Écran Digital LED, Poste à Souder Multi Procédé pour Métal Atelier DIY et Garage"
 description_courte: "Banc d'essai complet du poste à souder inverter 3 en 1 MIG 250A. Analyse technique du fil fourré, MMA et Lift TIG pour l'atelier et le garage."
 description_longue: "Découvrez notre banc d'essai exhaustif du poste à souder portable 3 en 1 MIG 250A. Équipé de la technologie inverter IGBT et d'un écran digital LED, ce générateur multi-procédé combine soudage sans gaz au fil fourré, électrode enrobée et Lift TIG pour répondre aux exigences des travaux de métallerie en atelier domestique comme en garage."
-categories: ["meilleurs-modeles"]
+categories: ["postes-multi-procedes-synergiques","postes-inverter-200a-plus","postes-fil-fourre-sans-gaz"]
 image_url: "https://m.media-amazon.com/images/I/71sn4Fj4m8L._AC_UL960_FMwebp_QL65_.jpg"
 lien_affiliation: "https://www.amazon.fr/dp/B0GY8V4DR1/?tag=amazonwp0b-21"
 meta_title: "Poste à Souder 3 en 1 MIG 250A 220V Inverter, Machine de Soudage Portable MIG ARC TIG à Fil Fourré, Écran Digital LED, Poste à Souder Multi Procédé pour Métal Atelier DIY et Garage : Test, Avis et Banc d'Essai"

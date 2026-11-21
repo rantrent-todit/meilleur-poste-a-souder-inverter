@@ -2,7 +2,7 @@
 titre: "GYS, GYSMI 160A, Poste à Souder MMA 160A, avec Valise et Accessoires"
 description_courte: "Test approfondi du poste à souder GYS GYSMI 160A Inverter MMA. Analyse technique, stabilité d'arc, cycle de marche et avis complet d'experts."
 description_longue: "Découvrez notre banc d'essai exhaustif du poste à souder GYS GYSMI 160A livré en valise avec accessoires. Analyse des technologies d'aide au soudage, comportement sur électrodes rutiles et basiques, et retour d'expérience terrain."
-categories: ["meilleurs-modeles"]
+categories: ["postes-mma-inverter","postes-inverter-130a-160a"]
 image_url: "https://m.media-amazon.com/images/I/71s0RFtyypL._AC_UL960_FMwebp_QL65_.jpg"
 lien_affiliation: "https://www.amazon.fr/dp/B0F3D1TGS5/?tag=amazonwp0b-21"
 meta_title: "GYS, GYSMI 160A, Poste à Souder MMA 160A, avec Valise et Accessoires : Test, Avis et Banc d'Essai"

@@ -2,7 +2,7 @@
 titre: "Poste à souder MMA 250A 220V avec écran LED, onduleur IGBT portable avec Hot Start, Arc Force et Anti-Stick, kit complet pour bricolage, atelier et travaux agricoles"
 description_courte: "Banc d'essai complet du poste à souder MMA 250A IGBT : écran LED, assistances Hot Start, Arc Force, Anti-Stick et performances réelles en atelier."
 description_longue: "Découvrez notre test complet du poste à souder à l'arc MMA 250A 220V doté de la technologie d'onduleur IGBT. Conçu pour le bricolage averti, la maintenance d'atelier et les réparations agricoles, cet équipement compact intègre un afficheur numérique et les trois assistances électroniques indispensables : Hot Start, Arc Force et Anti-Stick. Retrouvez nos mesures d'arc, nos essais d'électrodes rutiles et basiques, ainsi que notre avis d'expert indépendant."
-categories: ["meilleurs-modeles"]
+categories: ["postes-mma-inverter","postes-inverter-200a-plus"]
 image_url: "https://m.media-amazon.com/images/I/71g4uI7cI1L._AC_UL960_FMwebp_QL65_.jpg"
 lien_affiliation: "https://www.amazon.fr/dp/B0FDKT5Y97/?tag=amazonwp0b-21"
 meta_title: "Poste à souder MMA 250A 220V avec écran LED, onduleur IGBT portable avec Hot Start, Arc Force et Anti-Stick, kit complet pour bricolage, atelier et travaux agricoles : Test, Avis et Banc d'Essai"

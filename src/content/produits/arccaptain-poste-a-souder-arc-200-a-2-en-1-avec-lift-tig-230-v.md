@@ -2,7 +2,7 @@
 titre: "ARCCAPTAIN Poste à Souder ARC 200 A 2 en 1 avec Lift TIG, 230 V"
 description_courte: "Banc d'essai complet du poste à souder ARCCAPTAIN ARC 200 A : contrôle synergique, grand écran LED, compatibilité Lift TIG et électrodes 6010 à 7018."
 description_longue: "Découvrez notre analyse détaillée et notre banc d'essai exhaustif du poste à souder ARCCAPTAIN ARC 200 A avec fonction Lift TIG. Analyse des technologies embarquées, mesures de facteur de marche, comportement sur électrodes cellulosiques et basiques, ergonomie de l'écran LED et verdict complet de nos spécialistes en soudage inverter."
-categories: ["meilleurs-modeles"]
+categories: ["postes-inverter-200a-plus","postes-mma-inverter","postes-tig-inverter-lift"]
 image_url: "https://m.media-amazon.com/images/I/71L0FPbvLfL._AC_UL960_FMwebp_QL65_.jpg"
 lien_affiliation: "https://www.amazon.fr/dp/B0B6G6M9Y8/?tag=amazonwp0b-21"
 meta_title: "ARCCAPTAIN Poste à Souder ARC 200 A 2 en 1 avec Lift TIG, 230 V : Test, Avis et Banc d'Essai"

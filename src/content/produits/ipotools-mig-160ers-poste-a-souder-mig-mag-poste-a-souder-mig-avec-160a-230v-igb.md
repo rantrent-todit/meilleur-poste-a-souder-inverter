@@ -2,7 +2,7 @@
 titre: "IPOTOOLS MIG-160ERS Poste a souder MIG MAG - Poste à souder MIG avec 160A 230V IGBT, 5 en 1 Poste MIG Flux MMA électrodes, Poste de Soudage Portable, garantie de 7 ans"
 description_courte: "Banc d'essai complet du poste à souder IPOTOOLS MIG-160ERS : 160A, technologie IGBT, multi-procédés MIG/MAG/Flux/MMA et garantie constructeur de 7 ans."
 description_longue: "Analyse technique détaillée et test terrain du poste à souder multi-procédés IPOTOOLS MIG-160ERS. Découvrez ses performances en fil plein, fil fourré et MMA, sa gestion thermique, son dévidoir et notre verdict impartial pour vos travaux d'atelier et de métallerie."
-categories: ["meilleurs-modeles"]
+categories: ["postes-multi-procedes-synergiques","postes-inverter-130a-160a","postes-fil-fourre-sans-gaz"]
 image_url: "https://m.media-amazon.com/images/I/81Dhf8zAifL._AC_UL960_FMwebp_QL65_.jpg"
 lien_affiliation: "https://www.amazon.fr/dp/B0CN1KL77T/?tag=amazonwp0b-21"
 meta_title: "IPOTOOLS MIG-160ERS Poste a souder MIG MAG - Poste à souder MIG avec 160A 230V IGBT, 5 en 1 Poste MIG Flux MMA électrodes, Poste de Soudage Portable, garantie de 7 ans : Test, Avis et Banc d'Essai"

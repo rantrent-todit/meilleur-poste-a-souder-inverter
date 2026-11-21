@@ -2,7 +2,7 @@
 titre: "Mini Poste a Souder Inverter 145A IGBT, Poste à Souder ARC Lift TIG, Pince de Terre de Haute Qualité et Affichage LED, Hot-Start & Anti-Stick, Modèle ARC145"
 description_courte: "Banc d'essai complet du poste à souder ARC145 : technologie IGBT, double procédé MMA et Lift TIG, affichage numérique et tests réels sur électrodes."
 description_longue: "Découvrez notre analyse technique détaillée du mini poste à souder Inverter ARC145. Doté de transistors IGBT, d'une puissance réelle de 145 ampères et d'une prise en charge du Lift TIG, cet appareil compact s'adresse aux bricoleurs exigeants et aux artisans à la recherche d'un équipement mobile, stable et efficace pour l'assemblage de profilés et tôles métalliques."
-categories: ["meilleurs-modeles"]
+categories: ["postes-tig-inverter-lift","postes-inverter-130a-160a","postes-mma-inverter"]
 image_url: "https://m.media-amazon.com/images/I/61-zf214JnL._AC_UL960_FMwebp_QL65_.jpg"
 lien_affiliation: "https://www.amazon.fr/dp/B0DJP5M4Q6/?tag=amazonwp0b-21"
 meta_title: "Mini Poste a Souder Inverter 145A IGBT, Poste à Souder ARC Lift TIG, Pince de Terre de Haute Qualité et Affichage LED, Hot-Start & Anti-Stick, Modèle ARC145 : Test, Avis et Banc d'Essai"

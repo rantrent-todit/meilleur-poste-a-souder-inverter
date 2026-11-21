@@ -2,7 +2,7 @@
 titre: "SOARFLY Poste à Souder 250A, Poste à Souder MMA 220V avec Technologie IGBT Inverter, Écran LED, Hot Start et Arc Force, Poste à Souder Portable avec 10 Électrodes 2,5 mm et Accessoires"
 description_courte: "Banc d'essai complet du poste à souder MMA SOARFLY 250A. Analyse technique du circuit IGBT, des fonctions Hot Start, Arc Force et du test sur acier."
 description_longue: "Découvrez notre test approfondi du poste à souder SOARFLY 250A inverter. Mesures de facteur de marche, comportement de l'arc, ergonomie de l'écran LED et analyse des accessoires fournis pour vos travaux de métallerie."
-categories: ["meilleurs-modeles"]
+categories: ["postes-mma-inverter","postes-inverter-200a-plus"]
 image_url: "https://m.media-amazon.com/images/I/71FEQ8nkowL._AC_UL960_FMwebp_QL65_.jpg"
 lien_affiliation: "https://www.amazon.fr/dp/B0GYYKSP47/?tag=amazonwp0b-21"
 meta_title: "SOARFLY Poste à Souder 250A, Poste à Souder MMA 220V avec Technologie IGBT Inverter, Écran LED, Hot Start et Arc Force, Poste à Souder Portable avec 10 Électrodes 2,5 mm et Accessoires : Test, Avis et Banc d'Essai"
