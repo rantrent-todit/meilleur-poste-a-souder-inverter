@@ -1,0 +1,218 @@
+---
+import { getCollection, render } from 'astro:content';
+import Layout from '../../layouts/Layout.astro';
+import CarteApercu from '../../components/CarteApercu.astro';
+import TableauComparatif from '../../components/TableauComparatif.astro';
+import { slugify } from '../../utils/slugify';
+
+export async function getStaticPaths() {
+  const allProducts = await getCollection('produits');
+  const categoryContent = await getCollection('categories');
+
+  // Map unifiée par slug pour garantir l'absence de doublons et couvrir 100% des catégories
+  const pathsMap = new Map();
+
+  // 1. Ajouter toutes les catégories déclarées dans content/categories
+  for (const cat of categoryContent) {
+    const slug = cat.id;
+    const name = cat.data.titre_seo
+      ? cat.data.titre_seo.replace(/^Meilleurs?\s+(modèles\s+)?/i, '').split(':')[0].trim()
+      : cat.id.replace(/-/g, ' ');
+
+    pathsMap.set(slug, {
+      slug,
+      categoryName: name,
+      content: cat
+    });
+  }
+
+  // 2. Ajouter d'éventuelles catégories présentes dans les produits
+  for (const p of allProducts) {
+    for (const rawCat of (p.data.categories || [])) {
+      const s = slugify(rawCat);
+      if (!pathsMap.has(s)) {
+        pathsMap.set(s, {
+          slug: s,
+          categoryName: rawCat,
+          content: null
+        });
+      }
+    }
+  }
+
+  // 3. Associer les produits à chaque catégorie avec un matching robuste
+  return Array.from(pathsMap.values()).map(catEntry => {
+    const products = allProducts.filter(p => {
+      const pCats = p.data.categories || [];
+      return pCats.some(c => slugify(c) === catEntry.slug || c === catEntry.slug);
+    });
+
+    return {
+      params: { slug: catEntry.slug },
+      props: {
+        categoryName: catEntry.categoryName,
+        products,
+        content: catEntry.content,
+        slug: catEntry.slug
+      }
+    };
+  }).filter(pathItem => pathItem.props.products.length > 0);
+}
+
+const { categoryName, products = [], content, slug } = Astro.props;
+const Content = content ? (await render(content)).Content : null;
+
+// SEO Title (pour la balise <title> SERP)
+let seoTitle = content?.data.titre_seo || `Meilleurs modèles ${categoryName} : Guide et Comparatif`;
+seoTitle = seoTitle.replace(/\b202[0-9]\b/g, '').replace(/\s+/g, ' ').trim();
+if (seoTitle.length < 20) seoTitle = `Meilleurs modèles ${categoryName} : Guide et Comparatif`;
+if (seoTitle.length > 90) seoTitle = seoTitle.slice(0, 87) + '...';
+
+// H1 Lisible et concis (pour l'affichage en tête de page)
+const pageHeading = content?.data.titre_h1 || (categoryName.toLowerCase().startsWith('rabot') || categoryName.toLowerCase().startsWith('meilleur') 
+  ? categoryName 
+  : `Comparatif : ${categoryName}`);
+
+let seoDescription = content?.data.description_seo || `Découvrez notre comparatif complet et sélection pour ${categoryName}. Analyse technique, tests et conseils d'experts.`;
+seoDescription = seoDescription.replace(/\b202[0-9]\b/g, '').replace(/\s+/g, ' ').trim();
+if (seoDescription.length < 90) seoDescription = `${seoDescription} Consultez notre guide d'achat complet pour bien choisir votre matériel.`;
+if (seoDescription.length > 200) seoDescription = seoDescription.slice(0, 197) + '...';
+
+const breadcrumbs = [
+  { name: "Accueil", url: "/" },
+  { name: "Comparatifs", url: "/comparatifs/" },
+  { name: categoryName, url: `/comparatifs/${slug}/` }
+];
+---
+
+<Layout 
+  title={seoTitle}
+  description={seoDescription}
+  breadcrumbs={breadcrumbs}
+>
+  <nav class="flex text-xs text-slate-500 mb-6" aria-label="Breadcrumb">
+    <ol class="flex items-center space-x-2">
+      <li><a href="/" class="hover:text-orange-600 transition-colors">Accueil</a></li>
+      <li><span class="mx-1 text-slate-300">/</span></li>
+      <li><a href="/comparatifs/" class="hover:text-orange-600 transition-colors">Comparatifs</a></li>
+      <li><span class="mx-1 text-slate-300">/</span></li>
+      <li class="font-bold text-slate-900 truncate capitalize" aria-current="page">{categoryName}</li>
+    </ol>
+  </nav>
+
+  <header class="mb-10 max-w-4xl">
+    <span class="text-xs font-black uppercase tracking-wider bg-orange-100 text-orange-800 px-3 py-1 rounded-full inline-block mb-3">
+      Comparatif Spécialisé
+    </span>
+    <h1 class="text-3xl sm:text-4xl md:text-5xl font-black text-slate-900 tracking-tight leading-tight capitalize !my-0">
+      {pageHeading}
+    </h1>
+    <p class="text-base sm:text-lg text-slate-600 mt-4 leading-relaxed">
+      Bancs d'essai comparatifs et guide de sélection pour vous équiper avec le modèle le plus adapté à vos attentes.
+    </p>
+  </header>
+
+  {products.length > 0 && (
+    <TableauComparatif 
+      produits={products}
+      titreSection={`Comparatif de la catégorie : ${categoryName}`}
+      sousTitreSection="Analyse des critères de performance déterminants"
+    />
+  )}
+
+  {content && (
+    <section class="bg-white p-6 sm:p-10 rounded-3xl border border-gray-200 shadow-sm my-12">
+      <div class="prose prose-slate prose-lg max-w-none">
+        <Content />
+      </div>
+    </section>
+  )}
+
+  {products.length > 0 ? (
+    <section class="my-14">
+      <div class="flex items-center justify-between mb-8 pb-3 border-b border-gray-200">
+        <div>
+          <h2 class="text-2xl font-black text-slate-900 tracking-tight !my-0 capitalize">
+            Tous les modèles retenus en {categoryName}
+          </h2>
+          <p class="text-xs text-slate-500 mt-1">Fiches techniques détaillées et bancs d'essai complets</p>
+        </div>
+        <span class="text-xs font-bold text-slate-500 bg-slate-100 px-3 py-1 rounded-full">
+          {products.length} {products.length > 1 ? 'modèles analysés' : 'modèle analysé'}
+        </span>
+      </div>
+      
+      <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-6">
+        {products.map(product => (
+          <CarteApercu 
+            titre={product.data.titre}
+            description={product.data.description_courte}
+            image={product.data.image_url}
+            slug={product.id}
+            lienAffiliation={product.data.lien_affiliation}
+            categories={product.data.categories}
+          />
+        ))}
+      </div>
+    </section>
+  ) : (
+    <section class="my-14 bg-white border border-slate-200 rounded-3xl p-8 sm:p-12 text-center shadow-xs">
+      <div class="w-14 h-14 bg-orange-100 text-orange-600 rounded-2xl flex items-center justify-center mx-auto mb-4">
+        <svg class="w-7 h-7" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 11H5m14 0a2 2 0 012 2v6a2 2 0 01-2 2H5a2 2 0 01-2-2v-6a2 2 0 012-2m14 0V9a2 2 0 00-2-2M5 11V9a2 2 0 012-2m0 0V5a2 2 0 012-2h6a2 2 0 012 2v2M7 7h10" />
+        </svg>
+      </div>
+      <h2 class="text-xl sm:text-2xl font-black text-slate-900 mb-2">Bancs d'essai en cours de finalisation</h2>
+      <p class="text-sm text-slate-600 max-w-xl mx-auto mb-6 leading-relaxed">
+        Nos spécialistes analysent actuellement de nouvelles références pour cette sous-catégorie. Consultez dès à présent l'ensemble de notre catalogue d'avis pour découvrir nos tests complets.
+      </p>
+      <a 
+        href="/avis/" 
+        class="inline-flex items-center gap-2 px-6 py-3 bg-slate-900 hover:bg-orange-600 text-white font-extrabold text-xs rounded-xl shadow-xs transition-colors"
+      >
+        <span>Consulter tous les tests & avis</span>
+        <span>&rarr;</span>
+      </a>
+    </section>
+  )}
+
+  {content?.data.faq && content.data.faq.length > 0 && (
+    <section class="my-14 bg-gradient-to-b from-stone-50 to-white p-6 sm:p-10 rounded-3xl border border-gray-200 shadow-sm">
+      <div class="max-w-2xl mb-8">
+        <span class="text-xs font-black uppercase tracking-wider text-orange-600">Réponses d'experts</span>
+        <h2 class="text-2xl sm:text-3xl font-black text-slate-900 tracking-tight mt-1 !my-0">
+          Foire aux questions ({categoryName})
+        </h2>
+      </div>
+
+      <div class="space-y-4">
+        {content.data.faq.map(item => (
+          <div class="bg-white p-5 rounded-2xl border border-gray-200/90 shadow-2xs">
+            <h3 class="text-base font-extrabold text-slate-900 mb-2 flex items-start gap-2 !my-0">
+              <span class="text-orange-500 font-black">Q.</span>
+              <span>{item.q}</span>
+            </h3>
+            <p class="text-sm text-slate-600 leading-relaxed pl-6 !mb-0 mt-2">
+              {item.r}
+            </p>
+          </div>
+        ))}
+      </div>
+    </section>
+  )}
+
+  {content?.data.faq && content.data.faq.length > 0 && (
+    <script type="application/ld+json" is:inline set:html={JSON.stringify({
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": content.data.faq.map(item => ({
+        "@type": "Question",
+        "name": item.q,
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": item.r
+        }
+      }))
+    })} />
+  )}
+</Layout>

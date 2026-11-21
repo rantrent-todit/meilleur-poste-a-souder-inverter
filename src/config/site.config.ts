@@ -1,0 +1,33 @@
+export interface SiteConfig {
+  siteName: string;
+  siteDomain: string;
+  tagline: string;
+  description: string;
+  contactEmail: string;
+  affiliate: {
+    amazonTag: string;
+    disclaimer: string;
+  };
+  theme: {
+    primaryColor: string;
+    primaryHoverColor: string;
+    accentColor: string;
+  };
+}
+
+export const siteConfig: SiteConfig = {
+  siteName: "InverterExpert",
+  siteDomain: "https://meilleur-poste-a-souder-inverter.fr",
+  tagline: "Comparatifs techniques et guides indépendants pour choisir le poste à souder inverter idéal",
+  description: "Trouvez le meilleur poste à souder inverter adapté à vos travaux. Comparatifs détaillés, tests de puissance et avis impartiaux pour un achat réussi.",
+  contactEmail: "contact@meilleur-poste-a-souder-inverter.fr",
+  affiliate: {
+    amazonTag: "amazonwp0b-21",
+    disclaimer: "En tant que Partenaire Amazon, ce site réalise un bénéfice sur les achats remplissant les conditions requises."
+  },
+  theme: {
+    primaryColor: "#1e3a8a",
+    primaryHoverColor: "#172554",
+    accentColor: "#f97316"
+  }
+};
