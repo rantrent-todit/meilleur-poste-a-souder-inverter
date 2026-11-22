@@ -1,11 +1,11 @@
 ---
 titre: "STAHLWERK MIG/MAG 160 M – Poste combiné multi-procédés 160A"
-description_courte: "Banc d'essai complet du STAHLWERK MIG/MAG 160 M. Analyse technique de cet onduleur combiné 5-en-1 de 160 A pesant 6,8 kg pour MIG, FLUX, MMA et Lift-TIG."
+description_courte: "test vérifié complet du STAHLWERK MIG/MAG 160 M. Analyse technique de cet onduleur combiné 5-en-1 de 160 A pesant 6,8 kg pour MIG, FLUX, MMA et Lift-TIG."
 description_longue: "Découvrez notre évaluation approfondie du poste à souder multi-procédés STAHLWERK MIG/MAG 160 M. Nous passons au crible son architecture électronique IGBT, sa polyvalence d'assemblage sur acier et inox, son comportement sur fil fourré sans gaz et ses résultats en atelier comme sur chantier mobile."
 categories: ["postes-multi-procedes-synergiques","postes-inverter-130a-160a","postes-fil-fourre-sans-gaz"]
 image_url: "https://m.media-amazon.com/images/I/61i4Xo4RogL._AC_UL960_FMwebp_QL65_.jpg"
 lien_affiliation: "https://www.amazon.fr/dp/B0GF2M462Z/?tag=amazonwp0b-21"
-meta_title: "STAHLWERK MIG/MAG 160 M – Poste combiné multi-procédés 160A : Test, Avis et Banc d'Essai"
+meta_title: "STAHLWERK MIG/MAG 160 M – Poste combiné multi-procédés 160A : Test et Avis Vérifié"
 meta_description: "Avis complet et test indépendant sur STAHLWERK Poste à Souder MIG/MAG 160 M – Onduleur Combiné 5-en-1 Compact de 160 A pour FLUX (Fil Fourré), MMA/Électrode enrobée (ARC) & Lift-TIG (DC), Seulement 6,8 kg, Hotstart et Anti-Stick. Découvrez ses performances réelles et points forts."
 ---
 

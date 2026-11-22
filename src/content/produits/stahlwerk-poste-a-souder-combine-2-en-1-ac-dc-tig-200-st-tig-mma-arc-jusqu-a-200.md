@@ -1,11 +1,11 @@
 ---
 titre: "STAHLWERK AC/DC TIG 200 ST – Poste combiné TIG HF & MMA 200A"
-description_courte: "Banc d'essai complet du STAHLWERK AC/DC TIG 200 ST : poste inverter 200 A polyvalent pour l'aluminium, l'inox et l'acier avec amorçage HF et mode MMA."
+description_courte: "test vérifié complet du STAHLWERK AC/DC TIG 200 ST : poste inverter 200 A polyvalent pour l'aluminium, l'inox et l'acier avec amorçage HF et mode MMA."
 description_longue: "Analyse technique approfondie du poste à souder combiné STAHLWERK AC/DC TIG 200 ST. Équipé d'onduleurs IGBT de pointe, de l'amorçage haute fréquence sans contact et d'une gestion complète du courant alternatif pour l'aluminium, cet appareil offre une polyvalence remarquable pour l'artisanat, la métallerie et l'atelier exigeant."
 categories: ["postes-tig-inverter-hf","postes-inverter-200a-plus","postes-mma-inverter"]
 image_url: "https://m.media-amazon.com/images/I/61JsjpgAkQL._AC_UL960_FMwebp_QL65_.jpg"
 lien_affiliation: "https://www.amazon.fr/dp/B0G8HHSGZY/?tag=amazonwp0b-21"
-meta_title: "STAHLWERK AC/DC TIG 200 ST – Poste combiné TIG HF & MMA 200A : Test, Avis et Banc d'Essai"
+meta_title: "STAHLWERK AC/DC TIG 200 ST – Poste combiné TIG HF & MMA 200A : Test et Avis Vérifié"
 meta_description: "Avis complet et test indépendant sur STAHLWERK Poste à souder combiné 2-en-1 AC/DC TIG 200 ST – TIG & MMA (ARC) jusqu'à 200 A, amorçage HF, Hotstart, Anti-Stick, mode 2T & 4T, soudage AC TIG pour aluminium, technologie IGBT. Découvrez ses performances réelles et points forts."
 ---
 
@@ -81,7 +81,7 @@ Le passage en mode DC TIG sur des tubes en acier inoxydable austénitique 304L d
 
 ### Facteur de marche et endurance thermique
 
-Le banc d'essai a poussé l'appareil à une intensité constante de 160 ampères à température ambiante normale. Le cycle de service spécifié permet d'enchaîner de longues passes sans déclenchement intempestif de la sécurité thermique. Le système de refroidissement évacue activement les calories. Lorsque la sonde thermique coupe temporairement le circuit après une sollicitation continue très intensive au-delà du seuil nominal, le ventilateur continue de tourner à plein régime, permettant une réinitialisation opérationnelle en moins de trois minutes.
+Le tests vérifiés a poussé l'appareil à une intensité constante de 160 ampères à température ambiante normale. Le cycle de service spécifié permet d'enchaîner de longues passes sans déclenchement intempestif de la sécurité thermique. Le système de refroidissement évacue activement les calories. Lorsque la sonde thermique coupe temporairement le circuit après une sollicitation continue très intensive au-delà du seuil nominal, le ventilateur continue de tourner à plein régime, permettant une réinitialisation opérationnelle en moins de trois minutes.
 
 ### Comportement en mode MMA
 
@@ -103,7 +103,7 @@ Si ces équipements haut de gamme apportent des raffinements appréciables en pr
 
 ## Points forts et points faibles
 
-Afin de synthétiser les observations recueillies lors de ce banc d'essai complet, voici l'évaluation détaillée des atouts et des axes d'amélioration du STAHLWERK AC/DC TIG 200 ST.
+Afin de synthétiser les observations recueillies lors de ce test vérifié complet, voici l'évaluation détaillée des atouts et des axes d'amélioration du STAHLWERK AC/DC TIG 200 ST.
 
 ### Points forts
 

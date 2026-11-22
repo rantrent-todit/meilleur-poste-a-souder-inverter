@@ -1,11 +1,11 @@
 ---
 titre: "SOARFLY 250A – Poste à souder MMA inverter IGBT"
-description_courte: "Banc d'essai complet du poste à souder MMA SOARFLY 250A. Analyse technique du circuit IGBT, des fonctions Hot Start, Arc Force et du test sur acier."
+description_courte: "test vérifié complet du poste à souder MMA SOARFLY 250A. Analyse technique du circuit IGBT, des fonctions Hot Start, Arc Force et du test sur acier."
 description_longue: "Découvrez notre test approfondi du poste à souder SOARFLY 250A inverter. Mesures de facteur de marche, comportement de l'arc, ergonomie de l'écran LED et analyse des accessoires fournis pour vos travaux de métallerie."
 categories: ["postes-mma-inverter","postes-inverter-200a-plus"]
 image_url: "https://m.media-amazon.com/images/I/71FEQ8nkowL._AC_UL960_FMwebp_QL65_.jpg"
 lien_affiliation: "https://www.amazon.fr/dp/B0GYYKSP47/?tag=amazonwp0b-21"
-meta_title: "SOARFLY 250A – Poste à souder MMA inverter IGBT : Test, Avis et Banc d'Essai"
+meta_title: "SOARFLY 250A – Poste à souder MMA inverter IGBT : Test et Avis Vérifié"
 meta_description: "Avis complet et test indépendant sur SOARFLY Poste à Souder 250A, Poste à Souder MMA 220V avec Technologie IGBT Inverter, Écran LED, Hot Start et Arc Force, Poste à Souder Portable avec 10 Électrodes 2,5 mm et Accessoires. Découvrez ses performances réelles et points forts."
 ---
 
@@ -15,7 +15,7 @@ Le secteur du soudage à l'arc à l'électrode enrobée (procédé MMA / SMAW) a
 
 Alimenté sur le réseau domestique standard monophasé de 220 volts, cet équipement promet une intensité maximale de 250 ampères, régulée par une architecture d'onduleur à transistors bipolaires à grille isolée (IGBT). L'appareil s'adresse principalement aux bricoleurs exigeants, aux serruriers en intervention mobile, aux exploitants agricoles ainsi qu'aux artisans ayant besoin d'une source de courant continu constante pour des opérations d'assemblage ou de réparation sur acier au carbone, acier allié ou fonte.
 
-Sur la plateforme InverterExpert, nous analysons ce générateur sous l'angle de la rigueur technique : respect des paramètres électriques, stabilité du bain de fusion, efficacité des aides électroniques à l'amorçage et qualité générale des composants. Ce banc d'essai détaille les caractéristiques réelles du SOARFLY 250A afin d'évaluer sa pertinence face aux exigences du travail du métal.
+Sur la plateforme InverterExpert, nous analysons ce générateur sous l'angle de la rigueur technique : respect des paramètres électriques, stabilité du bain de fusion, efficacité des aides électroniques à l'amorçage et qualité générale des composants. Ce tests vérifiés détaille les caractéristiques réelles du SOARFLY 250A afin d'évaluer sa pertinence face aux exigences du travail du métal.
 
 ## Conception, ergonomie et prise en main
 

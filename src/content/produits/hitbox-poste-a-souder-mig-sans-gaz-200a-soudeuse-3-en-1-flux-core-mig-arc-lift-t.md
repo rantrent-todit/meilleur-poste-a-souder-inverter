@@ -1,11 +1,11 @@
 ---
 titre: "HITBOX HBM1200 - Poste MIG Sans Gaz 200A 3-en-1"
-description_courte: "Banc d'essai complet du poste à souder HITBOX HBM1200 : une solution 3-en-1 Inverter IGBT compacte, économique et accessible pour le soudage sans gaz."
+description_courte: "test vérifié complet du poste à souder HITBOX HBM1200 : une solution 3-en-1 Inverter IGBT compacte, économique et accessible pour le soudage sans gaz."
 description_longue: "Découvrez notre test complet du poste à souder multiprocédé HITBOX HBM1200. Conçu pour le fil fourré sans gaz, l'électrode enrobée MMA et le Lift TIG, cet appareil Inverter IGBT monophasé 230V offre une polyvalence remarquable pour les réparations domestiques, la métallerie légère et les travaux d'initiation."
 categories: ["postes-inverter-200a-plus","postes-fil-fourre-sans-gaz","postes-multi-procedes-synergiques"]
 image_url: "https://m.media-amazon.com/images/I/71TASPEamPL._AC_UL960_FMwebp_QL65_.jpg"
 lien_affiliation: "https://www.amazon.fr/dp/B09MZ2PR3L/?tag=amazonwp0b-21"
-meta_title: "HITBOX HBM1200 - Poste MIG Sans Gaz 200A 3-en-1 : Test, Avis et Banc d'Essai"
+meta_title: "HITBOX HBM1200 - Poste MIG Sans Gaz 200A 3-en-1 : Test et Avis Vérifié"
 meta_description: "Avis complet et test indépendant sur HITBOX Poste à Souder MIG Sans Gaz 200A, Soudeuse 3-en-1 Flux Core MIG/ARC/Lift TIG, Machine de Soudage Inverter IGBT 230V Portable avec Torche & Fil 0,8 mm, Idéal Débutants (HBM1200). Découvrez ses performances réelles et points forts."
 ---
 
@@ -15,7 +15,7 @@ Le secteur du soudage grand public a connu une transformation radicale avec l'ar
 
 L'objectif affiché par HITBOX est de rendre le soudage semi-automatique accessible sans exiger l'investissement financier et logistique lié à une bouteille de gaz sous pression (argon ou mélange argon/CO2). En ciblant les débutants, les passionnés de mécanique automobile, les bricoleurs exigeants et les artisans recherchant une unité d'appoint transportable, la marque promet une prise en main rapide grâce à des réglages simplifiés et une stabilité d'arc constante. 
 
-Sur le marché des générateurs polyvalents monophasés 230V, le modèle HBM1200 entend proposer un ratio prix/performances agressif. Notre banc d'essai indépendant a pour but d'analyser en profondeur les capacités réelles de ce générateur, ses composants internes, sa tolérance thermique en usage intensif ainsi que la propreté de ses cordons sur divers métaux ferreux.
+Sur le marché des générateurs polyvalents monophasés 230V, le modèle HBM1200 entend proposer un ratio prix/performances agressif. Notre test vérifié indépendant a pour but d'analyser en profondeur les capacités réelles de ce générateur, ses composants internes, sa tolérance thermique en usage intensif ainsi que la propreté de ses cordons sur divers métaux ferreux.
 
 ## Conception, ergonomie et prise en main
 

@@ -31,8 +31,8 @@ export const siteConfig: SiteConfig = {
   primaryKeyword: "Meilleur poste à souder inverter",
   homeSeoTitle: "Meilleur Poste à Souder Inverter : Comparatif, Tests & Guide",
   homeH1: "Meilleur Poste à Souder Inverter",
-  homeTagline: "Le comparatif indépendant et bancs d'essai des experts",
-  homeDescription: "Quel est le meilleur poste à souder inverter ? Retrouvez notre comparatif indépendant, les tests de puissance réels, nos bancs d'essai et le guide d'achat complet pour faire le bon choix.",
+  homeTagline: "Le comparatif indépendant et tests vérifiés des experts",
+  homeDescription: "Quel est le meilleur poste à souder inverter ? Retrouvez notre comparatif indépendant, les tests de puissance réels, nos tests vérifiés et le guide d'achat complet pour faire le bon choix.",
   affiliate: {
     amazonTag: "amazonwp0b-21",
     disclaimer: "En tant que Partenaire Amazon, ce site réalise un bénéfice sur les achats remplissant les conditions requises."

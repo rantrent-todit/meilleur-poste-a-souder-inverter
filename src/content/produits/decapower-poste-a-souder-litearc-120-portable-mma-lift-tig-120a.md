@@ -5,7 +5,7 @@ description_longue: "Analyse technique détaillée du Decapower LITEARC-120, un 
 categories: ["postes-inverter-ultra-portables","postes-mma-inverter","postes-tig-inverter-lift"]
 image_url: "https://m.media-amazon.com/images/I/71lTIc0W8XL._AC_UL960_FMwebp_QL65_.jpg"
 lien_affiliation: "https://www.amazon.fr/dp/B0GY89PHN6/?tag=amazonwp0b-21"
-meta_title: "Decapower LITEARC-120 - Poste MMA & Lift TIG 120A : Test, Avis et Banc d'Essai"
+meta_title: "Decapower LITEARC-120 - Poste MMA & Lift TIG 120A : Test et Avis Vérifié"
 meta_description: "Avis complet et test indépendant sur Decapower Poste à Souder LITEARC-120 Portable MMA LIFT-TIG 120A. Découvrez ses performances réelles et points forts."
 ---
 
@@ -15,7 +15,7 @@ Le secteur des équipements de soudage à arc électrique a connu une évolution
 
 Sur le marché des générateurs compacts, les utilisateurs recherchent un équilibre complexe entre compacité, fiabilité thermique et simplicité de réglage. Le Decapower LITEARC-120 cible aussi bien les artisans itinérants, les serruriers pour des travaux de dépannage sur chantier que les passionnés de métallerie travaillant dans des ateliers restreints. Son positionnement tarifaire le place au contact direct des modèles d'entrée de gamme des fabricants historiques, tout en proposant des fonctionnalités électroniques souvent réservées à des segments supérieurs.
 
-L'intérêt principal de ce modèle repose sur deux arguments techniques mis en avant par le constructeur : la technologie Syncweld et un système de refroidissement par ventilateur intelligent. Alors que les générateurs d'entrée de gamme fonctionnent souvent avec des réglages manuels rudimentaires et une ventilation permanente qui encrasse les composants, Decapower promet une optimisation automatisée du courant et une longévité matérielle accrue. L'objectif de notre banc d'essai est d'évaluer si ces promesses se traduisent concrètement lors de sessions intensives de soudage sur différents types de métaux et d'épaisseurs.
+L'intérêt principal de ce modèle repose sur deux arguments techniques mis en avant par le constructeur : la technologie Syncweld et un système de refroidissement par ventilateur intelligent. Alors que les générateurs d'entrée de gamme fonctionnent souvent avec des réglages manuels rudimentaires et une ventilation permanente qui encrasse les composants, Decapower promet une optimisation automatisée du courant et une longévité matérielle accrue. L'objectif de notre tests vérifiés est d'évaluer si ces promesses se traduisent concrètement lors de sessions intensives de soudage sur différents types de métaux et d'épaisseurs.
 
 ## Conception, ergonomie et prise en main
 

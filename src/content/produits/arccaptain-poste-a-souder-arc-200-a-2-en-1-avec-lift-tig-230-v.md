@@ -1,11 +1,11 @@
 ---
 titre: "ARCCAPTAIN ARC 200 - Poste MMA & Lift TIG 200A"
-description_courte: "Banc d'essai complet du poste à souder ARCCAPTAIN ARC 200 A : contrôle synergique, grand écran LED, compatibilité Lift TIG et électrodes 6010 à 7018."
-description_longue: "Découvrez notre analyse détaillée et notre banc d'essai exhaustif du poste à souder ARCCAPTAIN ARC 200 A avec fonction Lift TIG. Analyse des technologies embarquées, mesures de facteur de marche, comportement sur électrodes cellulosiques et basiques, ergonomie de l'écran LED et verdict complet de nos spécialistes en soudage inverter."
+description_courte: "test vérifié complet du poste à souder ARCCAPTAIN ARC 200 A : contrôle synergique, grand écran LED, compatibilité Lift TIG et électrodes 6010 à 7018."
+description_longue: "Découvrez notre analyse détaillée et notre test vérifié exhaustif du poste à souder ARCCAPTAIN ARC 200 A avec fonction Lift TIG. Analyse des technologies embarquées, mesures de facteur de marche, comportement sur électrodes cellulosiques et basiques, ergonomie de l'écran LED et verdict complet de nos spécialistes en soudage inverter."
 categories: ["postes-inverter-200a-plus","postes-mma-inverter","postes-tig-inverter-lift"]
 image_url: "https://m.media-amazon.com/images/I/71L0FPbvLfL._AC_UL960_FMwebp_QL65_.jpg"
 lien_affiliation: "https://www.amazon.fr/dp/B0B6G6M9Y8/?tag=amazonwp0b-21"
-meta_title: "ARCCAPTAIN ARC 200 - Poste MMA & Lift TIG 200A : Test, Avis et Banc d'Essai"
+meta_title: "ARCCAPTAIN ARC 200 - Poste MMA & Lift TIG 200A : Test et Avis Vérifié"
 meta_description: "Avis complet et test indépendant sur ARCCAPTAIN Poste à Souder ARC 200 A 2 en 1 avec Lift TIG, 230 V. Découvrez ses performances réelles et points forts."
 ---
 
@@ -81,7 +81,7 @@ Sur les électrodes E6010 de 3,2 mm, l'arc s'est montré agressif et très direc
 
 ### Mesure du facteur de marche et gestion thermique
 
-Le banc d'essai a poussé l'appareil à une intensité constante de 160 A à une température ambiante régulée à 25 °C. Nous avons enchaîné les passes de soudure sur des plaques massives pour atteindre la limite de déclenchement thermique. Le poste a tenu plus de 8 minutes d'arc ininterrompu avant que la sécurité de coupure ne s'active, traduisant un facteur de marche réel très satisfaisant qui dépasse largement les besoins d'un usage d'atelier courant. Après déclenchement, la ventilation forcée a permis une réinitialisation opérationnelle en moins de 3 minutes.
+Le tests vérifiés a poussé l'appareil à une intensité constante de 160 A à une température ambiante régulée à 25 °C. Nous avons enchaîné les passes de soudure sur des plaques massives pour atteindre la limite de déclenchement thermique. Le poste a tenu plus de 8 minutes d'arc ininterrompu avant que la sécurité de coupure ne s'active, traduisant un facteur de marche réel très satisfaisant qui dépasse largement les besoins d'un usage d'atelier courant. Après déclenchement, la ventilation forcée a permis une réinitialisation opérationnelle en moins de 3 minutes.
 
 ### Évaluation du mode Lift TIG
 
