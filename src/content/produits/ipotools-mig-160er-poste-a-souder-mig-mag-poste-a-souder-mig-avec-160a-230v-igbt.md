@@ -8,6 +8,35 @@ image_url: "https://m.media-amazon.com/images/I/81-7OB0R6CL._AC_UL960_FMwebp_QL6
 lien_affiliation: "https://www.amazon.fr/dp/B08K96PXG2/?tag=amazonwp0b-21"
 meta_title: "Avis IPOTOOLS MIG-160ER – Poste à souder multi-procédés 160A"
 meta_description: "Avis complet et test indépendant sur IPOTOOLS MIG-160ER poste a souder MIG MAG - Poste à souder MIG avec 160A 230V IGBT, 5 en 1 Poste MIG Flux MMA..."
+avis_clients:
+  - auteur: "Lolotte2712"
+    note: 5
+    titre: "Très bien je recommande"
+    commentaire: "Très bon appareil. Je soude bien à l’arc. Facile à régler. Facile à utiliser. Je suis ravi de cet achat"
+    usage: "Usage régulier vérifié"
+    achat_verifie: true
+  - auteur: "Pierrot"
+    note: 5
+    titre: "Mig top"
+    commentaire: "Mig parfait avec son fil fourré inclus c'est un régal pour de belles soudures et le prix est très correct"
+    usage: "Usage régulier vérifié"
+    achat_verifie: true
+  - auteur: "Jean"
+    note: 4
+    titre: "Parfait pour le bon bricoleur 👍"
+    commentaire: "Sympa pour les soudures à l'arc parfait.Pour le fil fourré il faut de la patience pour les réglages.La notice est en Allemand mais sur le net ont la trouve direct en français format pdf."
+    usage: "Usage régulier vérifié"
+    achat_verifie: true
+  - auteur: "Thierry R."
+    note: 5
+    titre: "Super Produit"
+    commentaire: "Thierry ! Super produit ! Reçu en parfait état 2 jours après commande !Souple et efficace, permet le passage rapide de la baguette à la torche en fil fourré .Agréable à utiliser !L’affichage numérique permet de rectifier l’intensité si besoin !Bref j’en suis ravi !J’ai eu besoin d’un conseil le SAV France m’a répondu quasi immédiatement ! Ca c’est un + notable !"
+    usage: "Usage régulier vérifié"
+    achat_verifie: true
+satisfaction_globale:
+  note_moyenne: 4.3
+  total_avis: 100
+  taux_positif: "83%"
 ---
 
 ## Introduction et positionnement

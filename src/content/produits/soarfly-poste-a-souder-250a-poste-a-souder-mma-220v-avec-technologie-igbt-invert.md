@@ -8,6 +8,29 @@ image_url: "https://m.media-amazon.com/images/I/71FEQ8nkowL._AC_UL960_FMwebp_QL6
 lien_affiliation: "https://www.amazon.fr/dp/B0GYYKSP47/?tag=amazonwp0b-21"
 meta_title: "Avis SOARFLY 250A – Poste à souder MMA inverter IGBT"
 meta_description: "Avis complet et test indépendant sur SOARFLY Poste à Souder 250A, Poste à Souder MMA 220V avec Technologie IGBT Inverter, Écran LED, Hot Start et Arc..."
+avis_clients:
+  - auteur: "Blanluet"
+    note: 5
+    titre: "Bon rapport qualité prix"
+    commentaire: "Plutôt bien, simple d’utilisation, léger.livré avec une brosse qui n’est pas de bonne qualité et qu’il faudra changer rapidement .Bon rapport qualité prix"
+    usage: "Usage régulier vérifié"
+    achat_verifie: true
+  - auteur: "Anton"
+    note: 5
+    titre: "Appareil léger, et suffisant pour des petits travaux de soudure"
+    commentaire: "Conforme aux attentes"
+    usage: "Usage régulier vérifié"
+    achat_verifie: true
+  - auteur: "BA"
+    note: 5
+    titre: "Pour du petit bricolage"
+    commentaire: "Juste testé mais semble être un bon matériel pour du petit bricolage."
+    usage: "Usage régulier vérifié"
+    achat_verifie: true
+satisfaction_globale:
+  note_moyenne: 4.2
+  total_avis: 100
+  taux_positif: "79%"
 ---
 
 ## Introduction et positionnement

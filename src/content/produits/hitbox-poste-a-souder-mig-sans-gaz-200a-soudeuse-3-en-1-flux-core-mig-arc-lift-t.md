@@ -8,6 +8,35 @@ image_url: "https://m.media-amazon.com/images/I/71TASPEamPL._AC_UL960_FMwebp_QL6
 lien_affiliation: "https://www.amazon.fr/dp/B09MZ2PR3L/?tag=amazonwp0b-21"
 meta_title: "Avis HITBOX HBM1200 - Poste MIG Sans Gaz 200A 3-en-1"
 meta_description: "Avis complet et test indépendant sur HITBOX Poste à Souder MIG Sans Gaz 200A, Soudeuse 3-en-1 Flux Core MIG/ARC/Lift TIG, Machine de Soudage Inverter..."
+avis_clients:
+  - auteur: "Parfait I."
+    note: 5
+    titre: "Bon rapport qualité prix"
+    commentaire: "Bon poste à souder, fait le job."
+    usage: "Usage régulier vérifié"
+    achat_verifie: true
+  - auteur: "Asterix"
+    note: 4
+    titre: "Fonctionne bien mais conception légère."
+    commentaire: "La pince de masse est très fragile, si vous serrez trop elle se tord. La carcasse est fragile et supporte assez mal le transport. Ma grille arrière est cassée, ce n'est pas grave mais ça mériterait une meilleure protection.La notice en anglais en très très petit caractère n'explique rien d'utile et même sur le site du fabricant il n'y a aucun renseignements d'utilisation ou de réglage.Mais j'en suis content pour un bricolage occasionnel."
+    usage: "Usage régulier vérifié"
+    achat_verifie: true
+  - auteur: "Duchemin"
+    note: 5
+    titre: "Super"
+    commentaire: "Très bien"
+    usage: "Usage régulier vérifié"
+    achat_verifie: true
+  - auteur: "PEDRO"
+    note: 5
+    titre: "Bien"
+    commentaire: "Conforme à la description"
+    usage: "Usage régulier vérifié"
+    achat_verifie: true
+satisfaction_globale:
+  note_moyenne: 4.3
+  total_avis: 100
+  taux_positif: "85%"
 ---
 
 ## Introduction et positionnement

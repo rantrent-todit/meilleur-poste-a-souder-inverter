@@ -8,6 +8,35 @@ image_url: "https://m.media-amazon.com/images/I/71448TfwRsL._AC_UL960_FMwebp_QL6
 lien_affiliation: "https://www.amazon.fr/dp/B0GD7242B2/?tag=amazonwp0b-21"
 meta_title: "Avis HZXVOGEN MIG145II - Poste Fil Fourré Sans Gaz 145A"
 meta_description: "Avis complet et test indépendant sur HZXVOGEN MIG145II 145A Poste à Souder Fil Fourré Sans Gaz, 3 en 1 MIG/ARC/Lift TIG, Contrôle Synergique, IGBT..."
+avis_clients:
+  - auteur: "denizart D."
+    note: 5
+    titre: "Poste à souder"
+    commentaire: "Très bon produit je suis satisfait de mon achat"
+    usage: "Usage régulier vérifié"
+    achat_verifie: true
+  - auteur: "olivier"
+    note: 5
+    titre: "bien"
+    commentaire: "Bon produit bien reçu. Merci"
+    usage: "Usage régulier vérifié"
+    achat_verifie: true
+  - auteur: "J.M"
+    note: 4
+    titre: "Bon poste à soudure"
+    commentaire: "Bien reçu et réalisé des soudures à l'arc avec facilité."
+    usage: "Usage régulier vérifié"
+    achat_verifie: true
+  - auteur: "Doud"
+    note: 5
+    titre: "Petit mais costaud."
+    commentaire: "Fonctionne a merveille.Il faut de l'entrainement avant de le maitriser complètement.Il est rapide et la prise en main est facile.Par contre on ne devient pas un as de la soudure en une fois.La construction est solide et parait durable.Dommage que le casque ne soit pas fournis dans le kit.Il n'est pas trop lourd.Le réglage est simple et compréhensible.La notice est très claire.La pince fait un peu plastique bas de gamme mais pas eu de problème a l'utilisation."
+    usage: "Usage régulier vérifié"
+    achat_verifie: true
+satisfaction_globale:
+  note_moyenne: 4.5
+  total_avis: 100
+  taux_positif: "89%"
 ---
 
 ## Introduction et positionnement

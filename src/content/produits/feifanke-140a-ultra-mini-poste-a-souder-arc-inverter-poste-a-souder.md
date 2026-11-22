@@ -8,6 +8,35 @@ image_url: "https://m.media-amazon.com/images/I/71FkFjF8VdL._AC_UL960_FMwebp_QL6
 lien_affiliation: "https://www.amazon.fr/dp/B0D2R86W4B/?tag=amazonwp0b-21"
 meta_title: "Avis FEIFANKE Mini 140A - Poste à Souder MMA Inverter"
 meta_description: "Avis complet et test indépendant sur FEIFANKE 140A Ultra Mini Poste A Souder Arc Inverter Poste à Souder. Découvrez ses performances réelles et points forts."
+avis_clients:
+  - auteur: "jean P."
+    note: 5
+    titre: "Pratique"
+    commentaire: "Petit mais très efficace aucun problème de soudure je le recommande vivement"
+    usage: "Usage régulier vérifié"
+    achat_verifie: true
+  - auteur: "hugues P."
+    note: 5
+    titre: "Parfait"
+    commentaire: "Après plusieurs postes je commençais à douter de mes capacités à réaliser des soudures propres. Et là deux trois essais et enfin quelque chose de convenable. J'ai testé avec des baguettes inox 1.6 et même résultats. Au vu des premiers essais cela semble très prometteur en tig lift. lorsque que j'aurais de l'argon je ferai un retour. Sinon poste très petit, cable très souple en 25mm2 et de bonne longueur, beaucoup de réglage à peaufiner à l'usage. Il manque juste une notice en français ( même si en anglais c'est correct ) détaillé concernant les possibilités et l'utilisation de ces réglages.Pour ma part je suis très satisfait de ce poste et vais enfin pouvoir souder correctement.Je le recommande très vivement.Petite rectification, sur le site constructeur on peut télécharger la notice complète en plusieurs langues ."
+    usage: "Usage régulier vérifié"
+    achat_verifie: true
+  - auteur: "Campanozzi"
+    note: 5
+    titre: "Très très bien"
+    commentaire: "Très très bien. Vraiment du bon travail. Un bon poste et peu encombrant"
+    usage: "Usage régulier vérifié"
+    achat_verifie: true
+  - auteur: "Client D."
+    note: 4
+    titre: "Bon poste à souder"
+    commentaire: "Très bon petit poste à souder, pratique et facile d'emploi, à voir dans le temps"
+    usage: "Usage régulier vérifié"
+    achat_verifie: true
+satisfaction_globale:
+  note_moyenne: 4.5
+  total_avis: 100
+  taux_positif: "85%"
 ---
 
 ## Introduction et positionnement

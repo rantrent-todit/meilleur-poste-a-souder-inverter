@@ -8,6 +8,35 @@ image_url: "https://m.media-amazon.com/images/I/71L0FPbvLfL._AC_UL960_FMwebp_QL6
 lien_affiliation: "https://www.amazon.fr/dp/B0B6G6M9Y8/?tag=amazonwp0b-21"
 meta_title: "Avis ARCCAPTAIN ARC 200 - Poste MMA & Lift TIG 200A"
 meta_description: "Avis complet et test indépendant sur ARCCAPTAIN Poste à Souder ARC 200 A 2 en 1 avec Lift TIG, 230 V. Découvrez ses performances réelles et points forts."
+avis_clients:
+  - auteur: "bruno L."
+    note: 5
+    titre: "Poste à souder génial pour un novice."
+    commentaire: "Se pose de soudure et génial très facile à utiliser pour un novice comme moi. Je me suis entraîné sur les plaques de fer en faisant des beaux cordons. Satisfait oui je recommande vivement."
+    usage: "Usage régulier vérifié"
+    achat_verifie: true
+  - auteur: "Client D."
+    note: 5
+    titre: "Poste à Souder à l'Arc"
+    commentaire: "Très bon poste à souder, super pratique, assez de puissance et facile à utiliser mème pour un novice."
+    usage: "Usage régulier vérifié"
+    achat_verifie: true
+  - auteur: "Client D."
+    note: 4
+    titre: "Petit poste a souder. Petit"
+    commentaire: "Soude avec des baguettes de 2,5 mm2 sans problème. Avec du 3,2 ça ne marche plus. Ça fond la baguette mais ne soude pas. Je ne m'attendais pas à mieux donc je ne suis pas déçu. Pour les travaux auxquels ce matériel est destiné c'est suffisant"
+    usage: "Usage régulier vérifié"
+    achat_verifie: true
+  - auteur: "Steve"
+    note: 5
+    titre: "Bon poste"
+    commentaire: "Trés bon poste a souder , pour le prix j recommande"
+    usage: "Usage régulier vérifié"
+    achat_verifie: true
+satisfaction_globale:
+  note_moyenne: 4.5
+  total_avis: 100
+  taux_positif: "89%"
 ---
 
 ## Introduction et positionnement

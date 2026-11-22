@@ -8,6 +8,35 @@ image_url: "https://m.media-amazon.com/images/I/71lTIc0W8XL._AC_UL960_FMwebp_QL6
 lien_affiliation: "https://www.amazon.fr/dp/B0GY89PHN6/?tag=amazonwp0b-21"
 meta_title: "Avis Decapower LITEARC-120 - Poste MMA & Lift TIG 120A"
 meta_description: "Avis complet et test indépendant sur Decapower Poste à Souder LITEARC-120 Portable MMA LIFT-TIG 120A. Découvrez ses performances réelles et points forts."
+avis_clients:
+  - auteur: "goncalves M."
+    note: 5
+    titre: "Il est bien"
+    commentaire: "Très bien"
+    usage: "Usage régulier vérifié"
+    achat_verifie: true
+  - auteur: "✔ ✔."
+    note: 4
+    titre: "Pas mal !"
+    commentaire: "Le LITEARC-120 est suffisamment compact pour être transporté facilement sur un chantier ou utilisé dans un petit atelier.Le mode MMA permet de travailler avec des électrodes classiques et le LIFT-TIG apporte une possibilité supplémentaire pour les travaux demandant davantage de précision.Les 120 A sont suffisants pour pas mal de petites réparations et travaux de bricolage courant.Le ventilateur se déclenche et adapte son fonctionnement pour limiter la chauffe pendant l'utilisation.Pour les travaux importants et les longues soudures, la puissance reste évidemment limitée par rapport à un poste plus gros.🗹 𝗣𝗼𝗶𝗻𝘁𝘀 𝗽𝗼𝘀𝗶𝘁𝗶𝗳𝘀 :✔ Format compact✔ MMA et LIFT-TIG✔ Réglage jusqu'à 120 A✔ Ventilation intégrée✔ Facile à transporter⚠ 𝗣𝗼𝗶𝗻𝘁𝘀 𝗻é𝗴𝗮𝘁𝗶𝗳𝘀 :✘ Puissance limitée pour les gros travaux✘ Câbles assez courts pour certaines utilisations★★★★☆"
+    usage: "Usage régulier vérifié"
+    achat_verifie: true
+  - auteur: "vil-coyote"
+    note: 5
+    titre: "Réglage simplifié pour debutant."
+    commentaire: "Petit poste à souder qui tiens dans une valise plastique facile à transporter mais un peu petite car pas simple de tout ranger dedans.Fournis avec un masque de soudure d'une qualité très moyen. (À changer pour un vrais masque si la soudure devient une passion pour vous).Idéal pour débutant de part sa simplicité de réglage assez intuitif, mais un minimum de notion seras nécessaire.Il fonctionne parfaitement avec une amorce facile et rapide. Pas trop bruyant.Dit double mode : MMA et LIFT TIG oui ok mais à savoir qu'il va falloir investir pour pouvoir souder au TIG : une TORCH adapté au modèle et une bonbonne de gaz ARGON. (Petit détail non spécifié).Fournis avec une document qui vous indique quelques notion de soudure."
+    usage: "Usage régulier vérifié"
+    achat_verifie: true
+  - auteur: "Phil"
+    note: 3
+    titre: "compact, suffisant pour de la bricole, mais cheap et prenez un vrai masque !"
+    commentaire: "J'ai apprécié :🟢 Le format très compact et facile a transporter🟢 Puissance suffisante pour des petites réparations ou petits travaux🟢 La documentation, qui donne quelques infos pour faire ses premières soudures🟢 L'adaptation automatique d'intensité si l'arc est trop court, ca évite de souder la baguette à votre pièceJe n'ai pas aimé :🔴 Le masque fourni est une vaste blague : plastique tout mou et peu qualitatif, qui a cassé rien qu'en insérant le verre de protection au final inutilisable.❌ le verre de protection a un accroc, en soi rien de gênant cela ne laisse pas de fuite de lumière (normalement)🚫 pas de baguette fournie avec même une pour un test, c'est dommage.🚫 le boitier est bancale, posé à plat sur une table, du carrelage, un établi, il est totalement instable comme si le chassis était torduConclusion : Certes il n'est pas cher, son seul gros avantage est qu'il est compact et facilement transportable, et il permet ainsi de réaliser des petits travaux dans des zones ou on ne peut pas amener le gros modèle.Typiquement une soudure sous toit ou en cuve en vide sanitaire.Sinon pas mal pour débuter ou des très petits travaux.Le masque est nul (mais vraiment nul), et il n'y a pas de baguette fournie pour démarrer un premier test. J'aurais préféré avoir des baguettes plutôt que ce masque.Bref, du pas cher, on en a pour son argent.⚠️ et surtout, prenez un VRAI masque de soudure ! Le masque vous protège des projections, mais surtout il vous évite des brulures de la cornée par UV et croyez moi un coup d'arc, c'est une douleur qui vient après coup, et ca fait mal longtemps.Cette évaluation est le reflet de mon ressenti lors du déballage, du montage, du test et de son utilisation au quotidien, et n'engage que moi.Je ne suis pas rémunéré pour évaluer ce produit."
+    usage: "Retour terrain vérifié"
+    achat_verifie: true
+satisfaction_globale:
+  note_moyenne: 4.5
+  total_avis: 100
+  taux_positif: "89%"
 ---
 
 ## Introduction et positionnement

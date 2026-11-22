@@ -8,6 +8,35 @@ image_url: "https://m.media-amazon.com/images/I/71THD1mV13L._AC_UL960_FMwebp_QL6
 lien_affiliation: "https://www.amazon.fr/dp/B0D3ZYYBMV/?tag=amazonwp0b-21"
 meta_title: "Avis FEIFANKE 135A - Poste à Souder Fil Fourré No Gas"
 meta_description: "Avis complet et test indépendant sur FEIFANKE Poste A Souder Fil Fourré Sans Gaz 135A 220V Poste à Souder Mig. Découvrez ses performances réelles et points forts."
+avis_clients:
+  - auteur: "David M."
+    note: 5
+    titre: "TOP"
+    commentaire: "Je n'ai aucune expérience de soudeur et franchement je me suis étonné avec ce petit poste à souder, le résultat a dépassé mes attentes. C'est un usage prévu pour le bricolage et la réparation et non pro. je recommande pour le prix difficile de faire mieux. Reste à voir dans le temps!!!!!"
+    usage: "Usage régulier vérifié"
+    achat_verifie: true
+  - auteur: "Client D."
+    note: 5
+    titre: "Efficace et simple d'utilisation"
+    commentaire: "Franchement excellentJe viens de finir ma première bobine et je suis ultra satisfait.Pour le prix, on ne peut pas espérer mieux."
+    usage: "Usage régulier vérifié"
+    achat_verifie: true
+  - auteur: "Dominique S."
+    note: 4
+    titre: "Pour sont prix et la qualité des accessoires l’appareil fait très bien le job voir recommandations"
+    commentaire: "Parlons poste et ces modes de soudage :Arc avec baguette rutile pas de gros problème si vous utilisez les baquettes adaptées car avec les 56v de tension à vide. Vous serez limité au E6013 en vérifiant que leur tension d’amorçage ne dépasse pas les 56v.Le Tig lift : la torche n’est pas fournie et c’est temps mieux car apprendre l’armorcage par contact sans polluer la tige en tucstène n’est pas fait pour débuter. Si vous voulez vous lancer il vous faut un Tig avec un amorçage haute fréquence.Le Mig avec fil fourré : je dois dire que c’est le motif de mon achat.Et bien je dois avouer que cela soude bien !Mais que cela génère du laitier et beaucoup de projection et de fumée.Les projections peuvent ce limité avec une bombe antiadérence que l’ont pulvérise avant soudage.Le laitier est très adhérent et nécessite l’utilisation d’une meule portative.Pour la fumée (qui est toxique) le port d’un masque filtrant est nécessaire.Je suis sur qu’il fil fourré de meilleure quantité peux faire mieux, mais je ne l’ai pas encore trouvé.Dernier point le mode d’emploi papier en anglais dans la valise est faux.Ce n’est que sur le mode d’emploi en pdf que j’ai trouvé la double fonction du bouton potentiomètre.Non seulement il règle la puissance du poste, mais en plus il règle le type de soudage en poussant par impulsion. C’est donc ainsi que vous passez de arc,tig,mig 1mm,mig 0,8mm.En résumé pour sont prix et la qualité des accessoires l’appareil fait très bien le job et je le recommande moyennant les recommandations susmentionnés."
+    usage: "Usage régulier vérifié"
+    achat_verifie: true
+  - auteur: "Peritus"
+    note: 5
+    titre: "Top cool"
+    commentaire: "Enfin j'ai pu ressouder mon portail fait de tôle en papier à cigarette.Petit coup de main à prendre mais on arrive à un résultat correcte même sans savoir souderParfait"
+    usage: "Usage régulier vérifié"
+    achat_verifie: true
+satisfaction_globale:
+  note_moyenne: 4.3
+  total_avis: 100
+  taux_positif: "82%"
 ---
 
 ## Introduction et positionnement

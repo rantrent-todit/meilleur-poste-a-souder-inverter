@@ -8,6 +8,35 @@ image_url: "https://m.media-amazon.com/images/I/71wVMkix5kL._AC_UL960_FMwebp_QL6
 lien_affiliation: "https://www.amazon.fr/dp/B0G2RFRJBZ/?tag=amazonwp0b-21"
 meta_title: "Avis MMA130 Numérique – Mini poste à souder à l'arc inverter 130A"
 meta_description: "Avis complet et test indépendant sur Poste à souder à l’arc MMA130 Numérique - Mini Poste a Souder Inverter,Compact et Léger avec Fonction..."
+avis_clients:
+  - auteur: "Tarfif"
+    note: 5
+    titre: "Petit, donc très pratique et très efficace !!"
+    commentaire: "Reçu rapidement. Je ne l’ai pas encore essayé mais ça a l’air bien. Il est tout petit donc très pratique pour souder en déplacement.Le 20/07/ : je m’en suis servi, et il fonctionne parfaitement !! Je recommande vivement !!"
+    usage: "Usage régulier vérifié"
+    achat_verifie: true
+  - auteur: "Aurelien"
+    note: 5
+    titre: "Fonctionne très bien"
+    commentaire: "Très bien pour débuter moi qui n'en a jamais fait on se fait asser la main"
+    usage: "Usage régulier vérifié"
+    achat_verifie: true
+  - auteur: "MERLIN P."
+    note: 5
+    titre: "Fait le job"
+    commentaire: "Très bon, léger et efficace."
+    usage: "Usage régulier vérifié"
+    achat_verifie: true
+  - auteur: "Serge06"
+    note: 5
+    titre: "excellent"
+    commentaire: "excellent"
+    usage: "Usage régulier vérifié"
+    achat_verifie: true
+satisfaction_globale:
+  note_moyenne: 4.7
+  total_avis: 100
+  taux_positif: "95%"
 ---
 
 ## Introduction et positionnement

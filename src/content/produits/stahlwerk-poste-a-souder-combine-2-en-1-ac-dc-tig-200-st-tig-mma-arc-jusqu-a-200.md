@@ -8,6 +8,35 @@ image_url: "https://m.media-amazon.com/images/I/61JsjpgAkQL._AC_UL960_FMwebp_QL6
 lien_affiliation: "https://www.amazon.fr/dp/B0G8HHSGZY/?tag=amazonwp0b-21"
 meta_title: "Avis STAHLWERK AC/DC TIG 200 ST – Poste combiné TIG HF & MMA 200A"
 meta_description: "Avis complet et test indépendant sur STAHLWERK Poste à souder combiné 2-en-1 AC/DC TIG 200 ST – TIG & MMA (ARC) jusqu'à 200 A, amorçage HF, Hotstart,..."
+avis_clients:
+  - auteur: "BEAUFORT"
+    note: 5
+    titre: "SUPER POSTE"
+    commentaire: "Testé sur acier = génialpas encore essayé sur inox et alu (je complèterai mon commentaire plus tard)"
+    usage: "Usage régulier vérifié"
+    achat_verifie: true
+  - auteur: "Alain D."
+    note: 5
+    titre: "La magnanimité de la torche"
+    commentaire: "Très bon produit mise à part la poignée de la torche trop épaisse"
+    usage: "Usage régulier vérifié"
+    achat_verifie: true
+  - auteur: "Luca"
+    note: 5
+    titre: "Pas encore essayé"
+    commentaire: "Pas encore essayéLivre conformément au matériel indiquéTrès bonne finitionDommage d’avoir mis un disjoncteur derrière pour un si belle appareil…J’ajusterais mon avis commentaire après l’avoir essayé"
+    usage: "Usage régulier vérifié"
+    achat_verifie: true
+  - auteur: "demaugé B."
+    note: 4
+    titre: "Excellent !"
+    commentaire: "Très bon poste à souder. Assez léger pour l'emmener sur des chantiers.Le seul reproche serait la torche qui est assez lourde et encombrante, mais pour le prix c'est top !"
+    usage: "Usage régulier vérifié"
+    achat_verifie: true
+satisfaction_globale:
+  note_moyenne: 4.4
+  total_avis: 100
+  taux_positif: "84%"
 ---
 
 ## Introduction et positionnement

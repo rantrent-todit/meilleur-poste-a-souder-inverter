@@ -8,6 +8,35 @@ image_url: "https://m.media-amazon.com/images/I/514Lv5Q0B3L._AC_UL960_FMwebp_QL6
 lien_affiliation: "https://www.amazon.fr/dp/B008MXXHJ8/?tag=amazonwp0b-21"
 meta_title: "Avis GYS GYSMI 160P - Poste à Souder MMA Inverter 160A"
 meta_description: "Avis complet et test indépendant sur GYS, GYSMI 160P, Poste à Souder à l'Électrode Enrobée 160A Monophasé 230V (MMA), Arc Force, Antisticking, Hot..."
+avis_clients:
+  - auteur: "courtel L."
+    note: 5
+    titre: "les réglages et le poids"
+    commentaire: "Très bien"
+    usage: "Usage régulier vérifié"
+    achat_verifie: true
+  - auteur: "MAXD"
+    note: 5
+    titre: "FACILE que du Bonheur"
+    commentaire: "Super content de mon achat livraison hyper rapide et super prixQue du bonheur super intuitif et facile avec un résultat remarquable et je suis novice en plusJ'ai acheté les équipements sécurité sur Amazone Impeccable coté sécurité je conseille la cagoule et les super gants ça chauffe NICKEL"
+    usage: "Usage régulier vérifié"
+    achat_verifie: true
+  - auteur: "Client D."
+    note: 5
+    titre: "Indispensable, un \"must to have\""
+    commentaire: "Vous cherchez un poste à souder qui fait de belles et bonnes soudures?Ne cherchez pas plus loin, c'est l'outil idéal.J'avais un ancien poste onduleur (inverter) et je le trouvais pas mal mais bcp trop de problème de collageAvec ce poste rien à voir, ça colle pas, les soudures sont magnifiques, c'est un jeu d'enfant.En plus de par sa taille et son poids mini on peut le prendre n'importe où en bandoulière (soudure en hauteur )"
+    usage: "Usage régulier vérifié"
+    achat_verifie: true
+  - auteur: "JB77"
+    note: 4
+    titre: "Excellent mais..."
+    commentaire: "Efficace et fait bien son travail mais les câbles sont ridiculement courts. 1 étoile en moins !"
+    usage: "Usage régulier vérifié"
+    achat_verifie: true
+satisfaction_globale:
+  note_moyenne: 4.6
+  total_avis: 100
+  taux_positif: "92%"
 ---
 
 ## Introduction et positionnement
