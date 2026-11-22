@@ -64,13 +64,19 @@
   <!-- Éléments vectoriels de la thématique -->
   <g filter="url(#softShadow)">
     
-    <g transform="translate(128, 128) scale(1.15) translate(-128, -128)">
-      <!-- Écusson de confiance -->
-      <path d="M128 36 L196 64 C196 142 162 192 128 214 C94 192 60 142 60 64 Z" fill="rgba(255,255,255,0.16)" stroke="#ffffff" stroke-width="12" stroke-linejoin="round" />
-      <!-- Coche de vérification d'expert -->
-      <path d="M96 122 L118 144 L162 98" fill="none" stroke="#ffffff" stroke-width="16" stroke-linecap="round" stroke-linejoin="round" />
-      <!-- Étoile d'or au sommet -->
-      <polygon points="128,52 133,65 147,65 136,73 140,86 128,78 116,86 120,73 109,65 123,65" fill="#fbbf24" stroke="none" />
+    <g transform="translate(128, 128) scale(1.12) translate(-128, -128)">
+      <!-- Masque de soudeur ergonomique / Cagoule optoélectronique -->
+      <path d="M72 64 C72 44 96 36 128 36 C160 36 184 44 184 64 L192 136 C192 176 166 210 128 218 C90 210 64 176 64 136 Z" fill="rgba(255,255,255,0.16)" stroke="#ffffff" stroke-width="12" stroke-linejoin="round" />
+      <!-- Cellule LCD inactinique avec filtre auto-obscurcissant -->
+      <rect x="90" y="86" width="76" height="48" rx="8" fill="#0f172a" stroke="#ffffff" stroke-width="6" />
+      <rect x="98" y="94" width="60" height="32" rx="4" fill="#065f46" stroke="#34d399" stroke-width="3" />
+      <!-- Capteurs solaires & réglage DIN -->
+      <line x1="104" y1="76" x2="152" y2="76" stroke="#fbbf24" stroke-width="5" stroke-linecap="round" />
+      <!-- Éclairs d'arc électrique de soudage inverter -->
+      <path d="M128 152 L120 170 L134 170 L124 192" fill="none" stroke="#f97316" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" />
+      <polygon points="128,142 132,150 140,150 134,156 136,164 128,159 120,164 122,156 116,150 124,150" fill="#38bdf8" />
+      <!-- Grille d'aération basse du masque -->
+      <line x1="110" y1="198" x2="146" y2="198" stroke="rgba(255,255,255,0.4)" stroke-width="4" stroke-linecap="round" />
     </g>
   
   </g>
