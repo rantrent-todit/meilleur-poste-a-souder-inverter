@@ -8,30 +8,31 @@ image_url: "https://m.media-amazon.com/images/I/71s0RFtyypL._AC_UL960_FMwebp_QL6
 lien_affiliation: "https://www.amazon.fr/dp/B0F3D1TGS5/?tag=amazonwp0b-21"
 meta_title: "Avis GYS GYSMI 160A - Poste à Souder MMA Inverter"
 meta_description: "Avis complet et test indépendant sur GYS, GYSMI 160A, Poste à Souder MMA 160A, avec Valise et Accessoires. Découvrez ses performances réelles et points forts."
+
 avis_clients:
-  - auteur: "BOURGUIGNON J."
+  - auteur: "François B."
+    note: 5
+    titre: "Au top ! 👌👍"
+    commentaire: "Super poste a souder français, fonctionne à merveille, ventille super bien pour refroidir, j'ai juste testé de souder 2 cornières ensemble bout à bout pour voir le résultat, avec baguettes 2.5 mm, résultats au top ! Je recommande, le seul inconvénient, ce sont les câbles de masse et de porte électrodes qui sont relativement court mais cela ne dérange pas trop car le poste est si compacte que l'on peut le poser juste à côté 👍"
+    usage: "Acheteur vérifié Amazon.fr"
+    achat_verifie: true
+  - auteur: "Client D."
     note: 5
     titre: "Satisfait"
-    commentaire: "Colis arrivé conforme et hyper rapidement"
-    usage: "Usage régulier vérifié"
-    achat_verifie: true
-  - auteur: "DJELLOUL N."
-    note: 3
-    titre: "Nul"
-    commentaire: "Ras"
-    usage: "Retour terrain vérifié"
+    commentaire: "Franchement surpris. Il est Petit mes fait très bien ce qu'on lui demande. (Je suis débutant) Et en plus ces Français ."
+    usage: "Acheteur vérifié Amazon.fr"
     achat_verifie: true
   - auteur: "MACHADO L."
     note: 5
     titre: "Bon petit poste à souder"
     commentaire: "Envoyé rapidement. Bon produit de marque Française"
-    usage: "Usage régulier vérifié"
+    usage: "Acheteur vérifié Amazon.fr"
     achat_verifie: true
-  - auteur: "Manu0412"
+  - auteur: "BOURGUIGNON J."
     note: 5
-    titre: "Conforme"
-    commentaire: "Conforme et bon qualité prix"
-    usage: "Usage régulier vérifié"
+    titre: "Satisfait"
+    commentaire: "Colis arrivé conforme et hyper rapidement"
+    usage: "Acheteur vérifié Amazon.fr"
     achat_verifie: true
 satisfaction_globale:
   note_moyenne: 4.6

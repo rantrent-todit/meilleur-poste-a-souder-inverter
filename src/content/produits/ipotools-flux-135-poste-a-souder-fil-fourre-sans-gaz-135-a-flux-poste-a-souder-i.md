@@ -8,30 +8,31 @@ image_url: "https://m.media-amazon.com/images/I/81nP-ydeZnL._AC_UL960_FMwebp_QL6
 lien_affiliation: "https://www.amazon.fr/dp/B0CND86LL5/?tag=amazonwp0b-21"
 meta_title: "Avis IPOTOOLS FLUX-135 – Poste à souder sans gaz 135A IGBT"
 meta_description: "Avis complet et test indépendant sur IPOTOOLS FLUX-135 Poste à souder fil fourré sans gaz - 135 A FLUX Poste à souder inverter sans gaz pour poste à..."
+
 avis_clients:
   - auteur: "Mitch78700"
     note: 5
     titre: "Top"
     commentaire: "Je suis novice en matière de soudure ( uniquement brasure ancienne école)Ce poste est top, hyper simple à utiliser, j'arrive à faire des cordons super propre, et après vérification les soudures sont bien profondes et efficaces.Je recommande ++++"
-    usage: "Usage régulier vérifié"
+    usage: "Acheteur vérifié Amazon.fr"
     achat_verifie: true
-  - auteur: "Romain P."
+  - auteur: "alban"
     note: 5
-    titre: "Excellent produit"
-    commentaire: "Incroyable produit pour le prix 💪💪🌿🌱j'en suis très content"
-    usage: "Usage régulier vérifié"
+    titre: "Bon poste"
+    commentaire: "Débutant en soudure ce poste m'a permis de souder de l'acier très fin de 1mm avec le fil fourré. J'ai prit ce poste car il propose des ampèrage très faible de 20 Amp.Facile d'utilisation. Le volatage est également modulable."
+    usage: "Acheteur vérifié Amazon.fr"
+    achat_verifie: true
+  - auteur: "Doudou"
+    note: 5
+    titre: "Impec"
+    commentaire: "Poste a souder impecFacile d'utilisationFais le taffSeul hic il faut aller chercher la notice en français sur le net mais rien de bien méchant ^^"
+    usage: "Acheteur vérifié Amazon.fr"
     achat_verifie: true
   - auteur: "favede B."
     note: 4
     titre: "Qualités"
     commentaire: "Pas trop mal comme poste je soude que de la tôle fine avec le fil fourré"
-    usage: "Usage régulier vérifié"
-    achat_verifie: true
-  - auteur: "Charly"
-    note: 1
-    titre: "Produit à éviter"
-    commentaire: "Le fil fourré ne fonctionne pas. Il faut le tirer manuellement. Je suis très déçu du produit."
-    usage: "Retour terrain vérifié"
+    usage: "Acheteur vérifié Amazon.fr"
     achat_verifie: true
 satisfaction_globale:
   note_moyenne: 4.1

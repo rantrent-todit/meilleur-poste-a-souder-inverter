@@ -8,30 +8,31 @@ image_url: "https://m.media-amazon.com/images/I/718xiPm9cvL._AC_UL960_FMwebp_QL6
 lien_affiliation: "https://www.amazon.fr/dp/B0C8HF8N9J/?tag=amazonwp0b-21"
 meta_title: "Avis Poste à souder VEVOR MIG 250 A (MIG / MMA / TIG Lift)"
 meta_description: "Avis complet et test indépendant sur VEVOR Poste à Souder MIG, 250 A, Machine de Soudage Portable Multi-processus MIG MMA LIFT TIG 3 en 1 Soudeur..."
+
 avis_clients:
+  - auteur: "Bob"
+    note: 5
+    titre: "Travail preci"
+    commentaire: "Fonctionne très bienJ'ai déjà essayé le mode tig et mig gaz, sans gazLe tig n'est bon que pour des soudage d'épaisseur correct les tôle fines c'est trop fort pour çaLe mig est bien en fil fourré mais là aussi le métal au dessus de 1,5 mm autrement ce sera difficile de faire des soudure sans faire de trous où alors être très habitué à la soudure.Le mig avec gaz et très bien les soudure sont faciles à faire et ils et plus aisé, je l'ai testé sur des tôle de 0,5mm et on arrive à souder sans problèmeBien sûr le poste n'est fourni qu'avec une roulette pour des fil de 1 ou 0,8mm il faudra penser à commander les roulette adéquat pour les autres dimensions,Le robinet pour le gaz n'est pas fourni non plus.Je n'ai pas testé la soudure à l'électrode.Mais pour l'instant le poste fonctionne parfaitement en comparaison d'un autre que je possède.Je recommande vivement ce produit."
+    usage: "Acheteur vérifié Amazon.fr"
+    achat_verifie: true
   - auteur: "Royer"
     note: 5
     titre: "Bon poste a souder"
     commentaire: "Très satisfait du poste a souder multi fonction seul regret la notice est en anglais"
-    usage: "Usage régulier vérifié"
+    usage: "Acheteur vérifié Amazon.fr"
+    achat_verifie: true
+  - auteur: "Olivier H."
+    note: 5
+    titre: "fonctionne bien"
+    commentaire: "je l'ai utilisé en MIG uniquement. Facile d'utilisation et bonne pénétration."
+    usage: "Acheteur vérifié Amazon.fr"
     achat_verifie: true
   - auteur: "Jacques E."
     note: 5
     titre: "Bon rapport qualité/prix"
     commentaire: "Il fait le job. Suffisant pour moi"
-    usage: "Usage régulier vérifié"
-    achat_verifie: true
-  - auteur: "Dominique M."
-    note: 4
-    titre: "Vevor"
-    commentaire: "Parfait"
-    usage: "Usage régulier vérifié"
-    achat_verifie: true
-  - auteur: "Bob"
-    note: 5
-    titre: "Travail preci"
-    commentaire: "Fonctionne très bienJ'ai déjà essayé le mode tig et mig gaz, sans gazLe tig n'est bon que pour des soudage d'épaisseur correct les tôle fines c'est trop fort pour çaLe mig est bien en fil fourré mais là aussi le métal au dessus de 1,5 mm autrement ce sera difficile de faire des soudure sans faire de trous où alors être très habitué à la soudure.Le mig avec gaz et très bien les soudure sont faciles à faire et ils et plus aisé, je l'ai testé sur des tôle de 0,5mm et on arrive à souder sans problèmeBien sûr le poste n'est fourni qu'avec une roulette pour des fil de 1 ou 0,8mm il faudra penser à commander les roulette adéquat pour les autres dimensions,Le robinet pour le gaz n'est pas fourni non plus.Je n'ai pas testé la soudure à l'électrode.Mais pour l'instant le poste fonctionne parfaitement en comparaison d'un autre que je possède.Je recommande vivement ce produit."
-    usage: "Usage régulier vérifié"
+    usage: "Acheteur vérifié Amazon.fr"
     achat_verifie: true
 satisfaction_globale:
   note_moyenne: 4.3

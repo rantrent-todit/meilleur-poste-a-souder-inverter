@@ -8,30 +8,31 @@ image_url: "https://m.media-amazon.com/images/I/71lTIc0W8XL._AC_UL960_FMwebp_QL6
 lien_affiliation: "https://www.amazon.fr/dp/B0GY89PHN6/?tag=amazonwp0b-21"
 meta_title: "Avis Decapower LITEARC-120 - Poste MMA & Lift TIG 120A"
 meta_description: "Avis complet et test indépendant sur Decapower Poste à Souder LITEARC-120 Portable MMA LIFT-TIG 120A. Découvrez ses performances réelles et points forts."
+
 avis_clients:
-  - auteur: "goncalves M."
-    note: 5
-    titre: "Il est bien"
-    commentaire: "Très bien"
-    usage: "Usage régulier vérifié"
+  - auteur: "ambro E."
+    note: 4
+    titre: "Petit, léger, tout bon hormis les accessoires trop basiques."
+    commentaire: "Livré dans une petite mallette plastique avec notice en français et quelques accessoires.Ce qui surprend c'est la taille, vraiment mini, presque moitié d'une boite à chaussures.Les accessoires fournis:Masque avec verre teinté et poignée en kit, c'est vraiment parce qu'il tient dans la boite, ou alors si on a rien d'autre mais sinon, on oubliera.La brosse/marteau, pareil, si on a rien d'autre...Les câbles sont de section correcte, la pince de masse ressemble à celles des câbles de démarrage auto les moins chers.Le porte baguette est lui suffisant, la pince assez puissante pour bien tenir.Il ne sont pas très longs, mais c'est assez pour un poste portable, on pourra toujours en mettre des plus longs ou des plus costauds, le système de verrouillage quart de tour est presque standard. En fait certains passent, pas d'autres, fonction de l'épaisseur ou de la position de l'ergot, mais c'est aisément modifiable.Le modèle 120A sera suffisant pour les travaux de bricolage, ferronnerie etc, l'avantage est surtout sa taille et son poids, on pourra l'utiliser sur une échelle ou avec une simple rallonge au bout du jardin.Je me contenterai du mode MMA, vu que la torche TIG n'est pas fournie ni bien sur la bouteille de gaz argon/arcal.On oubliera de toute façon la soudure sur alu, pas de courant AC.Interrupteur situé sur l'arrière pour la mise en route, l'écran d'affichage est plutôt complet, bien pour les débutants car il indique le diamètre de la baguette à utiliser fonction de l'épaisseur de la pièce métal et l'ampérage.Le ventilateur se déclenche au premier arc, et continue de fonctionner après extinction du poste jusqu'au complet refroidissement.Essai vite fait de soudure, (comme un goret...), l'anti collage semble fonctionner, l'arc est bien puissant et continu, faudra quelques essais pour s'habituer aux réglages et fonctions diverses.Un bon petit poste pour celui qui n'en a pas, ne prend pas de place et facile à transporter, les 120A étant suffisants pour les travaux courants.Pour plus de confort, on s'équipera d'un masque automatique, un vrai marteau de soudeur et une bonne brosse métallique. On oubliera pas non plus quelques électrodes, aucune n'étant fournie."
+    usage: "Acheteur vérifié Amazon.fr"
+    achat_verifie: true
+  - auteur: "Pierre"
+    note: 4
+    titre: "Poste à souder idéal pour débutant ou petits travaux"
+    commentaire: "Petit poste à souder simple à utiliser et adapté à des travaux occasionnels ou pour débutant.Chose très appréciable, il est livré bien rangé dans une malette de transport, de quoi le transporter sans risque de l’abîmer.Pour de la soudure occasionnelle il rempli parfaitement son rôle avec de petites baguettes.L’écran indique la puissance réglée via la molette et affiche l’épaisseur de tôle qu’il est possible de souder avec les réglages actuels ainsi que le diamètre de baguette à utiliser.Même si cela reste purement théorique pour les débutants cela peut aider à trouver le réglage adéquat.Le poste est fourni avec les câbles nécessaire à la soudure MMA (pince de masse et porte électrode).Un petit masque à soudure est également fourni mais il n’est pas pratique car il fait le tenir à la main devant soit, il n’est pas automatique et donc peu agréable à utiliser.Un bon petit poste pour la soudure occasionnelle ou pour débuter qui fonctionne bien et permet des réglages fins afin d’éviter les défauts d’amorçage ou d’électrodes qui collent 👍🏻"
+    usage: "Acheteur vérifié Amazon.fr"
     achat_verifie: true
   - auteur: "✔ ✔."
     note: 4
     titre: "Pas mal !"
     commentaire: "Le LITEARC-120 est suffisamment compact pour être transporté facilement sur un chantier ou utilisé dans un petit atelier.Le mode MMA permet de travailler avec des électrodes classiques et le LIFT-TIG apporte une possibilité supplémentaire pour les travaux demandant davantage de précision.Les 120 A sont suffisants pour pas mal de petites réparations et travaux de bricolage courant.Le ventilateur se déclenche et adapte son fonctionnement pour limiter la chauffe pendant l'utilisation.Pour les travaux importants et les longues soudures, la puissance reste évidemment limitée par rapport à un poste plus gros.🗹 𝗣𝗼𝗶𝗻𝘁𝘀 𝗽𝗼𝘀𝗶𝘁𝗶𝗳𝘀 :✔ Format compact✔ MMA et LIFT-TIG✔ Réglage jusqu'à 120 A✔ Ventilation intégrée✔ Facile à transporter⚠ 𝗣𝗼𝗶𝗻𝘁𝘀 𝗻é𝗴𝗮𝘁𝗶𝗳𝘀 :✘ Puissance limitée pour les gros travaux✘ Câbles assez courts pour certaines utilisations★★★★☆"
-    usage: "Usage régulier vérifié"
+    usage: "Acheteur vérifié Amazon.fr"
     achat_verifie: true
-  - auteur: "vil-coyote"
+  - auteur: "Stéphane"
     note: 5
-    titre: "Réglage simplifié pour debutant."
-    commentaire: "Petit poste à souder qui tiens dans une valise plastique facile à transporter mais un peu petite car pas simple de tout ranger dedans.Fournis avec un masque de soudure d'une qualité très moyen. (À changer pour un vrais masque si la soudure devient une passion pour vous).Idéal pour débutant de part sa simplicité de réglage assez intuitif, mais un minimum de notion seras nécessaire.Il fonctionne parfaitement avec une amorce facile et rapide. Pas trop bruyant.Dit double mode : MMA et LIFT TIG oui ok mais à savoir qu'il va falloir investir pour pouvoir souder au TIG : une TORCH adapté au modèle et une bonbonne de gaz ARGON. (Petit détail non spécifié).Fournis avec une document qui vous indique quelques notion de soudure."
-    usage: "Usage régulier vérifié"
-    achat_verifie: true
-  - auteur: "Phil"
-    note: 3
-    titre: "compact, suffisant pour de la bricole, mais cheap et prenez un vrai masque !"
-    commentaire: "J'ai apprécié :🟢 Le format très compact et facile a transporter🟢 Puissance suffisante pour des petites réparations ou petits travaux🟢 La documentation, qui donne quelques infos pour faire ses premières soudures🟢 L'adaptation automatique d'intensité si l'arc est trop court, ca évite de souder la baguette à votre pièceJe n'ai pas aimé :🔴 Le masque fourni est une vaste blague : plastique tout mou et peu qualitatif, qui a cassé rien qu'en insérant le verre de protection au final inutilisable.❌ le verre de protection a un accroc, en soi rien de gênant cela ne laisse pas de fuite de lumière (normalement)🚫 pas de baguette fournie avec même une pour un test, c'est dommage.🚫 le boitier est bancale, posé à plat sur une table, du carrelage, un établi, il est totalement instable comme si le chassis était torduConclusion : Certes il n'est pas cher, son seul gros avantage est qu'il est compact et facilement transportable, et il permet ainsi de réaliser des petits travaux dans des zones ou on ne peut pas amener le gros modèle.Typiquement une soudure sous toit ou en cuve en vide sanitaire.Sinon pas mal pour débuter ou des très petits travaux.Le masque est nul (mais vraiment nul), et il n'y a pas de baguette fournie pour démarrer un premier test. J'aurais préféré avoir des baguettes plutôt que ce masque.Bref, du pas cher, on en a pour son argent.⚠️ et surtout, prenez un VRAI masque de soudure ! Le masque vous protège des projections, mais surtout il vous évite des brulures de la cornée par UV et croyez moi un coup d'arc, c'est une douleur qui vient après coup, et ca fait mal longtemps.Cette évaluation est le reflet de mon ressenti lors du déballage, du montage, du test et de son utilisation au quotidien, et n'engage que moi.Je ne suis pas rémunéré pour évaluer ce produit."
-    usage: "Retour terrain vérifié"
+    titre: "Top pour bricoler"
+    commentaire: "Bon petit poste à souder pour bricoler. Il est de bonne qualité, les finitions sont soignées, il fait de très belle soudure avec de la baguette 2,5 mm. Je n’ai pas essayé avec d’autres baguettes. Le réglage est précis, il est compact et léger. L’écran digital affiche tout les menus d’une façon claire et intuitive. Les réglages s’effectuent à l’aide de deux boutons poussoir et de la molette rotative. Lorsque l’on monte l’intensité, l’écran affiche automatiquement le type de baguette à utiliser. Il est livré dans une petite mallette en plastique. Le masque est pliable ce qui permet de le ranger dans la boîte. Un petit marteau à piquer ainsi qu’une brosse métallique sont fournis . Très bon rapport qualité prix, je recommande."
+    usage: "Acheteur vérifié Amazon.fr"
     achat_verifie: true
 satisfaction_globale:
   note_moyenne: 4.5

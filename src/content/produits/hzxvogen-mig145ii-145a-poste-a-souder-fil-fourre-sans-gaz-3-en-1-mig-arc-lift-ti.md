@@ -8,30 +8,31 @@ image_url: "https://m.media-amazon.com/images/I/71448TfwRsL._AC_UL960_FMwebp_QL6
 lien_affiliation: "https://www.amazon.fr/dp/B0GD7242B2/?tag=amazonwp0b-21"
 meta_title: "Avis HZXVOGEN MIG145II - Poste Fil Fourré Sans Gaz 145A"
 meta_description: "Avis complet et test indépendant sur HZXVOGEN MIG145II 145A Poste à Souder Fil Fourré Sans Gaz, 3 en 1 MIG/ARC/Lift TIG, Contrôle Synergique, IGBT..."
+
 avis_clients:
-  - auteur: "denizart D."
+  - auteur: "Matthieu C."
     note: 5
-    titre: "Poste à souder"
-    commentaire: "Très bon produit je suis satisfait de mon achat"
-    usage: "Usage régulier vérifié"
+    titre: "Exceptionnel, absolument génial pour un usage amateur! Difficile de faire mieux!"
+    commentaire: "C'est le 3e poste à souder destiné aux particuliers que je suis amené à tester et, pour faire court, ce modèle propose le combo ultime pour les particuliers. Si vous êtes un parfait débutant et que vous avez besoin de souder 1 fois par mois du métal pour bricoler, ne cherchez pas plus loin : c'est exactement ce modèle qu'il vous faut ! Après une dizaine de soudures d'entraînement, l'efficacité sera bien là (même si visuellement il y aura de la marge pour s'améliorer, héhé...)Afin de prendre une décision éclairée, voici ce qu'il est nécessaire de connaître avec ce modèle :_ Le kit vous permet immédiatement de faire des soudures de type MIG/MAG (fil fourré sans gaz). Ce sont les soudures avec lesquelles vous avez une sorte de pistolet dans la main, et lorsque vous pressez la gâchette, le fil fourré sort lentement et, au contact du métal, il chauffe et fait fondre le métal. Point important, le mode MIG/MAG est compatible avec les bobines de fil fourré de 0,8 mm mais aussi de 1 mm, ce qui permet de couvrir quasiment toutes les utilisations d'un particulier._ L'appareil est aussi compatible avec le soudage par électrode que l'on appelle MMA, ce sont les baguettes de soudage classiques. L'avantage de ce mode, c'est la facilité et surtout, à mon avis, que la soudure génère beaucoup moins de projections qu'avec le mode MIG/MAG (qui donne l'impression d'un feu d'artifice). Je trouve ce mode plus accessible aux débutants : en effet, il faut choisir la taille de la baguette non pas en fonction de la largeur du trou à combler, mais de l'épaisseur de la plaque de métal à souder (c'est une précision particulièrement importante). Concrètement, vous aurez donc besoin d'acheter en plus les électrodes dans les tailles suivantes (le prix est dérisoire) : 1,6, 2, 2,5 et 3,2 mm pour couvrir les épaisseurs de tôle allant de quelques millimètres à environ 1 cm (au-dessus, ce n'est plus, pour le coup, du travail d'amateur...)._ Enfin, l'appareil est aussi compatible avec la technologie de soudage TIG (mais là, il faut des bonbonnes de gaz additionnelles, donc ce n'est plus du tout pour les particuliers). L'avantage principal du soudage TIG, c'est de pouvoir assembler des pièces en aluminium...Vous l'aurez compris, si vous êtes débutant, je vous recommande de partir sur la technologie MMA tout simplement. Bien sûr, il faudra ajouter au prix d'achat de la machine les équipements de protection qui, pour le coup, sont absolument obligatoires (l'option doudoune de ski est inenvisageable et, surtout, peut prendre feu avec les projections). Il faut budgéter 100 euros pour un casque visière certifié, une paire de gants et un long tablier en cuir.Concernant le mode opératoire, on branche la pince sur le +, l'électrode MMA ou le pistolet MIG/MAG sur le moins. On sélectionne l'intensité (pour les baguettes MMA, c'est écrit sur l'emballage) et pour le fil fourré, c'est selon le diamètre du fil. Franchement, pas de prise de tête, c'est immédiat !Bilan : si, comme moi, vous êtes un particulier et que vous voulez pouvoir souder du métal facilement pour un tarif ultra compétitif, pas besoin de chercher plus loin, ce produit est exactement ce qu'il vous faut. Je suis un bricoleur particulièrement exigeant et je valide à 100 % !"
+    usage: "Acheteur vérifié Amazon.fr"
     achat_verifie: true
-  - auteur: "olivier"
+  - auteur: "piegeamorue"
     note: 5
-    titre: "bien"
-    commentaire: "Bon produit bien reçu. Merci"
-    usage: "Usage régulier vérifié"
-    achat_verifie: true
-  - auteur: "J.M"
-    note: 4
-    titre: "Bon poste à soudure"
-    commentaire: "Bien reçu et réalisé des soudures à l'arc avec facilité."
-    usage: "Usage régulier vérifié"
+    titre: "Un poste à souder polyvalent et facile à prendre en main"
+    commentaire: "Ce poste à souder est une excellente solution pour le bricolage, les réparations et les petits travaux en atelier. La fonction 3-en-1 permet de souder au fil fourré, à l'arc et en Lift TIG (avec la torche adaptée), ce qui le rend très polyvalent. Le contrôle synergique facilite les réglages en adaptant automatiquement certains paramètres, un vrai avantage pour les débutants.L'écran LED est bien lisible et permet de vérifier les réglages rapidement. Malgré son format compact, l'appareil offre une puissance suffisante pour de nombreux travaux sur acier, tout en restant facile à transporter. Les protections électroniques intégrées apportent également un sentiment de sécurité lors de l'utilisation.Points positifs :- Fonction 3-en-1 (MIG fil fourré, ARC et Lift TIG).- Réglage synergique simple et pratique.- Technologie IGBT assurant un arc stable.- Écran LED clair et facile à lire.- Format compact avec accessoires inclus.Point à améliorer :- La fonction Lift TIG nécessite une torche compatible vendue séparément, ce qui est à prévoir si l'on souhaite utiliser ce procédé.Conclusion :Un poste à souder complet et accessible qui conviendra aussi bien aux débutants qu'aux bricoleurs plus expérimentés. Sa polyvalence, sa simplicité d'utilisation et son bon niveau d'équipement en font un excellent choix pour de nombreux travaux de soudure à domicile ou en atelier."
+    usage: "Acheteur vérifié Amazon.fr"
     achat_verifie: true
   - auteur: "Doud"
     note: 5
     titre: "Petit mais costaud."
     commentaire: "Fonctionne a merveille.Il faut de l'entrainement avant de le maitriser complètement.Il est rapide et la prise en main est facile.Par contre on ne devient pas un as de la soudure en une fois.La construction est solide et parait durable.Dommage que le casque ne soit pas fournis dans le kit.Il n'est pas trop lourd.Le réglage est simple et compréhensible.La notice est très claire.La pince fait un peu plastique bas de gamme mais pas eu de problème a l'utilisation."
-    usage: "Usage régulier vérifié"
+    usage: "Acheteur vérifié Amazon.fr"
+    achat_verifie: true
+  - auteur: "J.M"
+    note: 4
+    titre: "Bon poste à soudure"
+    commentaire: "Bien reçu et réalisé des soudures à l'arc avec facilité."
+    usage: "Acheteur vérifié Amazon.fr"
     achat_verifie: true
 satisfaction_globale:
   note_moyenne: 4.5

@@ -8,30 +8,31 @@ image_url: "https://m.media-amazon.com/images/I/71g4uI7cI1L._AC_UL960_FMwebp_QL6
 lien_affiliation: "https://www.amazon.fr/dp/B0FDKT5Y97/?tag=amazonwp0b-21"
 meta_title: "Avis Poste à souder MMA 250A Inverter IGBT – Écran LED"
 meta_description: "Avis complet et test indépendant sur Poste à souder MMA 250A 220V avec écran LED, onduleur IGBT portable avec Hot Start, Arc Force et Anti-Stick, kit..."
+
 avis_clients:
-  - auteur: "Bou"
+  - auteur: "Eric M."
     note: 5
-    titre: "Pas mal comme produit"
-    commentaire: "Fait le travail pour sa capacité pour son gabarit. Convient pour un bricoleur"
-    usage: "Usage régulier vérifié"
+    titre: "Satisfait"
+    commentaire: "Bonjour Très bon poste à souder, compact, léger et vraiment efficace. Il est arrivé rapidement et bien emballé. Sa petite taille permet de le transporter facilement, tout en offrant une bonne puissance pour réaliser différents travaux de soudure avec précision. Excellent rapport qualité-prix."
+    usage: "Acheteur vérifié Amazon.fr"
     achat_verifie: true
   - auteur: "joel H."
     note: 5
     titre: "A voir"
     commentaire: "À première vue, il est correct ; cependant, après essai, il reste un peu bizarre à souder, la masse n'est pas stable, cela pose problème. À vérifier avec des pièces de faible épaisseur."
-    usage: "Usage régulier vérifié"
+    usage: "Acheteur vérifié Amazon.fr"
     achat_verifie: true
-  - auteur: "Eric M."
+  - auteur: "Bou"
     note: 5
-    titre: "Satisfait"
-    commentaire: "Bonjour Très bon poste à souder, compact, léger et vraiment efficace. Il est arrivé rapidement et bien emballé. Sa petite taille permet de le transporter facilement, tout en offrant une bonne puissance pour réaliser différents travaux de soudure avec précision. Excellent rapport qualité-prix."
-    usage: "Usage régulier vérifié"
+    titre: "Pas mal comme produit"
+    commentaire: "Fait le travail pour sa capacité pour son gabarit. Convient pour un bricoleur"
+    usage: "Acheteur vérifié Amazon.fr"
     achat_verifie: true
   - auteur: "gingast"
     note: 4
     titre: "compact"
     commentaire: "correspond a la description pas encore essayer"
-    usage: "Usage régulier vérifié"
+    usage: "Acheteur vérifié Amazon.fr"
     achat_verifie: true
 satisfaction_globale:
   note_moyenne: 4.3

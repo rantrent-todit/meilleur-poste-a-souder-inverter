@@ -8,30 +8,31 @@ image_url: "https://m.media-amazon.com/images/I/514Lv5Q0B3L._AC_UL960_FMwebp_QL6
 lien_affiliation: "https://www.amazon.fr/dp/B008MXXHJ8/?tag=amazonwp0b-21"
 meta_title: "Avis GYS GYSMI 160P - Poste à Souder MMA Inverter 160A"
 meta_description: "Avis complet et test indépendant sur GYS, GYSMI 160P, Poste à Souder à l'Électrode Enrobée 160A Monophasé 230V (MMA), Arc Force, Antisticking, Hot..."
+
 avis_clients:
-  - auteur: "courtel L."
+  - auteur: "N.0"
     note: 5
-    titre: "les réglages et le poids"
-    commentaire: "Très bien"
-    usage: "Usage régulier vérifié"
+    titre: "Vraiment top !"
+    commentaire: "Si vous cherchez de quoi souder sans difficulté, ce produit est parfait !Pour un prix très correct , ce poste vous permettra de souder en continu (en 220v 16 Ampères) des épaisseurs de métaux jusqu'à 8 mm épaisseur avec des électrodes jusqu'au diamètre 3.2 .Il peut même supporté une soudure par point avec une électrode de diamètre 4 ce qui permet de souder des épaisseur de plus de 8 mm (mais pas plus de 10mm le brancher sur un disjoncteur 20 Ampères pour cette puissance) , mais à ce moment là , il vaut mieux un poste à souder plus puissant généralement !Le réglage précis de 0 à 160 Ampères est vraiment très appréciable , mais le fait qu'il ne \"colle pas\" est un vrai régal à l'utilisation .En effet , la technologie interne est réalisée pour que la soudure soit simple même pour les utilisateurs occasionnel (ce qui est mon cas) car il dispose , je cite de :HOT START : puissance accrue à l'amorçageANTI STICKING : réduit les risques de collage de l'électrode en cas de contact avec la pièceARC FORCE : augmentation ponctuelle du courant en situation de soudage difficileIl peut même être utilisé sur un groupe électrogène car il à une protection contre les surtensions éventuelle jusqu'à 400 Volts .La malette est fournie avec et c'est toujours un plus . Livré très rapidement comme toujours !Après 1 an d'utilisation , j'en suis très satisfait !"
+    usage: "Acheteur vérifié Amazon.fr"
     achat_verifie: true
-  - auteur: "MAXD"
+  - auteur: "Sylvain_C"
     note: 5
-    titre: "FACILE que du Bonheur"
-    commentaire: "Super content de mon achat livraison hyper rapide et super prixQue du bonheur super intuitif et facile avec un résultat remarquable et je suis novice en plusJ'ai acheté les équipements sécurité sur Amazone Impeccable coté sécurité je conseille la cagoule et les super gants ça chauffe NICKEL"
-    usage: "Usage régulier vérifié"
+    titre: "Je suis ravi"
+    commentaire: "Je soudais à l'argon depuis 10 ans avec un poste bas de gamme et lourd quoique efficace, mais j'en avais marre de devoir courir pour trouver des bouteilles d'argon car pas besoin de bouteilles énormes, les 550l m'allaient très bien.Et bien maintenant je ne me pose plus de questions: Je soude a tout va, ça va très bien, j'ai un stock de baguettes toujours dispo et je n'hésite plus. Par rapport à l'argon (soudage MIG/MAG) il y a cette histoire de laitier à enlever, c'est le prix a payer mais c'est peu cher pour les services rendus.La masse et le porte baguette respirent la solidité ça me change de ma vieille masse de mon poste argon.Je ne sort plus sans mon inverter, il est tellement petit que je peux l'emmener quand je part chez belle maman pour faire les réparation qu'elle effectue sinon avec de bouts de ficelles.L'aspect de la soudure me semble différent (avec ces baguettes rutiles que j'ai prises ici) de l'argon, il est surement mécaniquement aussi différent."
+    usage: "Acheteur vérifié Amazon.fr"
     achat_verifie: true
   - auteur: "Client D."
     note: 5
     titre: "Indispensable, un \"must to have\""
     commentaire: "Vous cherchez un poste à souder qui fait de belles et bonnes soudures?Ne cherchez pas plus loin, c'est l'outil idéal.J'avais un ancien poste onduleur (inverter) et je le trouvais pas mal mais bcp trop de problème de collageAvec ce poste rien à voir, ça colle pas, les soudures sont magnifiques, c'est un jeu d'enfant.En plus de par sa taille et son poids mini on peut le prendre n'importe où en bandoulière (soudure en hauteur )"
-    usage: "Usage régulier vérifié"
+    usage: "Acheteur vérifié Amazon.fr"
     achat_verifie: true
-  - auteur: "JB77"
-    note: 4
-    titre: "Excellent mais..."
-    commentaire: "Efficace et fait bien son travail mais les câbles sont ridiculement courts. 1 étoile en moins !"
-    usage: "Usage régulier vérifié"
+  - auteur: "MAXD"
+    note: 5
+    titre: "FACILE que du Bonheur"
+    commentaire: "Super content de mon achat livraison hyper rapide et super prixQue du bonheur super intuitif et facile avec un résultat remarquable et je suis novice en plusJ'ai acheté les équipements sécurité sur Amazone Impeccable coté sécurité je conseille la cagoule et les super gants ça chauffe NICKEL"
+    usage: "Acheteur vérifié Amazon.fr"
     achat_verifie: true
 satisfaction_globale:
   note_moyenne: 4.6

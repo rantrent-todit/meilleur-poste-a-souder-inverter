@@ -8,30 +8,31 @@ image_url: "https://m.media-amazon.com/images/I/61JsjpgAkQL._AC_UL960_FMwebp_QL6
 lien_affiliation: "https://www.amazon.fr/dp/B0G8HHSGZY/?tag=amazonwp0b-21"
 meta_title: "Avis STAHLWERK AC/DC TIG 200 ST – Poste combiné TIG HF & MMA 200A"
 meta_description: "Avis complet et test indépendant sur STAHLWERK Poste à souder combiné 2-en-1 AC/DC TIG 200 ST – TIG & MMA (ARC) jusqu'à 200 A, amorçage HF, Hotstart,..."
+
 avis_clients:
-  - auteur: "BEAUFORT"
+  - auteur: "Lucas L."
     note: 5
-    titre: "SUPER POSTE"
-    commentaire: "Testé sur acier = génialpas encore essayé sur inox et alu (je complèterai mon commentaire plus tard)"
-    usage: "Usage régulier vérifié"
+    titre: "Un SAV irréprochable"
+    commentaire: "J'ai eu un petit souci avec mon poste, mais qui venait pas de mon poste mais de mon disjoncteur, j'ai donc contacté le SAV par mail directement au siège en allemagne ils m'ont aiguillé sur le souci ( disjoncteur trop faible ) ils m'ont répondu en moins de 24h et m'ont indiqué la marche à suivre résultat le problème à été réglé en moins d'un jours .Le poste en lui même n'a rien à envier aux postes de grandes marques avec les mêmes caractéristiques, il est tout simplement super, puissant, stable, pratique un régal .Voila tout ça pour dire que c'est appréciable d'avoir un SAV de cet qualité ainsi que du matériel de qualité à prix défiant toutes concurrences ."
+    usage: "Acheteur vérifié Amazon.fr"
     achat_verifie: true
-  - auteur: "Alain D."
+  - auteur: "Riri3D"
     note: 5
-    titre: "La magnanimité de la torche"
-    commentaire: "Très bon produit mise à part la poignée de la torche trop épaisse"
-    usage: "Usage régulier vérifié"
+    titre: "Vraiment impressionnant"
+    commentaire: "C’est vraiment super de souder avec ce poste. Mma sans problème. Le Tig est bluffant, surtout avec l’amorcage HF. Quelle précision et facilité. Je ne m’en lasse pas. Les bouteilles d’argon n’ont qu’à bien se tenir. En une heure on s’approprie les réglages et c’est un régal. Surtout avec les boutons avec un bouton = une fonction. Tout est parfait."
+    usage: "Acheteur vérifié Amazon.fr"
     achat_verifie: true
   - auteur: "Luca"
     note: 5
     titre: "Pas encore essayé"
     commentaire: "Pas encore essayéLivre conformément au matériel indiquéTrès bonne finitionDommage d’avoir mis un disjoncteur derrière pour un si belle appareil…J’ajusterais mon avis commentaire après l’avoir essayé"
-    usage: "Usage régulier vérifié"
+    usage: "Acheteur vérifié Amazon.fr"
     achat_verifie: true
   - auteur: "demaugé B."
     note: 4
     titre: "Excellent !"
     commentaire: "Très bon poste à souder. Assez léger pour l'emmener sur des chantiers.Le seul reproche serait la torche qui est assez lourde et encombrante, mais pour le prix c'est top !"
-    usage: "Usage régulier vérifié"
+    usage: "Acheteur vérifié Amazon.fr"
     achat_verifie: true
 satisfaction_globale:
   note_moyenne: 4.4

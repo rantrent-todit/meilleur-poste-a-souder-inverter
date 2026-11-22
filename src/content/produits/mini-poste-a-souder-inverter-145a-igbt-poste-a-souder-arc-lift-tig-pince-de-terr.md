@@ -8,30 +8,31 @@ image_url: "https://m.media-amazon.com/images/I/61-zf214JnL._AC_UL960_FMwebp_QL6
 lien_affiliation: "https://www.amazon.fr/dp/B0DJP5M4Q6/?tag=amazonwp0b-21"
 meta_title: "Avis ARC145 – Mini poste à souder inverter 145A ARC & Lift TIG"
 meta_description: "Avis complet et test indépendant sur Mini Poste a Souder Inverter 145A IGBT, Poste à Souder ARC Lift TIG, Pince de Terre de Haute Qualité et..."
+
 avis_clients:
+  - auteur: "MANU L."
+    note: 5
+    titre: "Très satisfait"
+    commentaire: "Agréablement surpris.... Petit poste très stable électriquement. Potentiomètre de puissance précis et amorce d'arc réglable aussi. Poste compatible avec les électrodes rutiles a pôle inversé. Travail propre et rapide idéal pour débuter ou se perfectionner."
+    usage: "Acheteur vérifié Amazon.fr"
+    achat_verifie: true
+  - auteur: "gilles"
+    note: 5
+    titre: "bien ventiler en intérieur et prendre les bons equipements de protection"
+    commentaire: "excellent produit pour surtout pour les débutants , une fois que les réglages sont trouver , il fait de belles soudures parfait ,,,"
+    usage: "Acheteur vérifié Amazon.fr"
+    achat_verifie: true
   - auteur: "Dany D."
     note: 5
     titre: "Parfait"
     commentaire: "A peine reçu, utilisé pour réparer mon portail qui avait des soudures cassées. Fonctionne parfaitement bien.Au top."
-    usage: "Usage régulier vérifié"
+    usage: "Acheteur vérifié Amazon.fr"
     achat_verifie: true
-  - auteur: "Toumau"
+  - auteur: "fernand 1."
     note: 5
-    titre: "Poids et dimensions et qualité"
-    commentaire: "Excellent"
-    usage: "Usage régulier vérifié"
-    achat_verifie: true
-  - auteur: "Simon"
-    note: 5
-    titre: "Bien"
-    commentaire: "Bon rapport qualite prix"
-    usage: "Usage régulier vérifié"
-    achat_verifie: true
-  - auteur: "Client D."
-    note: 5
-    titre: "Meilleur rapport qualité prix"
-    commentaire: "Reçu hier j'ai souder avec cette après midi fonctionne parfaitement. Imbattable"
-    usage: "Usage régulier vérifié"
+    titre: "Bonne qualité"
+    commentaire: "Petit poste a souder , fait son travail . Qualité prix tres bien . Comme dans la decristion"
+    usage: "Acheteur vérifié Amazon.fr"
     achat_verifie: true
 satisfaction_globale:
   note_moyenne: 4.6

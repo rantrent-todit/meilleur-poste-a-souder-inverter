@@ -8,30 +8,31 @@ image_url: "https://m.media-amazon.com/images/I/61i4Xo4RogL._AC_UL960_FMwebp_QL6
 lien_affiliation: "https://www.amazon.fr/dp/B0GF2M462Z/?tag=amazonwp0b-21"
 meta_title: "Avis STAHLWERK MIG/MAG 160 M – Poste combiné multi-procédés 160A"
 meta_description: "Avis complet et test indépendant sur STAHLWERK Poste à Souder MIG/MAG 160 M – Onduleur Combiné 5-en-1 Compact de 160 A pour FLUX (Fil Fourré),..."
+
 avis_clients:
   - auteur: "dan"
     note: 5
     titre: "éxellent ce poste a souder"
     commentaire: "Vraiment rien à redire, très bon matériel ! Suite à un petit problème, je suis tombé sur un SAV rapide et professionnel !Vraiment à l'écoute ! Je vous les recommande vraiment ! l'entreprise STAHLWERK mérite 5 étoiles , très bonne expérience !"
-    usage: "Usage régulier vérifié"
-    achat_verifie: true
-  - auteur: "Jacky T."
-    note: 5
-    titre: "Soudage facile"
-    commentaire: "Bon matériel, a voir a la longue.Réglages faciles.Poste assermenté léger, facile a déplacer."
-    usage: "Usage régulier vérifié"
+    usage: "Acheteur vérifié Amazon.fr"
     achat_verifie: true
   - auteur: "Chris"
     note: 5
     titre: "Poste à souder"
     commentaire: "j'ai pris le kit .Le poste très bien ,le masque fourni avec pas top à faible intensité on voit rienTrès bon investissement pour le poste à souder"
-    usage: "Usage régulier vérifié"
+    usage: "Acheteur vérifié Amazon.fr"
     achat_verifie: true
   - auteur: "Hervé."
     note: 4
     titre: "Excellent"
     commentaire: "Très bon poste ,avec équipement complet prévu.À acheter sans problème .Je recommande les yeux fermés."
-    usage: "Usage régulier vérifié"
+    usage: "Acheteur vérifié Amazon.fr"
+    achat_verifie: true
+  - auteur: "Jacky T."
+    note: 5
+    titre: "Soudage facile"
+    commentaire: "Bon matériel, a voir a la longue.Réglages faciles.Poste assermenté léger, facile a déplacer."
+    usage: "Acheteur vérifié Amazon.fr"
     achat_verifie: true
 satisfaction_globale:
   note_moyenne: 4.6

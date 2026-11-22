@@ -8,30 +8,31 @@ image_url: "https://m.media-amazon.com/images/I/61f8LRoMMSL._AC_UL960_FMwebp_QL6
 lien_affiliation: "https://www.amazon.fr/dp/B076H4QFGW/?tag=amazonwp0b-21"
 meta_title: "Avis Stamos Germany S-MMA-250PI.2 – Poste à souder MMA 250A"
 meta_description: "Avis complet et test indépendant sur Stamos Germany S-MMA-250PI.2 Poste à Souder à l'Arc Poste a Souder Inverter MMA Soudage Soudure (250 A, 230 V,..."
+
 avis_clients:
-  - auteur: "MOYSE A."
-    note: 5
-    titre: "Bon poste à souder."
-    commentaire: "Super ravis de mon acquisition.Ayant fait un stage MMA arc sur un poste pro mon poste bricoleur d'avant ne me donner plus du tout la capacité pour réaliser de bonne et belle soudure. Maintenant avec se poste à souder je me régale à nouveau. Bouton de réglage qui tombe bien sous la main, l'amorcage se fait le plus naturellement possible. Il a la puissance qu'il faut. Une journée à souder avec des baguettes de 2,5 et 3,2 un pur bonheur un petit temps d'adaptation est cependant nécessaire lorsque l'on n'est pas un pro comme moi pour trouver le bon ampérage afin de ne pas traverser la pièce à souder, je précise que j'ai soudé des pièces de 3mm.Longueur de câble super pratique une fois les réglages effectués le poste reste en place et l'on peut tranquillement souder sans avoir à le porter ou déplacer sans arrêt sur une distance de 8m.Super heureux et fier de cet achat, à voir la durée de vie de se poste maintenant."
-    usage: "Usage régulier vérifié"
-    achat_verifie: true
   - auteur: "Patrick"
     note: 5
     titre: "Stamos Germany S-MMA-250PI.2"
     commentaire: "Avant toutes choses, je tiens à préciser que je ne sais pas souder à l'arc. Faire des points de soudure, oui, mais vraiment souder, à part les nids d'abeilles (j'aurais du faire apiculteur :), voilà pourquoi, je ne sais si mes commentaires seront vraiment utiles.Néanmoins, ce que je peux dire, c'est que le poste à souder, est conforme à la description sur Amazon et à mon attente. Le produit est très bien emballé par le fabriquant, à première vue, de bonne qualité ainsi que les câbles, et cerise sur le gâteau, la notice est en Français.Utilisation : Après plusieurs essais de soudures avec des baguettes de 1,6 et 2,5, ça fonctionne bien. Seul petit bémol, dans la notice, il est fait mention de brancher les câbles, le + sur la borne -, et inversement. Ensuite, il est fait également mention, que suivant le fabriquant de baguettes à souder, le branchement des câbles peut être inversé (informations que je n'ai pas vu sur les paquets de baguettes achetées). Là, je plane...Donc j'ai utilisé l'appareil avec les branchements comme mentionnés sur la notice, ça a fonctionné sans problème.A mon avis de novice, ce qui manque dans la notice, c'est un tableau pour le réglage de base de l'appareil en fonction du diamètre des baguettes. Mis à part ces petits points, ce poste à souder semble être bien. A voir à l'utilisation dans le temps."
-    usage: "Usage régulier vérifié"
+    usage: "Acheteur vérifié Amazon.fr"
+    achat_verifie: true
+  - auteur: "MOYSE A."
+    note: 5
+    titre: "Bon poste à souder."
+    commentaire: "Super ravis de mon acquisition.Ayant fait un stage MMA arc sur un poste pro mon poste bricoleur d'avant ne me donner plus du tout la capacité pour réaliser de bonne et belle soudure. Maintenant avec se poste à souder je me régale à nouveau. Bouton de réglage qui tombe bien sous la main, l'amorcage se fait le plus naturellement possible. Il a la puissance qu'il faut. Une journée à souder avec des baguettes de 2,5 et 3,2 un pur bonheur un petit temps d'adaptation est cependant nécessaire lorsque l'on n'est pas un pro comme moi pour trouver le bon ampérage afin de ne pas traverser la pièce à souder, je précise que j'ai soudé des pièces de 3mm.Longueur de câble super pratique une fois les réglages effectués le poste reste en place et l'on peut tranquillement souder sans avoir à le porter ou déplacer sans arrêt sur une distance de 8m.Super heureux et fier de cet achat, à voir la durée de vie de se poste maintenant."
+    usage: "Acheteur vérifié Amazon.fr"
+    achat_verifie: true
+  - auteur: "gaillard"
+    note: 5
+    titre: "Super, facile d'utilisation"
+    commentaire: "La première fois que j'ai utilisé ce poste j'avais des baguettes un peu vieille et destiné plutôt à la métallurgie lourde genre tube de chaudière j'avais beaucoup de mal à souder.... Après avoir fait des recherches sur Internet j'ai commandé des baguettes rutile E6013 , et la miracle rien à voir des soudures faciles un amorçage facile le pied total.... Je vous conseille d'aller voir sur YouTube quelqu'un partage son expérience et conseil sur la soudure et il explique comment bien observer le laitier quand on soude ce qui a changé ma façon de souder et la qualité de mon travail je recommande ce poste à souder à 100 %"
+    usage: "Acheteur vérifié Amazon.fr"
     achat_verifie: true
   - auteur: "Client D."
     note: 4
     titre: "Très bon matériel. Fiable et précis"
     commentaire: "Après plusieurs utilisation, le poste à soudé fonctionne toujours très bien. Juste un petit soucie, l'anode est un peu difficile à retirer du poste après l'avoir utilisé."
-    usage: "Usage régulier vérifié"
-    achat_verifie: true
-  - auteur: "corinne P."
-    note: 5
-    titre: "super"
-    commentaire: "très bon materiel, cables très long , réglage sensible, dès les premières soudures un plaisir !"
-    usage: "Usage régulier vérifié"
+    usage: "Acheteur vérifié Amazon.fr"
     achat_verifie: true
 satisfaction_globale:
   note_moyenne: 4.5

@@ -8,30 +8,31 @@ image_url: "https://m.media-amazon.com/images/I/71sn4Fj4m8L._AC_UL960_FMwebp_QL6
 lien_affiliation: "https://www.amazon.fr/dp/B0GY8V4DR1/?tag=amazonwp0b-21"
 meta_title: "Avis Poste à souder 3-en-1 Inverter 250A – MIG, ARC & TIG"
 meta_description: "Avis complet et test indépendant sur Poste à Souder 3 en 1 MIG 250A 220V Inverter, Machine de Soudage Portable MIG ARC TIG à Fil Fourré, Écran..."
+
 avis_clients:
-  - auteur: "Electo F."
+  - auteur: "martine G."
     note: 5
-    titre: "Facile et légère"
-    commentaire: "C'est parfait"
-    usage: "Usage régulier vérifié"
+    titre: "Bon poste à souder pour le bricolage"
+    commentaire: "Utilisé pour quelques travaux de réparation à la maison. L’appareil est léger, facile à transporter et l’arc reste stable. L’écran numérique permet de régler rapidement l’intensité. Pour le prix, c’est un très bon choix pour les bricoleurs occasionnels."
+    usage: "Acheteur vérifié Amazon.fr"
     achat_verifie: true
   - auteur: "BOURGEAIS B."
     note: 5
     titre: "poste MIG"
     commentaire: "poste facilement utilisable, il serait très utile de mettre dans le kit un masque de soudure avec luminosité réglable ça coûte un peut plus cher mais ça évite d'en racheter un autre"
-    usage: "Usage régulier vérifié"
-    achat_verifie: true
-  - auteur: "JEFFCsC"
-    note: 2
-    titre: "Ras"
-    commentaire: "Pas terrible mais c’est bon juste pour bricoler"
-    usage: "Retour terrain vérifié"
+    usage: "Acheteur vérifié Amazon.fr"
     achat_verifie: true
   - auteur: "Bonzon J."
     note: 5
     titre: "Livraison extrêmement rapide avant même la délai de livraison"
     commentaire: "Produits excellent et peux Cher pour petit travaux"
-    usage: "Usage régulier vérifié"
+    usage: "Acheteur vérifié Amazon.fr"
+    achat_verifie: true
+  - auteur: "Lecomte"
+    note: 5
+    titre: "Soudure"
+    commentaire: "Très bon produit"
+    usage: "Acheteur vérifié Amazon.fr"
     achat_verifie: true
 satisfaction_globale:
   note_moyenne: 4.5

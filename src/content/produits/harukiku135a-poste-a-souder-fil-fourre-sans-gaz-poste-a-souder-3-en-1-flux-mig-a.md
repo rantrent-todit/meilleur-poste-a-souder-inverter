@@ -8,30 +8,31 @@ image_url: "https://m.media-amazon.com/images/I/810vbVAaWUL._AC_UL960_FMwebp_QL6
 lien_affiliation: "https://www.amazon.fr/dp/B0FWBMPYSY/?tag=amazonwp0b-21"
 meta_title: "Avis Harukiku 135A - Poste Fil Fourré & Multi-Procédés 3-en-1"
 meta_description: "Avis complet et test indépendant sur Harukiku135A Poste a Souder Fil Fourré Sans Gaz, Poste à Souder 3 en 1 (Flux MIG/ARC, MMA/Lift TIG), avec Avance..."
+
 avis_clients:
+  - auteur: "Philippe"
+    note: 4
+    titre: "Rapport qualité soudure / prix, très satisfaisant"
+    commentaire: "Je cherchais un Mig, petit et pratique pour souder notamment de petites tôles en carrosserie sous la voiture, et faire quelques soudures sur des épaisseurs plus fortes en bricolage. J'ai été très agréablement surpris par ce petit appareil \"Kirikou\" :-) Avec la bobine livrée, les soudures sont propres, et le cordon régulier, sans efforts. Les soudures sont très dures et difficiles a meuler a la disqueuse. Le hic, ce sont les accessoires plastiques. Ils semblent issus du monde du jouet. Et l'on sent bien que cela ne sera pas un appareil que l'on pourra léguer à sa descendance, en même temps pour le prix, si il dure un peu, l'on en a pour son argent. En tout cas, j'ai été bluffé par la simplicité et la qualité de la soudure de ce petit \"harakiri\"."
+    usage: "Acheteur vérifié Amazon.fr"
+    achat_verifie: true
   - auteur: "Redon"
     note: 5
     titre: "Rapport qualité prix imbattable"
     commentaire: "Poste a souder que je recommande pour son rapport qualité prix qui franchement fonctionne parfaitement. J'avais une bielle de tracteur tondeuse qui avais casser et j'ai réussi a la souder du premier coup. J'étais heureux. J'ai pas utilisé encore toute les fonctionnalités, mais déjà il ma séduit."
-    usage: "Usage régulier vérifié"
+    usage: "Acheteur vérifié Amazon.fr"
     achat_verifie: true
   - auteur: "Chouquettes"
     note: 5
     titre: "super"
     commentaire: "bonjour, poste a souder de très bonne fabrication, compact, léger et des câbles très long, aussi bien pour la torche que pour le porte électrodes. Réglage du potentiomètre très précis en ce qui concernant la tension de soudure. Je recommande fortement ce produit."
-    usage: "Usage régulier vérifié"
+    usage: "Acheteur vérifié Amazon.fr"
     achat_verifie: true
-  - auteur: "Philippe"
-    note: 4
-    titre: "Rapport qualité soudure / prix, très satisfaisant"
-    commentaire: "Je cherchais un Mig, petit et pratique pour souder notamment de petites tôles en carrosserie sous la voiture, et faire quelques soudures sur des épaisseurs plus fortes en bricolage. J'ai été très agréablement surpris par ce petit appareil \"Kirikou\" :-) Avec la bobine livrée, les soudures sont propres, et le cordon régulier, sans efforts. Les soudures sont très dures et difficiles a meuler a la disqueuse. Le hic, ce sont les accessoires plastiques. Ils semblent issus du monde du jouet. Et l'on sent bien que cela ne sera pas un appareil que l'on pourra léguer à sa descendance, en même temps pour le prix, si il dure un peu, l'on en a pour son argent. En tout cas, j'ai été bluffé par la simplicité et la qualité de la soudure de ce petit \"harakiri\"."
-    usage: "Usage régulier vérifié"
-    achat_verifie: true
-  - auteur: "Bedez M."
+  - auteur: "jeanmarc P."
     note: 5
-    titre: "bon produit"
-    commentaire: "bon produit facile d utilisation"
-    usage: "Usage régulier vérifié"
+    titre: "Parfait"
+    commentaire: "Ce poste est le meilleur achat que j'ai fait il est performant facile d utilisation j'ai pas tester le tig encore mais le reste est parfait"
+    usage: "Acheteur vérifié Amazon.fr"
     achat_verifie: true
 satisfaction_globale:
   note_moyenne: 4.5

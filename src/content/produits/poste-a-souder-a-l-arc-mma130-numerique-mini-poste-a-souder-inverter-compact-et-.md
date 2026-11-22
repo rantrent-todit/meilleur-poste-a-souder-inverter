@@ -8,30 +8,31 @@ image_url: "https://m.media-amazon.com/images/I/71wVMkix5kL._AC_UL960_FMwebp_QL6
 lien_affiliation: "https://www.amazon.fr/dp/B0G2RFRJBZ/?tag=amazonwp0b-21"
 meta_title: "Avis MMA130 Numérique – Mini poste à souder à l'arc inverter 130A"
 meta_description: "Avis complet et test indépendant sur Poste à souder à l’arc MMA130 Numérique - Mini Poste a Souder Inverter,Compact et Léger avec Fonction..."
+
 avis_clients:
+  - auteur: "nanardpvt18"
+    note: 5
+    titre: "Poste à souder à l'arc TIG modèle MMA130 numérique marque HARUKIKU"
+    commentaire: "Voici un petit poste à souder avec ses accessoires pour soudure TIG, donc de soudure à l'arc. C'est, à mon avis, aussi bien un excellent matériel pour débutant, qu'un poste à souder secondaire pour des actions ponctuelles.Avec cet équipement et la soudure profonde qu'il permet, on va aussi bien faire des réparations de clôture, d'objets automobiles ou, par exemple, de petite serrurerie.C'est aussi, un matériel qui me semble suffisant pour l'assemblage de petites structures métalliques. Par exemple, pour un débutant, avec des tubes carrés de petite section et des plaques d'acier correspondantes, il est possible de créer des projets allant de bacs aux étagères en passant pas les besoins d'un premier atelier.Le réglage simple de puissance et du matériel bien préparé vous permettra des soudures suffisantes et solides.Mon astuce : Ne vous inquiétez pas que ça fume (si ça fume très fort et que les étincelles sont très brillantes, réduisez la puissance du poste) et que vos premières soudures sont moches et en pâtés. Avec le temps et l'expérience, on s'améliore.Munissez vous d'électrodes de bonne qualité, ajoutez y un masque pour vous protéger des éclats, des gants et un tablier de soudeur, vous aurez de quoi être en sécurité pour cette activité. Et avec quelques accessoires comme un étau de soudure ou une pince étau, par exemple, des projets plus ambitieux comme un portillon ou une table moderne s'envisagent, même avec un aussi petit poste.Personnellement, je suis très content de la qualité de ce matériel de soudure à l'arc. Pour un novice, en appoint ou en remplacement d'urgence, c'est parfaitement fonctionnel, durable. Et si pour fonctionner, une prise 220v est nécessaire, avec une source d'énergie mobile, c'est aussi un atelier de soudure embarqué que vous pouvez construire."
+    usage: "Acheteur vérifié Amazon.fr"
+    achat_verifie: true
   - auteur: "Tarfif"
     note: 5
     titre: "Petit, donc très pratique et très efficace !!"
     commentaire: "Reçu rapidement. Je ne l’ai pas encore essayé mais ça a l’air bien. Il est tout petit donc très pratique pour souder en déplacement.Le 20/07/ : je m’en suis servi, et il fonctionne parfaitement !! Je recommande vivement !!"
-    usage: "Usage régulier vérifié"
+    usage: "Acheteur vérifié Amazon.fr"
     achat_verifie: true
   - auteur: "Aurelien"
     note: 5
     titre: "Fonctionne très bien"
     commentaire: "Très bien pour débuter moi qui n'en a jamais fait on se fait asser la main"
-    usage: "Usage régulier vérifié"
+    usage: "Acheteur vérifié Amazon.fr"
     achat_verifie: true
   - auteur: "MERLIN P."
     note: 5
     titre: "Fait le job"
     commentaire: "Très bon, léger et efficace."
-    usage: "Usage régulier vérifié"
-    achat_verifie: true
-  - auteur: "Serge06"
-    note: 5
-    titre: "excellent"
-    commentaire: "excellent"
-    usage: "Usage régulier vérifié"
+    usage: "Acheteur vérifié Amazon.fr"
     achat_verifie: true
 satisfaction_globale:
   note_moyenne: 4.7

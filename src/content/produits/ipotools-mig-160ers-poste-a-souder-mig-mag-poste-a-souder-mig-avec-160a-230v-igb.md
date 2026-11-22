@@ -8,30 +8,31 @@ image_url: "https://m.media-amazon.com/images/I/81Dhf8zAifL._AC_UL960_FMwebp_QL6
 lien_affiliation: "https://www.amazon.fr/dp/B0CN1KL77T/?tag=amazonwp0b-21"
 meta_title: "Avis IPOTOOLS MIG-160ERS – Poste à souder MIG/MAG et MMA 160A"
 meta_description: "Avis complet et test indépendant sur IPOTOOLS MIG-160ERS Poste a souder MIG MAG - Poste à souder MIG avec 160A 230V IGBT, 5 en 1 Poste MIG Flux MMA..."
+
 avis_clients:
-  - auteur: "hardy"
-    note: 5
-    titre: "Poste ipotool"
-    commentaire: "Fonctionne très bien facile à régler vraiment bien"
-    usage: "Usage régulier vérifié"
-    achat_verifie: true
   - auteur: "Senmartin J."
     note: 5
     titre: "Excellent poste pour tout faire"
     commentaire: "Après avoir longuement chercher ce qu'il me fallait j'ai décidé de partir sur ce poste multi procédé qui propose une utilisation simple et efficace du procédé MMA et fil fourré j'ai découvert le fil fourré grâce à ce poste et je ne soude quasiment plus qu'avec ça maintenant possibilité de réparer des bijoux avec des très faibles intensités et de faire de la plus grosse soudure sur de l'acier 3 ou 4 mm d'épaisseur pour du courantC'est un poste très facile à utiliser car assez simple et les réglages sont intuitifs un bon coup de main à prendre et de l'expérience à se faire et assez rapidement on obtient des résultat très satisfaisants"
-    usage: "Usage régulier vérifié"
+    usage: "Acheteur vérifié Amazon.fr"
+    achat_verifie: true
+  - auteur: "Gégé M."
+    note: 5
+    titre: "Poste arc 5 en 1 160 A"
+    commentaire: "Testé que la soudure arc pour l'instant, régule super, la pénétration est parfaite, le cordon est parfait et le laitier se décolle seul un coup de brosse métallique"
+    usage: "Acheteur vérifié Amazon.fr"
+    achat_verifie: true
+  - auteur: "hardy"
+    note: 5
+    titre: "Poste ipotool"
+    commentaire: "Fonctionne très bien facile à régler vraiment bien"
+    usage: "Acheteur vérifié Amazon.fr"
     achat_verifie: true
   - auteur: "thierry"
     note: 4
     titre: "Mig"
     commentaire: "Top, je m’en sert régulièrement, très bon achat"
-    usage: "Usage régulier vérifié"
-    achat_verifie: true
-  - auteur: "Pascal B."
-    note: 5
-    titre: "Poste a souder"
-    commentaire: "Très bon poste pour le prix"
-    usage: "Usage régulier vérifié"
+    usage: "Acheteur vérifié Amazon.fr"
     achat_verifie: true
 satisfaction_globale:
   note_moyenne: 4.2

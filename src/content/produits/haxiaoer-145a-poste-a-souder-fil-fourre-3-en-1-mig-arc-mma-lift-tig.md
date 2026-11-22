@@ -8,30 +8,31 @@ image_url: "https://m.media-amazon.com/images/I/61evxhoJQ8L._AC_UL960_FMwebp_QL6
 lien_affiliation: "https://www.amazon.fr/dp/B0DFYHFQKP/?tag=amazonwp0b-21"
 meta_title: "Avis HAXIAOER 145A - Poste Fil Fourré Sans Gaz 3-en-1"
 meta_description: "Avis complet et test indépendant sur HAXIAOER 145A Poste a Souder Fil Fourré 3 en 1 MIG/ARC MMA/LIFT TIG. Découvrez ses performances réelles et points forts."
+
 avis_clients:
-  - auteur: "FRED D."
-    note: 5
-    titre: "Très bon poste à souder multifonctions pratique et efficace."
-    commentaire: "Poste à souder de très bonne qualité,Il est livré avec tout ses accessoires ainsi qu'une brosse métallique, des baguettes de soudage, des bobines de fils, tout le nécessaire pour commencer immédiatement la soudure de divers matériaux.Personnellement je l'ai acheté pour sa polyvalence et créer un chassis métallique afin de fabriquer un kart de drift.J'avoue ne pas être déçu du tout."
-    usage: "Usage régulier vérifié"
-    achat_verifie: true
   - auteur: "Souuufia"
     note: 5
     titre: "Poste a souder très complet et polyvalent"
     commentaire: "Très bon poste à souder polyvalent, je l'ai principalement utilisé pour de la soudure à l'arc. Il est très bien équipé et permet de souder avec du gaz mais également sans gaz. Il y a d'ailleurs une bobine de fil fourré qui est incluse. Si on utilise la bobine pour souder, il y a un système d'enroulage automatique qui permet d'emmener le fil jusqu'à la sortie de la torche. Il est très pratique et fluide de gérer la puissance. L'affichage digital indique l'intensité et cela fait varier la tension également .Très bon poste pour des gens comme moi qui en ont une utilisation occasionnelle."
-    usage: "Usage régulier vérifié"
+    usage: "Acheteur vérifié Amazon.fr"
     achat_verifie: true
-  - auteur: "barbarin"
-    note: 4
-    titre: "Poste à souder"
-    commentaire: "Fonctionne bien en fil fourré et arc parfait pour bricoleur"
-    usage: "Usage régulier vérifié"
+  - auteur: "FRED D."
+    note: 5
+    titre: "Très bon poste à souder multifonctions pratique et efficace."
+    commentaire: "Poste à souder de très bonne qualité,Il est livré avec tout ses accessoires ainsi qu'une brosse métallique, des baguettes de soudage, des bobines de fils, tout le nécessaire pour commencer immédiatement la soudure de divers matériaux.Personnellement je l'ai acheté pour sa polyvalence et créer un chassis métallique afin de fabriquer un kart de drift.J'avoue ne pas être déçu du tout."
+    usage: "Acheteur vérifié Amazon.fr"
     achat_verifie: true
   - auteur: "Maxime C."
     note: 5
     titre: "Ravi de ce petit poste !"
     commentaire: "Pour le prix, je suis surpris de l’efficacité de ce petit poste ! Il est suffisamment puissant pour réaliser les soudures que je souhaite et permet de souder de longs cordons sans faillir. De plus, l’alimentation en fil est constante, l’arc également. Je recommande à tout débutant qui a besoin d’un petit poste pour faire de la soudure occasionnellement, autre qu’au procédé MMA."
-    usage: "Usage régulier vérifié"
+    usage: "Acheteur vérifié Amazon.fr"
+    achat_verifie: true
+  - auteur: "Client D."
+    note: 5
+    titre: "bon produit"
+    commentaire: "j'ai du réparer une bétonnière l'axe de la roue pour le blocage de la toupie j'ai commercer par la baguette malheureusement cela à traversé la tôle trop fine et j'ai pu récupérer mon erreur par le fil fourré ; très content de cet achat . la notice est en francais très rare de nos jour l'utilisation pour un débutant est assez simple .merci au fournisseur"
+    usage: "Acheteur vérifié Amazon.fr"
     achat_verifie: true
 satisfaction_globale:
   note_moyenne: 4.4

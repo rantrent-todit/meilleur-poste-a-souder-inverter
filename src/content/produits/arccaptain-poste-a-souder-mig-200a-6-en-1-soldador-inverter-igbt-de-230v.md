@@ -8,30 +8,31 @@ image_url: "https://m.media-amazon.com/images/I/71ZAjVJHHjL._AC_UL960_FMwebp_QL6
 lien_affiliation: "https://www.amazon.fr/dp/B0B942YPM5/?tag=amazonwp0b-21"
 meta_title: "Avis ARCCAPTAIN MIG 200 - Poste Multi-Procédés Synergique 200A"
 meta_description: "Avis complet et test indépendant sur ARCCAPTAIN Poste à Souder MIG, 200A 6-en-1, Soldador Inverter IGBT de 230V. Découvrez ses performances réelles et points forts."
+
 avis_clients:
-  - auteur: "Pasbas"
-    note: 5
-    titre: "Parfait !"
-    commentaire: "Pour le moment, et du peu que je m'en suis servi, il semble fonctionner correctement. Uniquement testé en MMA et fil fourré. Il faut maintenant acheter le gaz ce qu'il faut pour le TIG et le pistolet à bobine. Malgré le carton de livraison un peu percé, il est en parfait état."
-    usage: "Usage régulier vérifié"
-    achat_verifie: true
   - auteur: "Jordan"
     note: 5
     titre: "SAV Amazon très performant !"
     commentaire: "Je n'ai malheureusement jamais reçu mon colis car \"perdu\" mais pourtant notifié comme livré.Après discussion avec Amazon, l'ensemble de mes colis lors de cette livraison m'ont été remboursés.Super SAV comme d'habitude.J'ai néanmoins pu tester ce produit chez un ami avant de le commander.Produit fiable et de qualité bien que de conception chinoise.Rien à redire pour le prix il reste une référence dans sa catégorie."
-    usage: "Usage régulier vérifié"
+    usage: "Acheteur vérifié Amazon.fr"
     achat_verifie: true
   - auteur: "Lavigne"
     note: 5
     titre: "Parfait"
     commentaire: "Très bon poste pour le prix ! Je suis très surpris de la facilité de soudure ( mig mma) je n’ai pas testé le tig car j’ai un poste spécifique à ça.Avec on peut souder du très fin et du très gros sans problème, je fais pas mal de carrosserie automobile avec et de temps en temps je suis amené à souder du gros. Dans tout les cas il fait le travail demandé"
-    usage: "Usage régulier vérifié"
+    usage: "Acheteur vérifié Amazon.fr"
     achat_verifie: true
-  - auteur: "tailler J."
-    note: 4
-    titre: "prduit conforme mais!"
-    commentaire: "produit conforme a la description mais le marteau et la brosse notifié comme fourni n'etaient pas présent"
-    usage: "Usage régulier vérifié"
+  - auteur: "Pasbas"
+    note: 5
+    titre: "Parfait !"
+    commentaire: "Pour le moment, et du peu que je m'en suis servi, il semble fonctionner correctement. Uniquement testé en MMA et fil fourré. Il faut maintenant acheter le gaz ce qu'il faut pour le TIG et le pistolet à bobine. Malgré le carton de livraison un peu percé, il est en parfait état."
+    usage: "Acheteur vérifié Amazon.fr"
+    achat_verifie: true
+  - auteur: "American C."
+    note: 5
+    titre: "Pleinement satisfait du fonctionnement"
+    commentaire: "Ce poste à souder fonctionne très bien ! nous l'avons essayé dès le jour de la réception . totalement satisfait , également du prix et de la rapidité de livraison ."
+    usage: "Acheteur vérifié Amazon.fr"
     achat_verifie: true
 satisfaction_globale:
   note_moyenne: 4.5
