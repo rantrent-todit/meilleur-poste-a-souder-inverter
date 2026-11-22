@@ -1,11 +1,12 @@
 ---
 titre: "Decapower LITEARC-120 - Poste MMA & Lift TIG 120A"
-description_courte: "Test approfondi du poste à souder Decapower LITEARC-120. Découvrez l'efficacité de la technologie Syncweld, sa polyvalence MMA et Lift-TIG, et son ventilateur intelligent."
+titre_h1: "Avis Decapower LITEARC-120 - Poste MMA & Lift TIG 120A"
+description_courte: "Test approfondi du poste à souder Decapower LITEARC-120. Découvrez l'efficacité de la technologie Syncweld, sa polyvalence MMA et Lift-TIG, et son..."
 description_longue: "Analyse technique détaillée du Decapower LITEARC-120, un poste à souder ultra-compact de 120 ampères combinant les procédés MMA et Lift-TIG. Doté de la gestion intelligente Syncweld et d'une ventilation thermique adaptative, il répond aux exigences des bricoleurs exigeants et des professionnels mobiles."
 categories: ["postes-inverter-ultra-portables","postes-mma-inverter","postes-tig-inverter-lift"]
 image_url: "https://m.media-amazon.com/images/I/71lTIc0W8XL._AC_UL960_FMwebp_QL65_.jpg"
 lien_affiliation: "https://www.amazon.fr/dp/B0GY89PHN6/?tag=amazonwp0b-21"
-meta_title: "Decapower LITEARC-120 - Poste MMA & Lift TIG 120A : Test et Avis Vérifié"
+meta_title: "Avis Decapower LITEARC-120 - Poste MMA & Lift TIG 120A"
 meta_description: "Avis complet et test indépendant sur Decapower Poste à Souder LITEARC-120 Portable MMA LIFT-TIG 120A. Découvrez ses performances réelles et points forts."
 ---
 

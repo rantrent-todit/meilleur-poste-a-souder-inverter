@@ -62,7 +62,7 @@ export async function getStaticPaths() {
 const { categoryName, products = [], content, slug } = Astro.props;
 const Content = content ? (await render(content)).Content : null;
 
-// SEO Title (pour la balise <title> SERP, sans aucun branding)
+// SEO Title (pour la balise <title> SERP, sans aucun branding parasite)
 let seoTitle = content?.data.titre_seo || `Meilleurs modèles ${categoryName} : Guide et Comparatif`;
 seoTitle = seoTitle.replace(/\s*\|\s*.*$/i, '').replace(/\b202[0-9]\b/g, '').replace(/\s+/g, ' ').trim();
 if (!seoTitle.toLowerCase().startsWith('meilleur')) {
@@ -70,15 +70,24 @@ if (!seoTitle.toLowerCase().startsWith('meilleur')) {
 }
 if (seoTitle.length > 90) seoTitle = seoTitle.slice(0, 87) + '...';
 
-// H1 Lisible, percutant et sans marque parasite
+// H1 Lisible, percutant et sans branding
 const pageHeading = content?.data.titre_h1 || (categoryName.toLowerCase().startsWith('meilleur') 
   ? categoryName 
   : `Comparatif : ${categoryName}`);
 
 let seoDescription = content?.data.description_seo || `Découvrez notre comparatif complet et sélection pour ${categoryName}. Analyse technique, tests et conseils d'experts.`;
 seoDescription = seoDescription.replace(/\b202[0-9]\b/g, '').replace(/\s+/g, ' ').trim();
-if (seoDescription.length < 90) seoDescription = `${seoDescription} Consultez notre guide d'achat complet pour bien choisir votre matériel.`;
-if (seoDescription.length > 200) seoDescription = seoDescription.slice(0, 197) + '...';
+if (seoDescription.length < 80) {
+  const supplement = ` Guide d'achat complet.`;
+  if ((seoDescription + supplement).length <= 150) {
+    seoDescription += supplement;
+  }
+}
+if (seoDescription.length > 165) {
+  const truncated = seoDescription.slice(0, 160);
+  const lastSpace = truncated.lastIndexOf(' ');
+  seoDescription = (lastSpace > 120 ? truncated.slice(0, lastSpace) : truncated) + '...';
+}
 
 const breadcrumbs = [
   { name: "Accueil", url: "/" },
@@ -92,6 +101,21 @@ const breadcrumbs = [
   description={seoDescription}
   breadcrumbs={breadcrumbs}
 >
+  {content?.data.faq && content.data.faq.length > 0 && (
+    <script type="application/ld+json" is:inline slot="extra-head" set:html={JSON.stringify({
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": content.data.faq.map(item => ({
+        "@type": "Question",
+        "name": item.q,
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": item.r
+        }
+      }))
+    })} />
+  )}
+
   <nav class="flex text-xs text-slate-500 mb-6" aria-label="Breadcrumb">
     <ol class="flex items-center space-x-2">
       <li><a href="/" class="hover:text-orange-600 transition-colors">Accueil</a></li>
@@ -113,7 +137,7 @@ const breadcrumbs = [
       {pageHeading}
     </h1>
     <p class="text-base sm:text-lg text-slate-600 mt-4 leading-relaxed">
-      tests vérifiés comparatifs et guide de sélection pour vous équiper avec le modèle le plus adapté à vos attentes.
+      Tests comparatifs vérifiés et guide de sélection pour vous équiper avec le modèle le plus adapté à vos attentes.
     </p>
   </header>
 
@@ -141,7 +165,7 @@ const breadcrumbs = [
           <h2 class="text-2xl font-black text-slate-900 tracking-tight !my-0 capitalize">
             Tous les modèles retenus en {categoryName}
           </h2>
-          <p class="text-xs text-slate-500 mt-1">Fiches techniques détaillées et avis vérifiés</p>
+          <p class="text-xs text-slate-500 mt-1">Fiches techniques détaillées et avis vérifiés d'experts</p>
         </div>
         <span class="text-xs font-bold text-slate-500 bg-slate-100 px-3 py-1 rounded-full">
           {products.length} référence{products.length > 1 ? 's' : ''}

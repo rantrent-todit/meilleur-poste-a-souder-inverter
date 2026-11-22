@@ -1,11 +1,12 @@
 ---
 titre: "FEIFANKE Mini 140A - Poste à Souder MMA Inverter"
+titre_h1: "Avis FEIFANKE Mini 140A - Poste à Souder MMA Inverter"
 description_courte: "test vérifié complet du poste à souder ultra-compact FEIFANKE 140A : technologie IGBT, amorçage Lift TIG, écran LED et test d'endurance sur électrodes."
 description_longue: "Analyse technique et retour d'expérience indépendant sur le mini poste inverter FEIFANKE 140A. Découvrez son comportement à l'arc, sa gestion thermique et sa compacité record."
 categories: ["postes-inverter-ultra-portables","postes-inverter-130a-160a","postes-mma-inverter"]
 image_url: "https://m.media-amazon.com/images/I/71FkFjF8VdL._AC_UL960_FMwebp_QL65_.jpg"
 lien_affiliation: "https://www.amazon.fr/dp/B0D2R86W4B/?tag=amazonwp0b-21"
-meta_title: "FEIFANKE Mini 140A - Poste à Souder MMA Inverter : Test et Avis Vérifié"
+meta_title: "Avis FEIFANKE Mini 140A - Poste à Souder MMA Inverter"
 meta_description: "Avis complet et test indépendant sur FEIFANKE 140A Ultra Mini Poste A Souder Arc Inverter Poste à Souder. Découvrez ses performances réelles et points forts."
 ---
 

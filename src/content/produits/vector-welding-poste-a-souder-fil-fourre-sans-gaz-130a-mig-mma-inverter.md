@@ -1,11 +1,12 @@
 ---
 titre: "VECTOR WELDING 130A – Poste à souder sans gaz & MMA"
+titre_h1: "Avis VECTOR WELDING 130A – Poste à souder sans gaz & MMA"
 description_courte: "test vérifié complet du poste à souder VECTOR WELDING 130A. Analyse technique du procédé sans gaz no-gas flux et MMA, mesures réelles et avis d'expert."
 description_longue: "Analyse exhaustive du poste à souder compact VECTOR WELDING 130A combinant fil fourré no-gas et soudage à l'électrode enrobée MMA. Découvrez notre test vérifié complet évaluant la technologie onduleur IGBT, la stabilité de l'arc, l'ergonomie de l'afficheur numérique et les capacités réelles d'assemblage sur tôles fines et moyennes pour l'atelier domestique."
 categories: ["postes-fil-fourre-sans-gaz","postes-inverter-130a-160a","postes-mma-inverter"]
 image_url: "https://m.media-amazon.com/images/I/71FguaDntkL._AC_UL960_FMwebp_QL65_.jpg"
 lien_affiliation: "https://www.amazon.fr/dp/B0CCXQ932C/?tag=amazonwp0b-21"
-meta_title: "VECTOR WELDING 130A – Poste à souder sans gaz & MMA : Test et Avis Vérifié"
+meta_title: "Avis VECTOR WELDING 130A – Poste à souder sans gaz & MMA"
 meta_description: "Avis complet et test indépendant sur VECTOR WELDING Poste à Souder Fil Fourré sans Gaz 130A, MIG MMA Inverter. Découvrez ses performances réelles et points forts."
 ---
 

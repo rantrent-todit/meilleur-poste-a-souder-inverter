@@ -1,12 +1,13 @@
 ---
 titre: "IPOTOOLS FLUX-135 – Poste à souder sans gaz 135A IGBT"
+titre_h1: "Avis IPOTOOLS FLUX-135 – Poste à souder sans gaz 135A IGBT"
 description_courte: "test vérifié complet du poste à souder inverter IPOTOOLS FLUX-135. Performances en fil fourré sans gaz, MMA, technologie IGBT et garantie 7 ans analysées."
 description_longue: "Découvrez notre évaluation technique approfondie du poste à souder sans gaz IPOTOOLS FLUX-135. Conçu pour le soudage au fil fourré no-gas et à l'électrode enrobée, cet appareil compact à technologie inverter IGBT délivre 135 ampères avec une alimentation monophasée 230V standard. Retrouvez nos mesures d'arc, nos tests sur différentes épaisseurs d'acier et notre avis d'expert sur sa fiabilité."
 categories: ["postes-fil-fourre-sans-gaz","postes-inverter-130a-160a","postes-mma-inverter"]
 image_url: "https://m.media-amazon.com/images/I/81nP-ydeZnL._AC_UL960_FMwebp_QL65_.jpg"
 lien_affiliation: "https://www.amazon.fr/dp/B0CND86LL5/?tag=amazonwp0b-21"
-meta_title: "IPOTOOLS FLUX-135 – Poste à souder sans gaz 135A IGBT : Test et Avis Vérifié"
-meta_description: "Avis complet et test indépendant sur IPOTOOLS FLUX-135 Poste à souder fil fourré sans gaz - 135 A FLUX Poste à souder inverter sans gaz pour poste à souder fil fourré 0.8mm ou 1.0mm avec MMA/IGBT / 230V / 7 ans de garantie. Découvrez ses performances réelles et points forts."
+meta_title: "Avis IPOTOOLS FLUX-135 – Poste à souder sans gaz 135A IGBT"
+meta_description: "Avis complet et test indépendant sur IPOTOOLS FLUX-135 Poste à souder fil fourré sans gaz - 135 A FLUX Poste à souder inverter sans gaz pour poste à..."
 ---
 
 ## Introduction et positionnement

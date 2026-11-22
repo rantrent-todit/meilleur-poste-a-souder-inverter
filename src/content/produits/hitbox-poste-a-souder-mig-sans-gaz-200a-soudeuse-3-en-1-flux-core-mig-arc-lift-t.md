@@ -1,12 +1,13 @@
 ---
 titre: "HITBOX HBM1200 - Poste MIG Sans Gaz 200A 3-en-1"
+titre_h1: "Avis HITBOX HBM1200 - Poste MIG Sans Gaz 200A 3-en-1"
 description_courte: "test vérifié complet du poste à souder HITBOX HBM1200 : une solution 3-en-1 Inverter IGBT compacte, économique et accessible pour le soudage sans gaz."
 description_longue: "Découvrez notre test complet du poste à souder multiprocédé HITBOX HBM1200. Conçu pour le fil fourré sans gaz, l'électrode enrobée MMA et le Lift TIG, cet appareil Inverter IGBT monophasé 230V offre une polyvalence remarquable pour les réparations domestiques, la métallerie légère et les travaux d'initiation."
 categories: ["postes-inverter-200a-plus","postes-fil-fourre-sans-gaz","postes-multi-procedes-synergiques"]
 image_url: "https://m.media-amazon.com/images/I/71TASPEamPL._AC_UL960_FMwebp_QL65_.jpg"
 lien_affiliation: "https://www.amazon.fr/dp/B09MZ2PR3L/?tag=amazonwp0b-21"
-meta_title: "HITBOX HBM1200 - Poste MIG Sans Gaz 200A 3-en-1 : Test et Avis Vérifié"
-meta_description: "Avis complet et test indépendant sur HITBOX Poste à Souder MIG Sans Gaz 200A, Soudeuse 3-en-1 Flux Core MIG/ARC/Lift TIG, Machine de Soudage Inverter IGBT 230V Portable avec Torche & Fil 0,8 mm, Idéal Débutants (HBM1200). Découvrez ses performances réelles et points forts."
+meta_title: "Avis HITBOX HBM1200 - Poste MIG Sans Gaz 200A 3-en-1"
+meta_description: "Avis complet et test indépendant sur HITBOX Poste à Souder MIG Sans Gaz 200A, Soudeuse 3-en-1 Flux Core MIG/ARC/Lift TIG, Machine de Soudage Inverter..."
 ---
 
 ## Introduction et positionnement
